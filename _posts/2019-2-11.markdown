@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Moved to China"
+date:   2019-02-11 14:12:14 +0800
+categories: publication update
+---
+
+I joined Prof Masao Doi's group. We plan to tackle soft matter physics problems.
