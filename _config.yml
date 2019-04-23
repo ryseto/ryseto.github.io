@@ -16,9 +16,7 @@
 title: Ryohei Seto's web site
 email: setoryohei@me.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+I am working on soft-matter physics, complex fluid mechanics, and rheology as a researcher with Prof Masao Doi at Beihang University in Beijing. I have tackled various problems including shear thickening of dense suspensions and non-equilibrium dynamics in various colloidal systems.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ryseto.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ryseto
