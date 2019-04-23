@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Ryohei Seto's web site
 email: setoryohei@me.com
-description: >- # this means to ignore newlines until "baseurl:"
+# address: 19th floor, Baiyan Building No. 238, Middle Road Of North Fourth Ring Road, 100191
+description: >- 
   I am working on soft-matter physics, complex fluid mechanics, and rheology
   as a researcher with Prof Masao Doi at Beihang University in Beijing.
   I have tackled various problems including shear thickening of dense suspensions
