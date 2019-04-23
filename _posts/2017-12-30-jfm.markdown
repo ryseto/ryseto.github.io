@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "My talk at KITP program Physics of dense suspensions"
+title:  "Extensional flow simulation paper on JFM"
 date:   2018-02-27 20:12:14 +0800
 categories: publication update
 ---
 
-http://online.kitp.ucsb.edu/online/suspensions18/seto/
+Our paper for extensional flow simulations is featured in Focus on Fluids by Prof. Helen Wilson: ‘Shear thickening’ in non-shear flows: the effect of microstructure
+
+The cover image of Journal of Fluid Mechanics is from our work!
