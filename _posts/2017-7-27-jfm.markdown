@@ -9,6 +9,6 @@ Our paper for extensional flow simulations is featured in Focus on Fluids by Pro
 
 The cover image of Journal of Fluid Mechanics is from our work!
 
-![Cover image for Journal of Fluid Mechanics](/img/JFM_cover_2017.jpg)
+![Cover image for Journal of Fluid Mechanics](/assets/img/JFM_cover_2017.jpg)
 
-![Planar extensional flow](/img/KRdemo.gif)
+![Planar extensional flow](/assets/img/KRdemo.gif)
