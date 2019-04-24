@@ -4,6 +4,9 @@ title: publifications
 permalink: /publifications/
 ---
 
+[Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
+
+
 - R. Seto, A. Singh, B. Chakraborty, M. M. Denn, J. F. Morris, Shear jamming and fragility in dense suspensions, under review
 
 - R. Seto and G. G. Giusteri. Normal stress differences in dense suspensions. J. Fluid Mech., 857:200–215, 2018.
