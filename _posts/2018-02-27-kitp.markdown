@@ -5,4 +5,8 @@ date:   2018-02-27 20:12:14 +0800
 categories: publication update
 ---
 
-http://online.kitp.ucsb.edu/online/suspensions18/seto/
+[My talk at KITP](http://online.kitp.ucsb.edu/online/suspensions18/seto/)
+
+![kitp](/assets/img/kitp.jpg)
+
+
