@@ -8,3 +8,7 @@ categories: publication update
 Our paper for extensional flow simulations is featured in Focus on Fluids by Prof. Helen Wilson: ‘Shear thickening’ in non-shear flows: the effect of microstructure
 
 The cover image of Journal of Fluid Mechanics is from our work!
+
+![Cover image for Journal of Fluid Mechanics](../images/JFM_cover_2017.jpg)
+
+![Planar extensional flow](../images/KRdemo.gif)
