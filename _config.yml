@@ -22,6 +22,8 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ryseto.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
+# https://scholar.google.co.jp/citations?user=0V-BankAAAAJ
+
 # Build settings
 markdown: kramdown
 theme: minima
