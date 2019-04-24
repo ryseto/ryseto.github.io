@@ -5,11 +5,13 @@ permalink: /profile/
 ---
 ![R.Seto](../images/seto.jpeg)
 
-address
+
+*address*
 19th floor, Baiyan Building
 No. 238, Middle Road Of North Fourth Ring Road, 100191
 Haidian District, Beijing
 
+*work*
 - 2019-     Researcher, Center of Soft Matter Physics and its Applications, Beihang University
 - 2018-2018 Program-Specific Researcher, Transport Phenomena Group, Department of Chemical Engineering, Kyoto University, Kyoto, Japan
 - 2015–2018 Group Leader, Okinawa Institute of Science and Technology Graduate University,
