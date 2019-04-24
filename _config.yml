@@ -18,8 +18,7 @@ email: setoryohei@me.com
 # address: 19th floor, Baiyan Building No. 238, Middle Road Of North Fourth Ring Road, 100191
 description: >- 
   I am a researcher working on soft-matter physics, complex fluid mechanics, and rheology with Prof Masao Doi at Beihang University in Beijing.
-  I have tackled various problems including shear thickening of dense suspensions
-  and non-equilibrium dynamics in various colloidal systems.
+  I'm interested in non-equilibrium dissipative dynamics in soft-matter systems.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ryseto.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
