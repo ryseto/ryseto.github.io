@@ -3,6 +3,7 @@ layout: page
 title: profile
 permalink: /profile/
 ---
+![R.Seto](../images/seto.jpeg)
 
 address
 19th floor, Baiyan Building
