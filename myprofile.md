@@ -5,13 +5,20 @@ permalink: /profile/
 ---
 ![R.Seto](/assets/img/seto.jpeg)
 
+- [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
+- [Scientific American](https://www.scientificamerican.com/article/friction-makes-cornstarch-and-water-into-bizarre-oobleck/)
+- [Physics World](http://physicsworld.com/cws/article/news/2013/nov/25/model-explains-why-liquid-suspensions-suddenly-turn-solid)
+- [2015 Society of Rheology Publication Award](http://www-levich.engr.ccny.cuny.edu/sor2015.htm)
+- [Web of Science ResearcherID](http://www.researcherid.com/rid/E-3275-2014)
+- [ORCID logo](http://orcid.org/0000-0002-4099-034X)
 
-*address*
+
+### address
 19th floor, Baiyan Building
 No. 238, Middle Road Of North Fourth Ring Road, 100191
 Haidian District, Beijing
 
-*work*
+### work
 - 2019-     Researcher, Center of Soft Matter Physics and its Applications, Beihang University
 - 2018-2018 Program-Specific Researcher, Transport Phenomena Group, Department of Chemical Engineering, Kyoto University, Kyoto, Japan
 - 2015–2018 Group Leader, Okinawa Institute of Science and Technology Graduate University,
@@ -23,3 +30,10 @@ Onna, Japan
 - 2006-2006 Postdoctoral Researcher, Laboratoire de Physique des Solides, Université Paris-Sud 11,
 Orsay, France
 
+### marathon
+- Kanazawa Marathon			**3:39:11**		(2017.10.29)
+- Naha Marathon				4:00:45		(2016.12.4)
+- Okinawa Marathon			3:43:12		(2016.2.21)
+- Ishigaki-island Marathon		4:08:41		(2016.1.24)
+- New York City Marathon		3:45:50		(2014.11.2)
+- Mainz Marathon			3:52:22		(2012.5.6)
