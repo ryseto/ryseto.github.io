@@ -3,7 +3,7 @@ layout: page
 title: profile
 permalink: /profile/
 ---
-![R.Seto](../images/seto.jpeg)
+![R.Seto](/assets/img/seto.jpeg)
 
 
 *address*
