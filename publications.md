@@ -8,7 +8,6 @@ permalink: /publifications/
 
 -[K. Nagasawa, T. Suzuki, R. Seto, M. Okada, and Y. Yue. Mixing sauces: A viscosity blending model for shear thinning fluids. ACM Trans. Graph., 38(4):95:1–17, July 2019](http://mns.k.u-tokyo.ac.jp/~yonghao/sig19/abstsig19.html) *SIGGRAPH2019*
 
-
 - [R. Seto, A. Singh, B. Chakraborty, M. M. Denn, J. F. Morris, Shear jamming and fragility in dense suspensions, under review](https://arxiv.org/abs/1902.04361)
 
 - R. Seto and G. G. Giusteri. Normal stress differences in dense suspensions. J. Fluid Mech., 857:200–215, 2018.
