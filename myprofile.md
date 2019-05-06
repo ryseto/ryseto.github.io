@@ -24,8 +24,10 @@ Onna, Japan
 - 2012-2012 Postdoctoral Researcher, Max Plank Institute for Polymer Research, Mainz, Germany.  
 - 2009–2011 Postdoctoral Researcher, Technical University of Munich, Freising, Germany
 - 2008-2009 Postdoctoral Researcher, Laboratoire de Genie Chimique, Université Paul Sabatier, Toulouse, France
-- 2006-2006 Postdoctoral Researcher, Laboratoire de Physique des Solides, Université Paris-Sud 11,
+- 2006-2008 Postdoctoral Researcher, Laboratoire de Physique des Solides, Université Paris-Sud 11,
 Orsay, France
+- 2006      Dr. of Science in Physics  Ritsumeikan University, Japan (Prof. Hiroshi Kuratsuji)
+
 
 ### Marathon
 - Kanazawa Marathon			**3:39:11**		(2017.10.29)
