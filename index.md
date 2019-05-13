@@ -6,7 +6,7 @@ layout: home
 *[Masao Doi](http://mdoi.jp/index_E.html)'s group / [Center of Soft Matter Physics and its Applications](http://onsager.buaa.edu.cn) / [Beihang University](https://www.buaa.edu.cn)*
 
 - [profile](/profile/)
-- [publications](/publifications/)
+- [publications](/publications/)
 - [research](/research/)
 
 ![sedimentation](/assets/img/sedimentation.jpg)
