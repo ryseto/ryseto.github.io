@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Visiting researcher in Prof. Masubuchi group at Nagoya University"
+date: 2019-05-13 12:00:00 +0800
+categories: publication update
+---
+
+I will work in [Masubuchi-san's group](http://rheology.jp/nagoya/) for next 2 months as a visiting researcher.
+

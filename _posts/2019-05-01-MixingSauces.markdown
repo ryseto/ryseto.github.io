@@ -9,8 +9,3 @@ Our work on [Mixing Sauces](http://mns.k.u-tokyo.ac.jp/~yonghao/sig19/abstsig19.
 
 
 ![Mixing sauces](/assets/img/mixing_sauces.jpg)
-
-
-
-
-
