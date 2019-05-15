@@ -5,5 +5,5 @@ date: 2019-05-13 12:00:00 +0800
 categories: publication update
 ---
 
-I will work as a visiting researcher in [Masubuchi-san's group](http://rheology.jp/nagoya/) for next 2 months.
+I will work as a visiting researcher in [Prof Masubuchi's group](http://rheology.jp/nagoya/) for next 2 months.
 
