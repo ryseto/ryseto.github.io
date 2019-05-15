@@ -3,8 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-*[Masao Doi](http://mdoi.jp/index_E.html)'s group / [Center of Soft Matter Physics and its Applications](http://onsager.buaa.edu.cn) / [Beihang University](https://www.buaa.edu.cn)*
-* Visiting researcher in [Prof Masubuchi's group](http://rheology.jp/nagoya/)
+[Masao Doi](http://mdoi.jp/index_E.html)'s group / [Center of Soft Matter Physics and its Applications](http://onsager.buaa.edu.cn) / [Beihang University](https://www.buaa.edu.cn)
+
+Visiting researcher in [Prof Masubuchi's group](http://rheology.jp/nagoya/) (May 13, 2019 -- July 12, 2019)
 
 - [profile](/profile/)
 - [publications](/publications/)
