@@ -4,6 +4,7 @@
 layout: home
 ---
 *[Masao Doi](http://mdoi.jp/index_E.html)'s group / [Center of Soft Matter Physics and its Applications](http://onsager.buaa.edu.cn) / [Beihang University](https://www.buaa.edu.cn)*
+* Visiting researcher in [Prof Masubuchi's group](http://rheology.jp/nagoya/)
 
 - [profile](/profile/)
 - [publications](/publications/)
