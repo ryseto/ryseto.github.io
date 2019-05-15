@@ -138,7 +138,6 @@ Fukuoka, Japan, October 2018 % October 19
 Annual meeting of The Physical Society of Japan, Doshisha University, 
 Tanabe, Japan, September 2018.
 
-
 - ``Macroscopic flows of dense suspensions in wide-gap Couette cells---Migration and Shear Thickening'', The 7th Pacific Rim Conference on Rheology, 
 Jefu, Korea, June 2018 % June 12
 
@@ -162,15 +161,13 @@ Niigata, Japan, October 2017
 - ``Non-Newtonian fluid behavior of dense suspensions in simple shear and extensional flows'',
  The Society of Rheology 89th Annual Meeting, Denver, USA, October 2017
 
--
-``Shear thickening and jamming transition under extensional flows'', Annual meeting of The Physical Society of Japan, Iwate University, Morioka, Japan, September 2016.
+- ``Shear thickening and jamming transition under extensional flows'', Annual meeting of The Physical Society of Japan, Iwate University, Morioka, Japan, September 2016.
 
--
-``Simulation model for dense suspension rheology: Stokesian-DEM'', Mini-symposium on Rheology, Kashiwa, Japan, July 2017.
+- ``Simulation model for dense suspension rheology: Stokesian-DEM'', Mini-symposium on Rheology, Kashiwa, Japan, July 2017.
 
 - ``Particle dynamics of crystallization of magnetic colloids'', Annual meeting of The Physical Society of Japan, Kanazawa University, Kanazawa, Japan, September 2016.
 
- - ``Grain boundary kinetics during crystallization in magnetic colloid monolayers'', 
+- ``Grain boundary kinetics during crystallization in magnetic colloid monolayers'', 
 New Aspects of Micro- and Macroscopic Flows in Soft Matters, Onna, 
 Japan, August 2016.
 
