@@ -7,6 +7,9 @@ layout: home
 
 Visiting researcher in [Prof Masubuchi's group](http://rheology.jp/nagoya/) (May 13, 2019 -- July 12, 2019)
 
+瀬戸亮平
+
+
 - [profile](/profile/)
 - [publications](/publications/)
 - [research](/research/)

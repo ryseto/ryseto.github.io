@@ -5,6 +5,8 @@ permalink: /profile/
 ---
 ![R.Seto](/assets/img/seto.jpeg)
 
+Ryohei Seto, 瀬戸亮平
+
 - [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
 - [Scientific American](https://www.scientificamerican.com/article/friction-makes-cornstarch-and-water-into-bizarre-oobleck/)
 - [Physics World](http://physicsworld.com/cws/article/news/2013/nov/25/model-explains-why-liquid-suspensions-suddenly-turn-solid)
@@ -16,7 +18,8 @@ No. 238, Middle Road Of North Fourth Ring Road, 100191
 Haidian District, Beijing
 
 ### Work
-- 2019-     Researcher, Center of Soft Matter Physics and its Applications, Beihang University
+- 2019-     Visiting Researcher, Research Group for Rheology Physics, Nagoya University
+- 2019-     Visiting Researcher, Center of Soft Matter Physics and its Applications, Beihang University
 - 2018-2018 Program-Specific Researcher, Transport Phenomena Group, Department of Chemical Engineering, Kyoto University, Kyoto, Japan
 - 2015–2018 Group Leader, Okinawa Institute of Science and Technology Graduate University,
 Onna, Japan
