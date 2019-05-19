@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Visiting researcher in Prof. Masubuchi group at Nagoya University"
+title: "Visiting Prof. Masubuchi group at Nagoya University"
 date: 2019-05-13 12:00:00 +0800
 categories: publication update
 ---
 
-I will work as a visiting researcher in [Prof Masubuchi's group](http://rheology.jp/nagoya/) for next 2 months.
+I will work in [Prof Masubuchi's group](http://rheology.jp/nagoya/) at Nagoya University for next 2 months.
 
+![Nagoya](/assets/img/nagoya.jpg)
