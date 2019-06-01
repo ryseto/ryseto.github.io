@@ -8,4 +8,4 @@ categories: publication update
 I joined the IUTAM Symposium on Dynamics of Complex Fluids and Interfaces in Kanpur, India.
 My talk is available [online](https://youtu.be/bi6Wd4usYTQ).
 
-![Kanpur](/assets/img/Kanpur.jpeg)
+![Kanpur](/assets/img/Kanpur.jpg)
