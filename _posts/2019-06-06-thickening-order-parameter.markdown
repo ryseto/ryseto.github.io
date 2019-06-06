@@ -10,5 +10,7 @@ categories: publication update
 [arXiv:1906.02103](https://arxiv.org/abs/1906.02103)
 
 
+![bi-q-model](/assets/img/biq.png)
+
 
 
