@@ -5,7 +5,7 @@ date: 2019-06-06 12:00:00 +0800
 categories: publication update
 ---
 
-[Romain](http://rmari.github.io) and I uploaded a manuscript [arXiv:1906.02103](https://arxiv.org/abs/1906.02103), discussing about shear-thickening order parameter with a force transmission model adapted to shear thickening transitions.
+[Romain](http://rmari.github.io) and I uploaded a manuscript [arXiv:1906.02103](https://arxiv.org/abs/1906.02103), discussing shear-thickening order parameters with a force transmission model adapted to shear thickening transitions.
 
 ![bi-q-model](/assets/img/biq.png)
 
