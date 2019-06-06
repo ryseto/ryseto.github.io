@@ -2,7 +2,7 @@
 layout: post
 title: "Visiting Prof. Masubuchi group at Nagoya University"
 date: 2019-05-13 12:00:00 +0800
-categories: publication update
+categories: visiting
 ---
 
 I will work in [Prof Masubuchi's group](http://rheology.jp/nagoya/) at Nagoya University for next 2 months (May 13 -- July 12, 2019)
