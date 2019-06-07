@@ -9,7 +9,7 @@ layout: home
 
 Visiting researcher in [Prof Masubuchi's group](http://rheology.jp/nagoya/) (May 13, 2019 -- July 12, 2019)
 
-![bi-q-model](/assets/img/biq.jpg)
+[![bi-q-model](/assets/img/biq.jpg)]({% link _posts/2019-06-06-thickening-order-parameter.markdown %})
 
 - [profile](/profile/)
 - [publications](/publications/)
