@@ -10,9 +10,9 @@ permalink: /publications/
 
 - [R. Mari and R. Seto, Force transmission and the order parameter of shear thickening, arXiv:1906.02103](https://arxiv.org/abs/1906.02103)
 
-- [K. Nagasawa, T. Suzuki, R. Seto, M. Okada, and Y. Yue. Mixing sauces: A viscosity blending model for shear thinning fluids. ACM Trans. Graph., 38(4):95:1–17, July 2019](http://mns.k.u-tokyo.ac.jp/~yonghao/sig19/abstsig19.html) *SIGGRAPH2019*
-
 - [R. Seto, A. Singh, B. Chakraborty, M. M. Denn, and J. F. Morris, Shear jamming and fragility in dense suspensions, under review](https://arxiv.org/abs/1902.04361)
+
+- [K. Nagasawa, T. Suzuki, R. Seto, M. Okada, and Y. Yue. Mixing sauces: A viscosity blending model for shear thinning fluids. ACM Trans. Graph., 38(4):95:1–17, July 2019](http://mns.k.u-tokyo.ac.jp/~yonghao/sig19/abstsig19.html) *SIGGRAPH2019*
 
 - [R. Seto and G. G. Giusteri. Normal stress differences in dense suspensions. J. Fluid Mech., 857:200–215, 2018.](https://doi.org/10.1017/jfm.2018.743)
 
@@ -37,7 +37,7 @@ permalink: /publications/
 
 - [E. Schlauch, M. Ernst, R. Seto, H. Briesen, M. Sommerfeld, and M. Behr. Comparison of three simulation methods for colloidal aggregates in stokes flow: Finite Elements, Lattice Boltzmann and Stokesian Dynamics. Computers & Fluids, 86:199–209, 2013.](http://www.sciencedirect.com/science/article/pii/S0045793013002764)
 
-- [J. Wenzl, R. Seto, M. Roth, H.-J. Butt, G. K. Auernhammer, Measurement of rotation of cohesive spherical granulates, Granul. Matter, 15(4):391–400, 2013.](http://link.springer.com/article/10.1007/s10035-012-0383-7)
+- [J. Wenzl, R. Seto, M. Roth, H.-J. Butt, and G. K. Auernhammer, Measurement of rotation of cohesive spherical granulates, Granul. Matter, 15(4):391–400, 2013.](http://link.springer.com/article/10.1007/s10035-012-0383-7)
 
 - [R. Seto, R. Botet, G. K. Auernhammer, and H. Briesen, Restructuring of colloidal aggregates in shear flow: Coupling interparticle contact models with Stokesian Dynamics, Eur. Phys. J. E, 35: 128, 2012.](http://dx.doi.org/10.1140/epje/i2012-12128-4)
 
