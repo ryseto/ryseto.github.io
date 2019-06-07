@@ -9,5 +9,3 @@ categories: publication update
 
 ![bi-q-model](/assets/img/biq.jpg)
 
-
-
