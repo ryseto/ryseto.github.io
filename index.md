@@ -9,9 +9,9 @@ layout: home
 
 Visiting researcher in [Prof Masubuchi's group](http://rheology.jp/nagoya/) (May 13, 2019 -- July 12, 2019)
 
+![bi-q-model](/assets/img/biq.jpg)
+
 - [profile](/profile/)
 - [publications](/publications/)
 - [research](/research/)
 - [talks](/talks/)
-
-![sedimentation](/assets/img/sedimentation.jpg)
