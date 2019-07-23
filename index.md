@@ -5,9 +5,9 @@ layout: home
 ---
 瀬戸亮平 -- ソフトマター物理とレオロジー
 
-[Masao Doi](http://mdoi.jp/index_E.html)'s group / [Center of Soft Matter Physics and its Applications](http://onsager.buaa.edu.cn) / [Beihang University](https://www.buaa.edu.cn)
-
-Visiting researcher in [Prof Masubuchi's group](http://rheology.jp/nagoya/) (May 13, 2019 -- July 12, 2019)
+- [Department of Earth and Space Science, Osaka University](http://thmat8.ess.sci.osaka-u.ac.jp) (July 2019 -- Sept 2019)
+- Visiting researcher in [Center of Soft Matter Physics at Beihang University](http://onsager.buaa.edu.cn)   (Feb 2019 -- May 2019)
+- Visiting researcher in [Prof Masubuchi's group at Nagoya University](http://rheology.jp/nagoya/) (May 2019 -- July 2019)
 
 [![bi-q-model](/assets/img/biq.jpg)]({% link _posts/2019-06-06-thickening-order-parameter.markdown %})
 
