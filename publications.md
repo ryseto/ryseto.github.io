@@ -49,7 +49,7 @@ permalink: /publications/
 
 - [T. Hyouguchi, R. Seto, and S. Adachi, Overlooked branch cut in steepest descent method — Switching line and atomic domain, Prog. of Theor. Phys., 122, 1311–1346, 2009.](http://ptp.oxfordjournals.org/content/122/6/1311)
 
-- [R. Botet, B. Cabane, M. Clifton, M. Meireles, and R. Seto, How a Colloidal Paste Flows — Scaling Behaviors in Dispersions of Aggregated Particles under Mechanical Stress—, 5th International Workshop on Complex Systems, AIP Conf. Proc. 982, 320–325, 2008.](http://oatao.univ-toulouse.fr/1418/)
+- [R. Botet, B. Cabane, M. Clifton, M. Meireles, and R. Seto, How a Colloidal Paste Flows — Scaling Behaviors in Dispersions of Aggregated Particles under Mechanical Stress—, 5th International Workshop on Complex Systems, AIP Conf. Proc. 982, 320–325, 2008.](https://dx.doi.org/10.1063/1.2897806)
 
 - [H. Kuratsuji, R. Botet, and R. Seto, Electromagnetic Gyration: Hamiltonian Dynamics of the Stokes Parameters, Prog. Theor. Phys, 117, 195, 2007](http://ptp.oxfordjournals.org/content/117/2/195)
 
