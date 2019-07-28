@@ -8,32 +8,30 @@ permalink: /talks/
 
 1. [Invited "Emergence of rigidity in suspension fluid mechanics," CoMFoS19:Mathematical Aspects of Continuum Mechanics, Kanazawa, Japan, July 2019](https://sites.google.com/view/comfos19/)
 
-1. Invited "Solids in a fluid--- material properties and fluid mechanics," the Young Scientists Symposium of the South Bay Interdisciplinary Science Center, Dongguan, China, May 2019
-
-1. Invited "Shear jamming and rheology of dense suspensions," IUTAM Symposium on Dynamics of Complex Fluids and Interfaces, IIT Kanpur, India, December 2018
+1. [Invited "Shear jamming and rheology of dense suspensions," IUTAM Symposium on Dynamics of Complex Fluids and Interfaces, IIT Kanpur, India, December 2018]http://www.iitk.ac.in/iutam/speaker.html)
 
 1. Invited "Simulation method of dense suspensions—Overdamped discrete element method with hydrodynamic lubrication," 2018 International Symposium on Multiple Scale Modelling of Complex Fluids---Fundamental Challenge and Industrial Applications Guangzhou University, Guangzhou, China, September 2018
 
 1. Invited "Shear Thickening suspensions in a wide gap Couette cell," 2018 International Symposium on Multiple Scale Modelling of Complex Fluids---Fundamental Challenge and Industrial Applications Guangzhou University, Guangzhou, China, September 2018
 
-1. Invited: "Anisotropy of sheared dense suspensions: normal stress differences and microstructure," Rheology of disordered particles—suspensions, glassy and granular materials, Kyoto University, Japan, June 2018
+1. [Invited: "Anisotropy of sheared dense suspensions: normal stress differences and microstructure," Rheology of disordered particles—suspensions, glassy and granular materials, Kyoto University, Japan, June 2018](https://www2.yukawa.kyoto-u.ac.jp/~jam2018/)
 
-1. Invited "Extensional and shear flow material functions of dense suspensions---microstructure, particle pressure, and N1,"
-KITP Program: Physics of Dense Suspensions, University of California, Santa Barbara, February 2018
+1. [Invited "Extensional and shear flow material functions of dense suspensions---microstructure, particle pressure, and N1," KITP Program: Physics of Dense Suspensions, University of California, Santa Barbara, February 2018](http://online.kitp.ucsb.edu/online/suspensions18/seto/)
 
-1. Invited "Constitutive characterization of concentrated particle suspensions," IUTAM/AMERIMECH SYMPOSIUM Computational Mechanics of Particle-Functionalized Fluid and Solid Materials for Additive Manufacturing and 3D Printing Processes, UC Berkeley, May 2017
+1. [Invited "Constitutive characterization of concentrated particle suspensions," IUTAM/AMERIMECH SYMPOSIUM Computational Mechanics of Particle-Functionalized Fluid and Solid Materials for Additive Manufacturing and 3D Printing Processes, UC Berkeley, May 2017](http://iutam-amerimech-manufacturing-symposium.berkeley.edu)
 
-1. Invited "Thickening in extensional flow–Toward non-Newtonian fluid model for dense suspensions," Kyoto, March 2017
+1. [Invited "Thickening in extensional flow–Toward non-Newtonian fluid model for dense suspensions," Non-Gaussian fluctuation and Rheology of Jammed Matter, Kyoto, March 2017](https://www2.yukawa.kyoto-u.ac.jp/~jam/index.php)
 
-1. Invited "Grain boundary of magnetic colloid monolayers," Dynamics of structure formation and heterogeneous deformation of particle systems, Kanazawa, January 2017
+1. [Invited "Grain boundary of magnetic colloid monolayers," Dynamics of structure formation and heterogeneous deformation of particle systems, Kanazawa, January 2017](http://www.jsms.jp/kaikoku/hokuriku290123.htm)
 
-1. Invited "Shear thickening and extension thickening of dense suspensions," A3 Soft Matter Workshop, Tohoku University, Sendai, January 2017 
+1. [Invited "Shear thickening and extension thickening of dense suspensions," A3 Soft Matter Workshop, Tohoku University, Sendai, January 2017](https://www.tfc.tohoku.ac.jp/other-activity/7016.html)
 
-1. Invited "Nonuniform flow of shear thickening suspensions in widegap rotary Couette geometry," CoMFoS16: Mathematical Analysis of Continuum Mechanics and Industrial Applications II, Fukuoka, October 2016
+1. [Invited "Nonuniform flow of shear thickening suspensions in widegap rotary Couette geometry," CoMFoS16: Mathematical Analysis of Continuum Mechanics and Industrial Applications II, Fukuoka, October 2016](https://sites.google.com/site/comfos16/)
 
-1. Keynote "How do Discontinuous Shear Thickening Suspensions Flow in a Wide Gap Couette Cell?," The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016
+1. [Keynote "How do Discontinuous Shear Thickening Suspensions Flow in a Wide Gap Couette Cell?,"
+The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016](http://icr2016.com)
 
-1. Invited "Shear thickening: SD-DEM model for dense suspensions," WCCM – APCOM 2016 Congress, July 2016 
+1. Invited "Shear thickening: SD-DEM model for dense suspensions," WCCM – APCOM 2016 Congress, July 2016
 
 1. Symposium "Flow of shear thickening suspensions," The Physical Society of Japan, Division 11, 6, 12 Symposium, Dynamics of Plastic Solids: Nonlinear response, avalanche, and rheology, Osaka, September 2015
 
