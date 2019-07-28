@@ -9,9 +9,9 @@ layout: home
 - Visiting researcher in [Center of Soft Matter Physics at Beihang University](http://onsager.buaa.edu.cn)   (Feb 2019 -- May 2019)
 - Visiting researcher in [Prof Masubuchi's group at Nagoya University](http://rheology.jp/nagoya/) (May 2019 -- July 2019)
 
+### **News**
+
+[**July 25, 2019: bi-*q*-model paper with Romain Mari Accepted for publication in Soft Matter!!**](https://pubs.rsc.org/en/content/articlelanding/2019/sm/c9sm01223k)
+
 [![bi-q-model](/assets/img/biq.jpg)]({% link _posts/2019-06-06-thickening-order-parameter.markdown %})
 
-- [profile](/profile/)
-- [publications](/publications/)
-- [research](/research/)
-- [talks](/talks/)
