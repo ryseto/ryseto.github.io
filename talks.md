@@ -6,8 +6,9 @@ permalink: /talks/
 
 ### Keynote/Symposium/Invited presentations
 
-1. Invited "Solids in a fluid--- material properties and fluid mechanics," the Young Scientists Symposium of the South Bay Interdisciplinary Science Center, 
-Dongguan, China, May 2019
+1. [Invited "Emergence of rigidity in suspension fluid mechanics," CoMFoS19:Mathematical Aspects of Continuum Mechanics, Kanazawa, Japan, July 2019](https://sites.google.com/view/comfos19/)
+
+1. Invited "Solids in a fluid--- material properties and fluid mechanics," the Young Scientists Symposium of the South Bay Interdisciplinary Science Center, Dongguan, China, May 2019
 
 1. Invited "Shear jamming and rheology of dense suspensions," IUTAM Symposium on Dynamics of Complex Fluids and Interfaces, IIT Kanpur, India, December 2018
 
