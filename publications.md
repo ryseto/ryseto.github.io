@@ -8,8 +8,8 @@ permalink: /publications/
 
 ### Papers
 
-1. [R. Mari and R. Seto, Force transmission and the order parameter of shear thickening, Soft Matter, accepted, 2019](http://dx.doi.org/10.1039/C9SM01223K),  [arXiv:1906.02103](https://arxiv.org/abs/1906.02103)
-1. [R. Seto, A. Singh, B. Chakraborty, M. M. Denn, and J. F. Morris, Shear jamming and fragility in dense suspensions, Granul. Matter, in press, 2019](https://link.springer.com/journal/10035/topicalCollection/AC_6133586b39982072ee4026a0cd55c0e6/page/1), [arXiv:1902.04361](https://arxiv.org/abs/1902.04361) **In Memoriam of Robert P. Behringer**
+1. [R. Mari and R. Seto, Force transmission and the order parameter of shear thickening, Soft Matter, in press, 2019](http://dx.doi.org/10.1039/C9SM01223K),  [arXiv:1906.02103](https://arxiv.org/abs/1906.02103)
+1. [R. Seto, A. Singh, B. Chakraborty, M. M. Denn, and J. F. Morris, Shear jamming and fragility in dense suspensions, Granul. Matter, 21(3):82, 2019](https://link.springer.com/journal/10035/topicalCollection/AC_6133586b39982072ee4026a0cd55c0e6/page/1) **In Memoriam of Robert P. Behringer**
 1. [K. Nagasawa, T. Suzuki, R. Seto, M. Okada, and Y. Yue. Mixing sauces: A viscosity blending model for shear thinning fluids. ACM Trans. Graph., 38(4):95:1–17, July 2019](http://doi.acm.org/10.1145/3306346.3322947) [**SIGGRAPH2019**](https://s2019.siggraph.org/presentation/?sess=sess228&id=papers_163#038;id=papers_163)
 1. [R. Seto and G. G. Giusteri. Normal stress differences in dense suspensions. J. Fluid Mech., 857:200–215, 2018.](https://doi.org/10.1017/jfm.2018.743)
 1. [G. G. Giusteri and R. Seto. A theoretical framework for steady-state rheometry in generic flow conditions. J. Rheol., 62(3):713–723, 2018.](https://doi.org/10.1122/1.4986840)
