@@ -5,11 +5,8 @@ layout: home
 ---
 瀬戸亮平 -- ソフトマター物理とレオロジー
 
-- [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
-- [ResearcherID(publons)](https://publons.com/researcher/2541240/ryohei-seto/)
+- [Google Scholar](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ), [ResearcherID: E-3275-2014](https://publons.com/researcher/2541240/ryohei-seto/)
 - [Department of Earth and Space Science, Osaka University](http://thmat8.ess.sci.osaka-u.ac.jp) (July 2019 -- Sept 2019)
-- Visiting researcher in [Center of Soft Matter Physics at Beihang University](http://onsager.buaa.edu.cn)   (Feb 2019 -- May 2019)
-- Visiting researcher in [Prof Masubuchi's group at Nagoya University](http://rheology.jp/nagoya/) (May 2019 -- July 2019)
 
 ### **News**
 
