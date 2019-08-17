@@ -10,7 +10,14 @@ layout: home
 
 ### **News**
 
-[**July 25, 2019: bi-*q*-model paper with Romain Mari Accepted for publication in Soft Matter!!**](https://pubs.rsc.org/en/content/articlelanding/2019/sm/c9sm01223k)
+<div class="embed-container">
+  <iframe
+      src="https://www.youtube.com/embed/g5K6dq8Rb_E"
+      width="480"
+      height="480"
+      frameborder="0"
+      allowfullscreen="">
+  </iframe>
+</div>
 
-[![bi-q-model](/assets/img/biq.jpg)]({% link _posts/2019-06-06-thickening-order-parameter.markdown %})
 
