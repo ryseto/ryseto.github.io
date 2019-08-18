@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-youtubeId: g5K6dq8Rb_E
+youtubeId: kJwL0gp6S98
 ---
 瀬戸亮平 -- ソフトマター物理とレオロジー
 
