@@ -9,4 +9,4 @@ youtubeId: UuhJhLs3S8w
 
 [YouTube 1-min-introduction](https://youtu.be/SoAVRjvwBKE)
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayerLandscape.html id=page.youtubeId %}
