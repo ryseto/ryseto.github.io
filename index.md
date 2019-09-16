@@ -7,8 +7,9 @@ youtubeId: kJwL0gp6S98
 ソフトマター物理とレオロジーの研究をしています．
 Soft matter physics and rheology!
 
-- [Google Scholar](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ), [ResearcherID: E-3275-2014](https://publons.com/researcher/2541240/ryohei-seto/)
 - [Department of Earth and Space Science, Osaka University](http://thmat8.ess.sci.osaka-u.ac.jp) (July 2019 -- Sept 2019)
+- [Google Scholar]( https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
+- [CV](https://ryseto.github.io/assets/pdf/CV_Seto.pdf)
 
 ### **News**
 
