@@ -7,11 +7,12 @@ youtubeId: kJwL0gp6S98
 ソフトマター物理とレオロジーの研究をしています．
 Soft matter physics and rheology!
 
-- [Department of Earth and Space Science, Osaka University](http://thmat8.ess.sci.osaka-u.ac.jp) (July 2019 -- Sept 2019)
 - [Google Scholar]( https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
 - [CV](https://ryseto.github.io/assets/pdf/CV_Seto.pdf)
 
 ### **News**
+
+- I join [the Wenzhou Institute, University of Chinese Academy of Sciences](http://www.wibe.ac.cn)
 
 - Published two papers
   - Work with [Romain Mari](https://rmari.github.io) on shear thickening order parameter: [Force transmission and the order parameter of shear thickening](http://dx.doi.org/10.1039/C9SM01223K) (https://arxiv.org/abs/1906.02103)
