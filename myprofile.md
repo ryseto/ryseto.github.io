@@ -14,9 +14,10 @@ Ryohei Seto, 瀬戸亮平
 
 
 ### Address
-Department of Earth and Space Science,
-Osaka University
-560-0043 Osaka, JAPAN
+
+浙江省温州市高新技术产业开发区新三路16号高新大厦
+
+Wenzhou Institute, University of Chinese Academy of Sciences
 
 [](
 19th floor, Baiyan Building  
@@ -25,6 +26,7 @@ Haidian District, Beijing
 )
 
 ### Work
+- 2019 Group Leader(PI), Wenzhou Institute, University of Chinese Academy of Sciences
 - 2019 Specially-Appointed Researcher, Department of Earth and Space Science, Osaka University
 - 2019 Visiting Researcher, Research Group for Rheology Physics, Nagoya University
 - 2019 Visiting Researcher, Center of Soft Matter Physics and its Applications, Beihang University
