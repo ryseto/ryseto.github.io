@@ -12,7 +12,7 @@ Soft matter physics and rheology!
 
 ### **News**
 
-- I join [the Wenzhou Institute, University of Chinese Academy of Sciences](http://www.wibe.ac.cn)
+- I just joined [the Wenzhou Institute, University of Chinese Academy of Sciences](http://www.wibe.ac.cn)!
 
 - Published two papers
   - Work with [Romain Mari](https://rmari.github.io) on shear thickening order parameter: [Force transmission and the order parameter of shear thickening](http://dx.doi.org/10.1039/C9SM01223K) (https://arxiv.org/abs/1906.02103)
