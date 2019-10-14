@@ -8,8 +8,8 @@ permalink: /profile/
 Ryohei Seto\\
 瀬戸亮平
 
-Wenzhou Institute, University of Chinese Academy of Sciences\\
-中国科学院大学温州研究院
+[Wenzhou Institute, University of Chinese Academy of Sciences](http://www.wibe.ac.cn)\\
+[中国科学院大学温州研究院](http://www.wibe.ac.cn)
 
 ### Academic ID
 - [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
