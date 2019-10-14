@@ -5,32 +5,26 @@ permalink: /profile/
 ---
 ![R.Seto](/assets/img/seto.jpeg)
 
-Ryohei Seto, 瀬戸亮平
+Ryohei Seto\\
+瀬戸亮平
+
+Wenzhou Institute, University of Chinese Academy of Sciences\\
+中国科学院大学温州研究院
 
 ### Academic ID
 - [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
 - [ResearcherID](http://www.researcherid.com/rid/E-3275-2014)
 - [ORCID](http://orcid.org/0000-0002-4099-034X)
 
-
 ### Address
 
+No. 16 Xiansan Road, Hi-tech Industory Park, Wenzhou, Zhejiang 325000, China\\
 浙江省温州市高新技术产业开发区新三路16号高新大厦
 
-Wenzhou Institute, University of Chinese Academy of Sciences
-
-[](
-19th floor, Baiyan Building  
-No. 238, Middle Road Of North Fourth Ring Road, 100191  
-Haidian District, Beijing
-)
-
 ### Work
-- 2019 Group Leader(PI), Wenzhou Institute, University of Chinese Academy of Sciences
-- 2019 Specially-Appointed Researcher, Department of Earth and Space Science, Osaka University
-- 2019 Visiting Researcher, Research Group for Rheology Physics, Nagoya University
-- 2019 Visiting Researcher, Center of Soft Matter Physics and its Applications, Beihang University
-- 2018-2018 Program-Specific Researcher, Transport Phenomena Group, Department of Chemical Engineering, Kyoto University, Kyoto, Japan
+- 2019 Group Leader(PI), Wenzhou Institute, University of Chinese Academy of Sciences, China
+- 2019 Specially-Appointed Researcher, Department of Earth and Space Science, Osaka University, Japan
+- 2018-2019 Program-Specific Researcher, Transport Phenomena Group, Department of Chemical Engineering, Kyoto University, Kyoto, Japan
 - 2015–2018 Group Leader, Okinawa Institute of Science and Technology Graduate University,
 Onna, Japan
 - 2012–2014 Research Associate, the Levich Institute, City College of New York, New York, USA
@@ -46,7 +40,6 @@ Orsay, France
 - [Scientific American](https://www.scientificamerican.com/article/friction-makes-cornstarch-and-water-into-bizarre-oobleck/)
 - [Physics World](http://physicsworld.com/cws/article/news/2013/nov/25/model-explains-why-liquid-suspensions-suddenly-turn-solid)
 - [2015 Society of Rheology Publication Award](http://www-levich.engr.ccny.cuny.edu/sor2015.htm)
-
 
 ### Marathon
 - Kanazawa Marathon			**3:39:11**		(2017.10.29)
