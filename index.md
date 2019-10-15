@@ -19,8 +19,8 @@ Soft matter physics and rheology!
 - I joined [the Wenzhou Institute, University of Chinese Academy of Sciences](http://www.wibe.ac.cn)!
 
 - Published two papers
-  - Work with [Romain Mari](https://rmari.github.io) on shear thickening order parameter: [Force transmission and the order parameter of shear thickening](http://dx.doi.org/10.1039/C9SM01223K) (https://arxiv.org/abs/1906.02103)
-  - Work with Abhi Singh, Bulbul Chakraborty, Morton Denn, Jeff Morris on shear jamming and fragility: [Shear jamming and fragility in dense suspensions](https://doi.org/10.1007/s10035-019-0931-5)
+- Work with [Romain Mari](https://rmari.github.io) on shear thickening order parameter: [Force transmission and the order parameter of shear thickening](http://dx.doi.org/10.1039/C9SM01223K) (https://arxiv.org/abs/1906.02103)
+- Work with Abhi Singh, Bulbul Chakraborty, Morton Denn, Jeff Morris on shear jamming and fragility: [Shear jamming and fragility in dense suspensions](https://doi.org/10.1007/s10035-019-0931-5)
 
 The movie is extensional-flow induced aggregation (Youtube)!
 {% include youtubePlayer.html id=page.youtubeId %}
