@@ -13,11 +13,10 @@ and non-Newtonian fluid mechanics.
 We develop particle and continuum simulations to study dissipative particle dynamics in driven states and non-Newtonian fluid mechanics.
 
 
-[announcement] We are currently seeking Postdoctoral Researcher in The Computational Soft Matter and Biomaterials Group in the Wenzhou Institute of UCAS. Our research projects include
+### **Announcement** 
+ We are currently seeking Postdoctoral Researcher in The Computational Soft Matter and Biomaterials Group in the Wenzhou Institute of UCAS. Our research projects include
 computational fluid mechanics for suspension, computational modeling for biomaterials, and active matter. please [contact me](mailto:seto@wibe.ac.cn).
 
-- [Google Scholar]( https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
-- [CV](https://ryseto.github.io/assets/pdf/CV_Seto.pdf)
 
 
 
