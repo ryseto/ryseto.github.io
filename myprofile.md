@@ -5,11 +5,39 @@ permalink: /profile/
 ---
 ![R.Seto](/assets/img/seto.jpeg)
 
+
 Ryohei Seto\\
 瀬戸亮平
 
+PI Researcher(Professor) (2019-) \\
 [Wenzhou Institute, University of Chinese Academy of Sciences](http://www.wibe.ac.cn)\\
 [中国科学院大学温州研究院](http://www.wibe.ac.cn)
+
+Visiting Professor (2020-)\\
+[Graduate School of Simulation Studies, University of Hyogo](http://www.simulation-studies.org)\\
+[兵庫県立大学大学院シミュレーション学研究科](http://www.simulation-studies.org)
+
+
+Dr. Ryohei Seto is a computational materials scientist, with broad experience in soft materials science, including colloidal soft matter, suspension dynamics, and granular systems. Dr. Seto got his Ph. D in condensed matter physics in Japan on 2006. He started to study Soft Matter physics, when he got a Postdoc Fellowship of the French Government. He worked as post-doc researchers
+in the Solid States Physics Laboratory (Orsay), the Chemical Engineering Laboratory (Toulouse),
+Technical University of Munich, the Max Planck Institute for Polymer Research (Mainz),
+and the Levich Institute (New York). He joined Okinawa Institute of Science and Technology in Japan on 2015 as a Group Leader. He became PI researcher of Wenzhou Institute since October 2019. He is also a Visiting Professor at Graduate School of Simulation Studies in University of Hyogo from April 2020.
+He is particularly known for his study of shear thickening, a phenomenon in which fluid become more viscous under higher stresses. His works are highly cited and has had an enormous impact on the field; one paper was the recipient of the Journal of Rheology's Publication Award for 2015.
+
+
+
+
+
+
+
+
+
+
+
+Dr. Seto is also an outstanding collaborative scientist: he is excellent to work with and he provides great value in teams addressing difficult scientific questions.
+
+
+
 
 ### Academic ID
 - [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
@@ -22,8 +50,8 @@ No. 16 Xiansan Road, Hi-tech Industory Park, Wenzhou, Zhejiang 325000, China\\
 浙江省温州市高新技术产业开发区新三路16号高新大厦
 
 ### Work
-- 2019 Group Leader(PI), Wenzhou Institute, University of Chinese Academy of Sciences, China
-- 2019 Specially-Appointed Researcher, Department of Earth and Space Science, Osaka University, Japan
+- 2020-  Visiting Professor, Graduate School of Simulation Studies, University of Hyogo
+- 2019-  PI Researcher(Professor), Wenzhou Institute, University of Chinese Academy of Sciences, China
 - 2018-2019 Program-Specific Researcher, Transport Phenomena Group, Department of Chemical Engineering, Kyoto University, Kyoto, Japan
 - 2015–2018 Group Leader, Okinawa Institute of Science and Technology Graduate University,
 Onna, Japan
