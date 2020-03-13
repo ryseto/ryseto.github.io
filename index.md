@@ -7,7 +7,6 @@ layout: home
 PI researcher at [Wenzhou Institute, University of Chinese Academy of Sciences](http://www.wibe.ac.cn)\\
 [中国科学院大学温州研究院](http://www.wibe.ac.cn)
 	
-ソフトマター物理とレオロジーの研究をしています．\\
 
 The research focuses of The Computational Soft Matter and Biomaterials group
 include suspension rheology, biomechanics, ceramics, active matter,
