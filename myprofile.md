@@ -18,11 +18,7 @@ Visiting Professor (2020-)\\
 [兵庫県立大学大学院シミュレーション学研究科](http://www.simulation-studies.org)
 
 
-Dr. Ryohei Seto is a computational materials scientist, with broad experience in soft materials science, including colloidal soft matter, suspension dynamics, and granular systems. Dr. Seto got his Ph. D in condensed matter physics in Japan on 2006. He started to study Soft Matter physics, when he got a Postdoc Fellowship of the French Government. He worked as post-doc researchers
-in the Solid States Physics Laboratory (Orsay), the Chemical Engineering Laboratory (Toulouse),
-Technical University of Munich, the Max Planck Institute for Polymer Research (Mainz),
-and the Levich Institute (New York). He joined Okinawa Institute of Science and Technology in Japan on 2015 as a Group Leader. He became PI researcher of Wenzhou Institute since October 2019. He is also a Visiting Professor at Graduate School of Simulation Studies in University of Hyogo from April 2020.
-He is particularly known for his study of shear thickening, a phenomenon in which fluid become more viscous under higher stresses. His works are highly cited and has had an enormous impact on the field; one paper was the recipient of the Journal of Rheology's Publication Award for 2015.
+Dr. Ryohei Seto is a computational materials scientist, with broad experience in soft materials science, including colloidal soft matter, suspension dynamics, and granular systems. Dr. Seto got his Ph. D in condensed matter physics at Ritsumeikan University in 2006. He started to study Soft Matter physics when he got a Postdoc Fellowship of the French Government. He worked as post-doc researchers in the Solid States Physics Laboratory (Orsay), the Chemical Engineering Laboratory (Toulouse), Technical University of Munich, the Max Planck Institute for Polymer Research (Mainz), and the Levich Institute (New York). He joined the Okinawa Institute of Science and Technology as a Group Leader in 2015. He became a PI researcher at Wenzhou Institute since October 2019. He is also a Visiting Professor at the Graduate School of Simulation Studies of University of Hyogo since April 2020. He is particularly known for his study of shear thickening, a phenomenon in which fluid becomes more viscous under higher stresses. His work is highly cited and has had an enormous impact on the field; one paper was the recipient of the Journal of Rheology’s Publication Award for 2015.
 
 
 
