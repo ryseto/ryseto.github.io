@@ -14,15 +14,7 @@ We develop particle and continuum simulations to study dissipative particle dyna
 
 
 ### **Announcement** 
- We are currently seeking Postdoctoral Researcher in The Computational Soft Matter and Biomaterials Group in the Wenzhou Institute of UCAS. Our research projects include
-computational fluid mechanics for suspension, computational modeling for biomaterials, and active matter. please [contact me](mailto:seto@wibe.ac.cn).
+We are currently seeking postdoctoral researcher(s) in The Computational Soft Matter and Biomaterials Group in the [Wenzhou Institute of UCAS](http://www.wibe.ac.cn). Our research projects include computational fluid mechanics for suspension, computational modeling for biomaterials, and active matter. please [contact me](mailto:seto@wibe.ac.cn).
 
-
-
-
-### **News** 
-- I joined [the Wenzhou Institute, University of Chinese Academy of Sciences](http://www.wibe.ac.cn)!
-- Published two papers
-- Work with [Romain Mari](https://rmari.github.io) on shear thickening order parameter: [Force transmission and the order parameter of shear thickening](http://dx.doi.org/10.1039/C9SM01223K) (https://arxiv.org/abs/1906.02103)
-- Work with Abhi Singh, Bulbul Chakraborty, Morton Denn, Jeff Morris on shear jamming and fragility: [Shear jamming and fragility in dense suspensions](https://doi.org/10.1007/s10035-019-0931-5)
-
+### **What's New!** 
+- 2020.03 Preprint about [rolling friction in suspension rheology](https://arxiv.org/abs/2002.10996)
