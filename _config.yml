@@ -18,10 +18,9 @@ subtitle: Soft Matter and Rheology
 email: seto@wibe.ac.cn
 address: No. 16 Xiansan Road, Hi-tech Industory Park, Wenzhou, Zhejiang 325000, China
 description: >- 
-   I am a researcher working on soft-matter physics,
+   Our group study soft-matter physics,
    complex fluid mechanics, and rheology with various
-   computational methods. I am interested in non-equilibrium
-   dissipative dynamics in soft-matter systems.
+   computational methods. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ryseto.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
