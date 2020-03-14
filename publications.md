@@ -8,6 +8,7 @@ permalink: /publications/
 
 ### Papers
 
+1. [A. Singh, C. Ness, R. Seto, J. J. de Pablo, H. M. Jaeger, Shear thickening and jamming of dense suspensions: the roll of friction, arXiv:2002.10996](https://arxiv.org/abs/2002.10996)
 1. [R. Mari and R. Seto, Force transmission and the order parameter of shear thickening, Soft Matter, 15:6650–6659, 2019.](http://dx.doi.org/10.1039/C9SM01223K)
 1. [R. Seto, A. Singh, B. Chakraborty, M. M. Denn, and J. F. Morris, Shear jamming and fragility in dense suspensions, Granul. Matter, 21(3):82, 2019.](https://doi.org/10.1007/s10035-019-0931-5) **[In Memoriam of Robert P. Behringer](https://link.springer.com/journal/10035/topicalCollection/AC_6133586b39982072ee4026a0cd55c0e6)**
 1. [K. Nagasawa, T. Suzuki, R. Seto, M. Okada, and Y. Yue. Mixing sauces: A viscosity blending model for shear thinning fluids. ACM Trans. Graph., 38(4):95:1–17, 2019.](http://doi.acm.org/10.1145/3306346.3322947) [**SIGGRAPH2019**](https://s2019.siggraph.org/presentation/?sess=sess228&id=papers_163#038;id=papers_163)
