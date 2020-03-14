@@ -1,6 +1,6 @@
 ---
 layout: page
-title: profile
+title: Ryohei Seto
 permalink: /profile/
 ---
 ![R.Seto](/assets/img/seto.jpeg)
