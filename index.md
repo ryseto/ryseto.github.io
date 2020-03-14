@@ -17,4 +17,8 @@ We develop particle and continuum simulations to study dissipative particle dyna
 We are currently seeking postdoctoral researcher(s) in The Computational Soft Matter and Biomaterials Group in the [Wenzhou Institute of UCAS](http://www.wibe.ac.cn). Our research projects include computational fluid mechanics for suspension, computational modeling for biomaterials, and active matter. please [contact me](mailto:seto@wibe.ac.cn).
 
 ### **What's New!** 
-- 2020.03 Preprint about [rolling friction in suspension rheology](https://arxiv.org/abs/2002.10996)
+- 2020.03 Preprint about [rolling friction in suspension rheology](https://arxiv.org/abs/2002.10996) in collaboration with Abhinendra Singh, Christopher Ness, Juan J de Pablo, and Heinrich M Jaeger!
+
+![rolling friction](/assets/img/rolling_friction.jpg)
+
+
