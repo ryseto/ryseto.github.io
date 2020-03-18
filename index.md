@@ -16,5 +16,3 @@ We are currently seeking one staff scientist and postdoctoral researchers. Our r
 - 2020.03 Preprint about [rolling friction in suspension rheology](https://arxiv.org/abs/2002.10996). This work is done in collaboration with Abhinendra Singh (first author), Christopher Ness, Juan J de Pablo, and Heinrich M Jaeger!
 
 ![rolling friction](/assets/img/rolling_friction.jpg)
-
-
