@@ -1,6 +1,6 @@
 ---
 layout: page
-title: talks
+title: Talks
 permalink: /talks/
 ---
 
@@ -8,7 +8,7 @@ permalink: /talks/
 
 1. [Invited "Emergence of rigidity in suspension fluid mechanics," CoMFoS19:Mathematical Aspects of Continuum Mechanics, Kanazawa, Japan, July 2019](https://sites.google.com/view/comfos19/)
 
-1. [Invited "Shear jamming and rheology of dense suspensions," IUTAM Symposium on Dynamics of Complex Fluids and Interfaces, IIT Kanpur, India, December 2018]http://www.iitk.ac.in/iutam/speaker.html)
+1. [Invited "Shear jamming and rheology of dense suspensions," IUTAM Symposium on Dynamics of Complex Fluids and Interfaces, IIT Kanpur, India, December 2018](http://www.iitk.ac.in/iutam/speaker.html)
 
 1. Invited "Simulation method of dense suspensions—Overdamped discrete element method with hydrodynamic lubrication," 2018 International Symposium on Multiple Scale Modelling of Complex Fluids---Fundamental Challenge and Industrial Applications Guangzhou University, Guangzhou, China, September 2018
 
