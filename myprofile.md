@@ -38,8 +38,8 @@ No. 16 Xiansan Road, Hi-tech Industory Park, Wenzhou, Zhejiang 325000, China\\
 浙江省温州市高新技术产业开发区新三路16号高新大厦
 
 ### Work
-- 2020-  Visiting Professor, Graduate School of Simulation Studies, University of Hyogo
-- 2019-  PI Researcher(Professor), Wenzhou Institute, University of Chinese Academy of Sciences, China
+- 2020-present Visiting Professor, Graduate School of Simulation Studies, University of Hyogo
+- 2019-present PI Researcher(Professor), Wenzhou Institute, University of Chinese Academy of Sciences, China
 - 2018-2019 Program-Specific Researcher, Transport Phenomena Group, Department of Chemical Engineering, Kyoto University, Kyoto, Japan
 - 2015–2018 Group Leader, Okinawa Institute of Science and Technology Graduate University,
 Onna, Japan
