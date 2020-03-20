@@ -10,12 +10,12 @@ We are currently seeking Ph. D students, postdoctoral researchers, and staff sci
 
 ### Collaborators
 
-- [Giulio Giusteri](https://www.math.unipd.it/~giusteri/)
-- [Romain Mari](http://rmari.github.io)
-- [Abhinendra Singh](https://scholar.google.com/citations?user=M2IMz3QAAAAJ&hl=nl)
-- [Masao Doi](http://mdoi.jp/index_E.html)
-- [Hitoshi Washizu](http://washizu.org/lab/index-e.html)
-- [Yonghao Yue](http://mns.k.u-tokyo.ac.jp/~yonghao/)
-- [Jeffrey F. Morris](http://www-levich.engr.ccny.cuny.edu/~jmorris/index.html)
-- [Morton Denn](http://www-levich.engr.ccny.cuny.edu/mdcv.htm)
+- [Giulio Giusteri](https://www.math.unipd.it/~giusteri/) Università degli Studi di Padova, Italy
+- [Romain Mari](http://rmari.github.io) Univ. Grenoble Alpes, France
+- [Abhinendra Singh](https://scholar.google.com/citations?user=M2IMz3QAAAAJ&hl=nl)  University of Chicago, USA
+- [Masao Doi](http://mdoi.jp/index_E.html) Beihang University, China
+- [Hitoshi Washizu](http://washizu.org/lab/index-e.html) University of Hyogo, Japan
+- [Yonghao Yue](http://mns.k.u-tokyo.ac.jp/~yonghao/) Aoyama Gakuin University, Japan 
+- [Jeffrey F. Morris](http://www-levich.engr.ccny.cuny.edu/~jmorris/index.html) City College of New York, USA
+- [Morton Denn](http://www-levich.engr.ccny.cuny.edu/mdcv.htm) City College of New York, USA
 
