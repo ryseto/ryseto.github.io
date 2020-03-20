@@ -46,6 +46,9 @@ The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016](htt
 
 ### Seminars
 
+1. ["A numerical approach to predict incompressible flows of dense non-Brownian suspensions" Kyoto University, February 27, 2020](https://www.yukawa.kyoto-u.ac.jp/seminar/s52679)
+
+
 1. ["Jamming with shear-induced microstructure in dense suspensions," Kyoto University, July 24, 2019](https://www.yukawa.kyoto-u.ac.jp/seminar/s52591)
 
 1. "On the order parameter of shear thickening," Osaka University, June 21, 2019
@@ -113,6 +116,14 @@ The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016](htt
 1. "Modeling of colloidal gels---rheology and contact forces," Saint-Gobain Recherche, Paris, France, September 8, 2011.
 
 ### Oral presentations
+
+
+1. "Channel flows of colloidal suspensions with a Lubrication DEM-CFD method,"
+   Annual meeting of The Physical Society of Japan, Nagoya University, 
+   Nagoya, Japan, March 2020. cancelled to due COVID19
+1. "Migration and jamming in pressure-driven flow of dense non-Brownian suspensions,"
+Grand Views of Soft and Liquid Matter Physics, Tokyo, Japan, March 2020.
+   cancelled to due COVID19 
 
 1. "Normal stress differences in dense suspensions," Annual Meeting of the Japanese Society of Rheolgy, Fukuoka, Japan, October 2018 
 
