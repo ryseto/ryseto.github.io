@@ -12,8 +12,6 @@ We study the mechanical properties of functional soft materials using computer s
 ### **JOIN US**
 We are currently seeking Ph. D students, postdoctoral researchers, and staff scientist. Our research projects include computational fluid mechanics of suspensions, computational modeling for biomaterials, and active matter. If you are interested in joining us, please [contact me](mailto:seto@wibe.ac.cn) and [see also here](http://www.wiucas.ac.cn/hr/2020/272.html).
 
-- Salary  About320K RMB per year \\
-- 2 years (more than 20 months) 
 
 
 ### **What's New!** 
