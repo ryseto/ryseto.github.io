@@ -7,6 +7,9 @@ permalink: /Members/
 ### **JOIN US**
 We are currently seeking Ph. D students, postdoctoral researchers, and staff scientist. Our research projects include computational fluid mechanics of suspensions, computational modeling for biomaterials, and active matter. If you are interested in joining us, please [contact me](mailto:seto@wibe.ac.cn) and [see also here](http://www.wiucas.ac.cn/hr/2020/272.html).
 
+Postdocs \\
+- Salary  About320K RMB per year \\
+- 2 years 
 
 ### Collaborators
 
