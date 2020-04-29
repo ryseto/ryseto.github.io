@@ -15,7 +15,7 @@ Three postdoc positions are available in the Computational Soft Matter and Bioma
 - Term: 2 years (needs to be more than 21 months, and possible to extend)
 - [see also here (in Chinese)](http://www.wiucas.ac.cn/hr/2020/272.html).
 1. Requirements
-- Completed doctoral thesis in soft matter, statistical physics, fluid mechanics, and biophysics, etc.
+- Doctoral degree in soft matter, statistical physics, fluid mechanics, and biophysics, etc.
 - Experience with numerical simulations
 - Programming skills (C++, python, etc.)
 1. Please send the following items to [me](mailto:seto@wibe.ac.cn) 
