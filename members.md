@@ -9,7 +9,7 @@ Three postdoc positions are available in the Computational Soft Matter and Bioma
 - Suspension rheology and fluid mechanics 
 - Coarse-grained simulations for soft matter systems (colloids, gels, polymer, emulsion, etc.)
 - Active matter
-- One postdoc is expected to work in the collaboration with [Dr. Romain Mari](https://rmari.github.io) (Partial time can be in Grenoble, France)
+- One postdoc is expected to work in the collaboration with [Dr. Romain Mari](https://rmari.github.io) (He or she can spend some time in Grenoble, France).
 
 Conditions
 - Salary: about 320K RMB per year
