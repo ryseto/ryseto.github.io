@@ -5,7 +5,7 @@ permalink: /Members/
 ---
 
 ### **JOIN US**
-Three postdoc positions are available in the Computational Soft Matter and Biomaterials group at the Wenzhou Institute, University of Chinese Academy of Science. We seek motivated researchers of simulation modeling in soft matter, biophysics, and biomaterials. 
+Three postdoc positions are available in the Computational Soft Matter and Biomaterials group at [the Wenzhou Institute, University of Chinese Academy of Science](http://www.wibe.ac.cn). We seek motivated researchers of simulation modeling in soft matter, biophysics, and biomaterials. 
 - Suspension rheology and fluid mechanics 
 - Coarse-grained simulations for soft matter systems (colloids, gels, polymer, emulsion, etc.)
 - Active matter
