@@ -24,8 +24,7 @@ Requirements
 Please send the following items to [me](mailto:seto@wibe.ac.cn)
 - CV 
 - List of publications
-- Copies of selected publications
-- Brief description of research interests
+- Summary of your research accomplishments and your research interests
 - Contact information of references
 
 ### Collaborators
