@@ -5,12 +5,24 @@ permalink: /Members/
 ---
 
 ### **JOIN US**
-We are currently seeking postdoctoral researchers. Our research projects include computational fluid mechanics of suspensions, computational modeling for biomaterials, and active matter. If you are interested in joining us, please [contact me](mailto:seto@wibe.ac.cn) and [see also here](http://www.wiucas.ac.cn/hr/2020/272.html).
+Three postdoc positions are available in the Computational Soft Matter and Biomaterials group at the Wenzhou Institute, University of Chinese Academy of Science. We seek motivated researchers of simulation modeling in soft matter, biophysics, and biomaterials. 
+- Suspension rheology and fluid mechanics 
+- Coarse-grained simulations for soft matter systems (colloids, gels, polymer, emulsion, etc.)
+- Active matter
+- One postdoc is expected to collaborate with [Dr. Romain Mari](https://rmari.github.io) (possible to work in Grenoble)
 
-Postdocs 
+
+Conditions
 - Salary: about 320K RMB per year
-- Term: 2 years (possible to extend)
-- Project: modeling and simulation for soft matter or biophysics
+- Term: 2 years (needs to be more than 21 months, and possible to extend)
+- [see also here (in Chinese)](http://www.wiucas.ac.cn/hr/2020/272.html).
+
+Please send the following items to [me](mailto:seto@wibe.ac.cn)
+- CV 
+- List of publications
+- Copies of selected publications
+- Brief description of research interests
+- Contact information of references
 
 ### Collaborators
 
