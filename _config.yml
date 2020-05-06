@@ -13,8 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Computational Soft Matter and Biomaterials group 
-subtitle: Soft Matter and Rheology
+title: Computational Soft and Biological Matter group 
 email: seto@wibe.ac.cn
 address: No. 16 Xiansan Road, Hi-tech Industory Park, Wenzhou, Zhejiang 325000, China
 description: >- 
