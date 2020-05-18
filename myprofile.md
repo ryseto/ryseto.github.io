@@ -34,7 +34,7 @@ Dr. Ryohei Seto is a computational physicist with broad experience in soft mater
 
 ### Address
 
-No. 16 Xiansan Road, Hi-tech Industory Park, Wenzhou, Zhejiang 325000, China\\
+No. 16 Xinsan Road, Hi-tech Industrial Park, Wenzhou, Zhejiang 325000, China\\
 浙江省温州市高新技术产业开发区新三路16号高新大厦
 
 ### Work
