@@ -11,7 +11,7 @@ Ryohei Seto\\
 [CV](https://ryseto.github.io/assets/pdf/CV_Seto.pdf)
 
 PI Researcher(Professor) (2019-) \\
-[Wenzhou Institute, University of Chinese Academy of Sciences](http://www.wibe.ac.cn)\\
+[Wenzhou Institute, University of Chinese Academy of Sciences](http://english.wiucas.ac.cn)\\
 [中国科学院大学温州研究院](http://www.wibe.ac.cn)
 
 Visiting Professor (2020-)\\

@@ -10,9 +10,9 @@ Three postdoc positions are available in the Computational Soft Matter and Bioma
 - Coarse-grained simulations for soft matter systems
 - Active matter
 1. Conditions
-- Salary: about 320K RMB per year
+- Salary: Postdoc A 380K RMB (require qualified achievements) ,  Postdoc B 260K RMB 
 - Term: 2 years (needs to be more than 21 months, and possible to extend)
-- [see also here (in Chinese)](http://www.wiucas.ac.cn/hr/2020/272.html).
+- [see also here](http://wiucas.ac.cn/english/2020/recruitment_0323/15.html).
 1. Requirements
 - Doctoral degree in soft matter, statistical physics, fluid mechanics, and biophysics, etc.
 - Experience with numerical simulations
