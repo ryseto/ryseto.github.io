@@ -4,7 +4,7 @@ title: Join Us
 permalink: /JoinUs/
 ---
 
-Three postdoc positions are available in the Computational Soft Matter and Biomaterials group at [the Wenzhou Institute, University of Chinese Academy of Science](http://www.wibe.ac.cn). (One can spend some time in Grenoble (France), to collaborate with [Dr. Romain Mari](https://rmari.github.io).) We seek motivated researchers of simulation modeling in soft matter, biophysics, and biomaterials.
+A postdoc position is available in the Computational Soft Matter and Biomaterials group at [the Wenzhou Institute, University of Chinese Academy of Science](http://www.wibe.ac.cn). We seek motivated researchers of simulation modeling in soft matter, biophysics, and biomaterials.
 1. Directions
 - Suspension rheology and fluid mechanics 
 - Coarse-grained simulations for soft matter systems
