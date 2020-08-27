@@ -4,7 +4,29 @@ title: Members
 permalink: /Members/
 ---
 
+#### Postdoctoral researchers
+
+- [Zhiyuan Zhao](https://www.researchgate.net/profile/Zhiyuan_Zhao11) (2020.7-- )
+
+- Sudarshan Konidena (2020.8-- [Delay due to COVID-19])
+
+- Pritha Dolai (2020.11--)
+
+
+#### Students 
+
+- Boi Wang (visiting student from Institute of Physics, Chinese Academy of Science)
+
+![group photo2](/assets/img/group_photo2.jpeg)
+![group photo1](/assets/img/group_photo1.jpeg)
+
+
+
+
 ### [**JOIN US!**](joinus.md)
+
+
+
 
 ### Collaborators
 
