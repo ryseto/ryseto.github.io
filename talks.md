@@ -6,6 +6,10 @@ permalink: /talks/
 
 ### Keynote/Symposium/Invited presentations
 
+1. [Invited "TBA," 2020 International Workshop on “Soft Matter and Biophysics Theories”](https://indico.itp.ac.cn/event/35/overview)
+
+1. [Invited "Pressure-driven flow and jamming of dense suspensions in channels," Virtual Symposium on "Physics of Dense Suspensions", July 2020](https://pdssymposium.sites.northeastern.edu)
+
 1. [Invited "Emergence of rigidity in suspension fluid mechanics," CoMFoS19:Mathematical Aspects of Continuum Mechanics, Kanazawa, Japan, July 2019](https://sites.google.com/view/comfos19/)
 
 1. [Invited "Shear jamming and rheology of dense suspensions," IUTAM Symposium on Dynamics of Complex Fluids and Interfaces, IIT Kanpur, India, December 2018](http://www.iitk.ac.in/iutam/speaker.html)
@@ -47,7 +51,6 @@ The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016](htt
 ### Seminars
 
 1. ["A numerical approach to predict incompressible flows of dense non-Brownian suspensions" Kyoto University, February 27, 2020](https://www.yukawa.kyoto-u.ac.jp/seminar/s52679)
-
 
 1. ["Jamming with shear-induced microstructure in dense suspensions," Kyoto University, July 24, 2019](https://www.yukawa.kyoto-u.ac.jp/seminar/s52591)
 
@@ -117,7 +120,7 @@ The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016](htt
 
 ### Oral presentations
 
-
+1. "Flowing and jammed dense suspensions", Annual meeting of The Physical Society of Japan, Nagoya University, Kumamoto (Online), Japan, September 2020
 1. "Channel flows of colloidal suspensions with a Lubrication DEM-CFD method,"
    Annual meeting of The Physical Society of Japan, Nagoya University, 
    Nagoya, Japan, March 2020. cancelled to due COVID19
