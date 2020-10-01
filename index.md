@@ -12,6 +12,9 @@ We study the mechanical properties of functional soft materials using computer s
 ### [**JOIN US!**](joinus.md)
 
 ### **What's New!** 
-- 2020.03 Preprint about [rolling friction in suspension rheology](https://arxiv.org/abs/2002.10996). This work is done in collaboration with Abhinendra Singh (first author), Christopher Ness, Juan J de Pablo, and Heinrich M Jaeger!
+- 2020.09 We move to new building!
+- 2020.07 New member, Dr. Zhiyuan Zhao joined in our group! 
+- 2020.07 Our paper on rolling friction in dense suspensions is published in [PRL](https://link.aps.org/doi/10.1103/PhysRevLett.124.248005). 
 
-![rolling friction](/assets/img/rolling_friction.jpg)
+
+![New WIUCAS building](/assets/img/WIUCAS.jpg)
