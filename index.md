@@ -13,8 +13,7 @@ We study the mechanical properties of functional soft materials using computer s
 
 ### **What's New!** 
 - 2020.09 We move to new building!
-- 2020.07 New member, Dr. Zhiyuan Zhao joined in our group! 
+- 2020.07 New member, Dr. Zhiyuan Zhao joined our group! 
 - 2020.07 Our paper on rolling friction in dense suspensions is published in [PRL](https://link.aps.org/doi/10.1103/PhysRevLett.124.248005). 
-
 
 ![New WIUCAS building](/assets/img/WIUCA2.jpeg)
