@@ -17,4 +17,4 @@ We study the mechanical properties of functional soft materials using computer s
 - 2020.07 Our paper on rolling friction in dense suspensions is published in [PRL](https://link.aps.org/doi/10.1103/PhysRevLett.124.248005). 
 
 
-![New WIUCAS building](/assets/img/WIUCAS.jpg)
+![New WIUCAS building](/assets/img/WIUCA2.jpeg)
