@@ -17,6 +17,8 @@ permalink: /Members/
 ![group photo2](/assets/img/group_photo2.jpeg)
 ![group photo1](/assets/img/group_photo1.jpeg)
 
+![group photo1](/assets/img/WIUCAS.jpg)
+
 
 ### [**JOIN US!**](joinus.md)
 
