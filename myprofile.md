@@ -31,11 +31,13 @@ Dr. Ryohei Seto is a computational physicist with broad experience in soft mater
 - [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
 - [ResearcherID](http://www.researcherid.com/rid/E-3275-2014)
 - [ORCID](http://orcid.org/0000-0002-4099-034X)
+- [researchmap](https://researchmap.jp/ryseto)
+- [ResearchGate](https://www.researchgate.net/profile/Ryohei_Seto)
 
 ### Address
 
-No. 16 Xinsan Road, Hi-tech Industrial Park, Wenzhou, Zhejiang 325000, China\\
-浙江省温州市高新技术产业开发区新三路16号高新大厦
+No.1 Jinlian Road, Longwan District, Wenzhou, Zhejiang, 325000, China\\
+浙江省温州市龙湾区金联路1号 (邮编 325000)
 
 ### Work
 - 2020-present Visiting Professor, Graduate School of Simulation Studies, University of Hyogo
