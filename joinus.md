@@ -10,7 +10,7 @@ One postdoc position is available in the Computational Soft Matter and Biomateri
 - Coarse-grained simulations for soft matter systems
 - Active matter
 1. Conditions
-- Salary: Postdoc A 380K RMB (require qualified achievements) ,  Postdoc B 260K RMB 
+- Salary: Postdoc A 320K RMB (require qualified achievements), Postdoc B 260K RMB 
 - Term: 2 years (needs to be more than 21 months, and possible to extend)
 - [see also here](http://wiucas.ac.cn/english/2020/recruitment_0323/15.html).
 1. Requirements
