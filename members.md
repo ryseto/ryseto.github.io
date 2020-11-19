@@ -10,7 +10,7 @@ permalink: /Members/
 
 - Sudarshan Konidena (Postdoc) (2020.8-- [Delay due to COVID-19])
 
-- Pritha Dolai (Postdoc) (2020.11--)
+- ....
 
 - Boi Wang (2020.7--) (visiting student, Institute of Physics, Chinese Academy of Science)
 
