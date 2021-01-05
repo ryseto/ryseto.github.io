@@ -6,7 +6,7 @@ permalink: /profile/
 ![R.Seto](/assets/img/seto.jpeg)
 
 Ryohei Seto, PI (Professor) \\
-瀬戸亮平　研究員（教授）\\
+瀬戸亮平　課題組長（教授）\\
 温州市海外精英引進計画 
 
 
