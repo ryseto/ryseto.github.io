@@ -5,8 +5,10 @@ permalink: /profile/
 ---
 ![R.Seto](/assets/img/seto.jpeg)
 
-Ryohei Seto\\
-瀬戸亮平
+Ryohei Seto, PI (Professor) \\
+瀬戸亮平　研究員（教授）\\
+温州市海外精英引進計画 
+
 
 [CV](https://ryseto.github.io/assets/pdf/CV_Seto.pdf)
 
@@ -20,7 +22,7 @@ Visiting Professor (2020-)\\
 
 Dr. Ryohei Seto is a computational physicist with broad experience in soft materials science, including colloidal dynamics, suspension rheology, and granular systems. His current research focuses are fluid mechanics of suspensions, biomechanics, and transport phenomena in biological systems. After his Ph. D in condensed matter physics in 2006, he got a postdoctoral fellowship from the French Government to work on soft matter physics at the Solid States Physics Laboratory (Orsay). He also worked as postdoctoral researchers at the Technical University of Munich, the Max Planck Institute for Polymer Research (Mainz), and the City College of New York. He joined the Okinawa Institute of Science and Technology as a Group Leader (Senior Staff Scientists) in 2015. He is now a PI researcher at the Wenzhou Institute of UCAS since October 2019. He is also a Visiting Professor at the Graduate School of Simulation Studies of the University of Hyogo since April 2020. He is particularly known for his study of shear thickening, a phenomenon in which fluid becomes more viscous under higher stresses. His work is highly cited and has had an enormous impact on the field; one paper was the recipient of the Publication Award of The Society of Rheology in 2015, and he gave invited talks in many international conferences and workshops.
 
-濑户亮平博士 课题组长 \\ 
+濑户亮平博士 课题组长 : 
 2006年获得凝聚态物理博士学位，之后在法国政府的博士后奖学金资助下在固态物理实验室（奥赛）从事软物质物理学的研究。还曾在慕尼黑工业大学，美因茨的马克斯·普朗克聚合物研究所和纽约城市学院担任博士后研究员。于2015年加入日本冲绳科技学院，担任课题组长。自2019年10月起，加入中国科学院大学温州研究院，担任课题组长，研究员。2020年4月，兼职兵库大学理论模拟研究生院的客座教授。
 研究领域主要为软材料科学领域的计算物理学，内容涉及胶体动力学、悬浮流变学、颗粒系统。课题组目前的研究重点是悬浮液的流体力学、生物力学、生物系统中的传输现象。
 濑户博士在剪切增稠的研究领域成就突出（剪切增稠现象为在较高的应力下流体变得更粘稠），论文被广泛引用，对该领域有巨大影响。其中，一篇论文获得2015年流变学会奖。
