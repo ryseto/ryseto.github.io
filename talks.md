@@ -6,7 +6,9 @@ permalink: /talks/
 
 ### Keynote/Symposium/Invited presentations
 
-1. [Invited "TBA," 2020 International Workshop on “Soft Matter and Biophysics Theories”](https://indico.itp.ac.cn/event/35/overview)
+1. Invited 濃厚懸濁液のレオロジーと流路内の流動, 第16回希薄溶液の流動学講演会 第23回複雑流体研究会, Japan, Nov 20, 2020
+
+1. [Invited "The physics and fluid mechanics of dense suspensions," 2020 International Workshop on “Soft Matter and Biophysics Theories”](https://indico.itp.ac.cn/event/35/overview), Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing, 5th Nov 2020
 
 1. [Invited "Pressure-driven flow and jamming of dense suspensions in channels," Virtual Symposium on "Physics of Dense Suspensions", July 2020](https://pdssymposium.sites.northeastern.edu)
 
@@ -119,6 +121,13 @@ The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016](htt
 1. "Modeling of colloidal gels---rheology and contact forces," Saint-Gobain Recherche, Paris, France, September 8, 2011.
 
 ### Oral presentations
+
+
+1. R. Seto, M. Doi, Migration and jamming in pressure- driven flow of dense non-Brownian suspensions, International Congress on Rheology, Brazil (online), Dec 17, 2020
+
+1. G. Giusteri, R. Seto, "Shear jamming and fragility in a continuum model with unilateral constraints", Dec 17, 2020
+
+1. Z. Zhao, R. Seto, "Computational Predictions of Magnetorheology and Magnetization Dynamics of Frictional Magnetic Nanoparticle Suspension", Brazil (online), Dec 14, 2020
 
 1. "Flowing and jammed dense suspensions", Annual meeting of The Physical Society of Japan, Nagoya University, Kumamoto (Online), Japan, September 2020
 1. "Channel flows of colloidal suspensions with a Lubrication DEM-CFD method,"
