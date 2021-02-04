@@ -129,10 +129,12 @@ The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016](htt
 
 1. Z. Zhao, R. Seto, "Computational Predictions of Magnetorheology and Magnetization Dynamics of Frictional Magnetic Nanoparticle Suspension", Brazil (online), Dec 14, 2020
 
-1. "Flowing and jammed dense suspensions", Annual meeting of The Physical Society of Japan, Nagoya University, Kumamoto (Online), Japan, September 2020
+1. "Flowing and jammed dense suspensions", Annual meeting of The Physical Society of Japan, Kumamoto University, Kumamoto (Online), Japan, September 2020
+
 1. "Channel flows of colloidal suspensions with a Lubrication DEM-CFD method,"
    Annual meeting of The Physical Society of Japan, Nagoya University, 
    Nagoya, Japan, March 2020. cancelled to due COVID19
+
 1. "Migration and jamming in pressure-driven flow of dense non-Brownian suspensions,"
 Grand Views of Soft and Liquid Matter Physics, Tokyo, Japan, March 2020.
    cancelled to due COVID19 
@@ -195,3 +197,12 @@ Japan, August 2016.
 1. "Compaction of colloidal aggregates: modeling and simulation," Journées scientifiques du GDR 2980, Sorreze, France, July 2009.
 
 1. "Understanding the plastic deformation under uniform compression in 2D system," Journées scientifiques du GDR 2980, Carry le Rouet, France, June 2008.
+
+
+### [**International Congress on Rheology**](https://icr2020.com)
+
+- [Dec 14, 10:40, CS10, **Z. Zhao**, Computational Predictions of Magnetorheology and Magnetization Dynamics of Frictional Magnetic Nanoparticle Suspension](https://icr2020online.com/monday-14-december-2020)
+- [Dec 16, 15:40, CS75, **A. Singh**, Shear thickening and normal stresses in dense frictional suspensions: The "Roll" of Friction](https://icr2020online.com/wednesday-16-december-2020)
+- [Dec 17, 10:40, CS70, **G. Giusteri**, Shear jamming and fragility in a continuum model with unilateral constraints](https://icr2020online.com/thursday-17-december-2020)
+
+- [Dec 17, 13:20, CS64, **R. Seto**, Migration and jamming in pressure- driven flow of dense non-Brownian suspensions](https://icr2020online.com/thursday-17-december-2020)
