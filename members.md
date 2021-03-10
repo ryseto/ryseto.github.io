@@ -1,6 +1,6 @@
 ---
 layout: page
-title: COVID19
+title: COVID-19
 permalink: /COVID19/
 ---
 
