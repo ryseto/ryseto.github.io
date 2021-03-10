@@ -3,7 +3,6 @@ layout: page
 title: Ryohei Seto
 permalink: /profile/
 ---
-![R.Seto](/assets/img/seto.jpeg)
 
 Ryohei Seto, PI (Professor) \\
 瀬戸亮平　課題組長（教授）\\
