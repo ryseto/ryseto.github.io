@@ -4,7 +4,7 @@ title: COVID-19
 permalink: /COVID19/
 ---
 
-![Tokyo positive](/assets/gif/tokyo.gif)
+[Tokyo confirmed](/assets/gif/tokyo.gif)
 
 
 [奧村晴彦さんのデータを使わせてもらっています．](https://oku.edu.mie-u.ac.jp/~okumura/python/COVID-19.html)
