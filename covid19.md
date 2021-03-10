@@ -4,8 +4,16 @@ title: COVID-19
 permalink: /COVID19/
 ---
 
-[東京のPCR検査陽性者数(GIFアニメ) ](/assets/gif/tokyo.gif)
-(データは[ここ](https://oku.edu.mie-u.ac.jp/~okumura/python/COVID-19.html)から)
+緊急事態宣言や危機感の高まりによる行動変容と
+感染者数の変化を感じるための表現方法．
 
-[note 解説](https://note.com/ryseto/n/n432fcc37c992)
 
+Visualization to feel the impact of measures on the number of positive cases. 
+
+[東京のPCR検査陽性者数(GIFアニメ) Tokyo's positive cases](/assets/gif/tokyo.gif)
+([original data](https://oku.edu.mie-u.ac.jp/~okumura/python/COVID-19.html)から)
+
+[説明 explanation in Japanese](https://note.com/ryseto/n/n432fcc37c992)
+
+
+[Image for the zero-Covid strategy](/assets/img/zeroCOVID2.jpg)
