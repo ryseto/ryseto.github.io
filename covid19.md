@@ -4,8 +4,7 @@ title: COVID-19
 permalink: /COVID19/
 ---
 
-緊急事態宣言や危機感の高まりによる行動変容と
-感染者数の変化を感じるための表現方法．
+緊急事態宣言や警戒感よる行動変容と感染者数の変化の関係を感じるための表現方法．
 
 
 Visualization to feel the impact of measures on the number of positive cases. 
