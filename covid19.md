@@ -8,10 +8,10 @@ permalink: /COVID19/
 
 Visualization to feel the impact of measures on the number of positive cases. 
 
-- [東京のPCR検査陽性者数(GIF) Tokyo positive cases](/assets/gif/tokyo.gif)
+- [東京のPCR検査陽性者数 Tokyo positive cases](/assets/gif/tokyo.gif)
 (data is from [here](https://oku.edu.mie-u.ac.jp/~okumura/python/COVID-19.html))
 
-- [日本のPCR検査陽性者数(GIF) Japan positive cases](/assets/gif/japan.gif)
+- [日本のPCR検査陽性者数 Japan positive cases](/assets/gif/japan.gif)
 (data is from [here](https://www.mhlw.go.jp/content/pcr_positive_daily.csv))
 
 
