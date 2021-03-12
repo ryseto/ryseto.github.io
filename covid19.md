@@ -4,15 +4,20 @@ title: COVID-19
 permalink: /COVID19/
 ---
 
+
 コロナ対策の効果を感じるための表現方法
 
 Visualization to feel the impact of measures on the number of positive cases. 
 
 
 - [東京のPCR検査陽性者数 Tokyo positive cases](/assets/gif/tokyo.gif)
-(data is from [here](https://oku.edu.mie-u.ac.jp/~okumura/python/COVID-19.html))
+(data: [COVID-tokyo.csv](https://oku.edu.mie-u.ac.jp/~okumura/python/data/COVID-tokyo.csv) in
+[Prof. Haruhiko Okumura's website](https://oku.edu.mie-u.ac.jp/~okumura/python/COVID-19.html))
+
 - [日本のPCR検査陽性者数 Japan positive cases](/assets/gif/japan.gif)
-(data is from [here](https://www.mhlw.go.jp/content/pcr_positive_daily.csv))
+(data: [pcr_positive_daily.csv](https://www.mhlw.go.jp/content/pcr_positive_daily.csv)
+in [Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000164708_00001.html))
+
 
 
 対策は感染者一人が他の人に感染させる人数を減らすために行う．感染初期の症状や無症状では新型コロナに感染していると自覚せずに他人を感染させる．このように感染者がどこにいるのかわからない状況での対策では，人の接触する機会を全体的に減らす必要がある．このような性質から，対策のコスト（経済負荷）は基本的に感染者数が何人でも変わらない．
