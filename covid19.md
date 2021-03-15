@@ -12,10 +12,8 @@ Visualization to feel the impact of measures on the number of positive cases.
 - 東京のPCR検査陽性者数 Tokyo positive cases (data: [COVID-tokyo.csv](https://oku.edu.mie-u.ac.jp/~okumura/python/data/COVID-tokyo.csv) in
 [Prof. Haruhiko Okumura's website](https://oku.edu.mie-u.ac.jp/~okumura/python/COVID-19.html))
 
-
-
 {:refdef: style="text-align: center;"}
-![Tokyo movie](/assets/gif/tokyo.mov) 
+![tokyo.mp4](/assets/movie/tokyo.mp4) 
 {: refdef}
 
 
@@ -25,7 +23,7 @@ Visualization to feel the impact of measures on the number of positive cases.
 in [Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000164708_00001.html))
 
 {:refdef: style="text-align: center;"}
-![Japan movie](/assets/gif/japan.mov)
+![japan.mp4](/assets/movie/japan.mp4)
 {: refdef}
 
 
