@@ -13,14 +13,20 @@ Visualization to feel the impact of measures on the number of positive cases.
 [Prof. Haruhiko Okumura's website](https://oku.edu.mie-u.ac.jp/~okumura/python/COVID-19.html))
 
 
-![Mov](/assets/gif/tokyo.mov)
+
+{:refdef: style="text-align: center;"}
+![Tokyo movie](/assets/gif/tokyo.mov) 
+{: refdef}
+
+
 
 - 日本のPCR検査陽性者数 Japan positive cases
 (data: [pcr_positive_daily.csv](https://www.mhlw.go.jp/content/pcr_positive_daily.csv)
 in [Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000164708_00001.html))
 
-
-![Mov](/assets/gif/japan.mov)
+{:refdef: style="text-align: center;"}
+![Japan movie](/assets/gif/japan.mov)
+{: refdef}
 
 
 
