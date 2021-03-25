@@ -50,8 +50,8 @@ in [Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakuni
 
 
 
+- [Image for the zero-Covid strategy](/assets/img/zeroCOVID2.jpg)
 
 
-[Image for the zero-Covid strategy](/assets/img/zeroCOVID2.jpg)
+<div style="text-align:center"><img src="/assets/img/zeroCOVIDimage.jpg" /></div>
 
-![Image for the zero-Covid strategy](/assets/img/zeroCOVIDimage.jpg)
