@@ -11,13 +11,13 @@ Visualization to feel the impact of measures on the number of positive cases.
 
 - [note の解説 (explanation in Japanese)](https://note.com/ryseto/n/n432fcc37c992)
 
-- ２回の緊急事態宣言の比較---東京(日付から１週間の平均) \\
- [the state of emergency in the Tokyo region](/assets/movie/tokyo2.gif)
+- ２回の緊急事態宣言の比較(東京)\\
+ [Comparison between two states of emergency in Tokyo's positive case number.](/assets/movie/tokyo2.gif)
 
-- ２回の緊急事態宣言の比較---日本(日付から１週間の平均) \\
-[the state of emergency in the Tokyo region](/assets/movie/tokyo2.gif) 
+- ２回の緊急事態宣言の比較(日本) \\
+[Comparison between two states of emergency in Japan's positive case number.](/assets/movie/tokyo2.gif) 
 
-- 東京のPCR検査陽性者数 Tokyo positive cases (data: [COVID-tokyo.csv](https://oku.edu.mie-u.ac.jp/~okumura/python/data/COVID-tokyo.csv) in
+- 東京のPCR検査陽性者数 Tokyo's positive case number (data: [COVID-tokyo.csv](https://oku.edu.mie-u.ac.jp/~okumura/python/data/COVID-tokyo.csv) in
 [Prof. Haruhiko Okumura's website](https://oku.edu.mie-u.ac.jp/~okumura/python/COVID-19.html))
 
 <center>
@@ -29,7 +29,7 @@ Visualization to feel the impact of measures on the number of positive cases.
 - [youtube (2021-3-15)](https://youtu.be/F83stzDBO6c)
 
 
-- 日本のPCR検査陽性者数 Japan positive cases
+- 日本のPCR検査陽性者数 Japan's positive case number
 (data: [pcr_positive_daily.csv](https://www.mhlw.go.jp/content/pcr_positive_daily.csv)
 in [Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000164708_00001.html))
 
