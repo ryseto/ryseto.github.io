@@ -15,7 +15,7 @@ Visualization to feel the impact of measures on the number of positive cases.
  [Comparison between two states of emergency in Tokyo's positive case number.](/assets/movie/tokyo2.gif)
 
 - ２回の緊急事態宣言の比較(日本) \\
-[Comparison between two states of emergency in Japan's positive case number.](/assets/movie/tokyo2.gif) 
+[Comparison between two states of emergency in Japan's positive case number.](/assets/movie/japan2.gif) 
 
 - 東京のPCR検査陽性者数 Tokyo's positive case number (data: [COVID-tokyo.csv](https://oku.edu.mie-u.ac.jp/~okumura/python/data/COVID-tokyo.csv) in
 [Prof. Haruhiko Okumura's website](https://oku.edu.mie-u.ac.jp/~okumura/python/COVID-19.html))
