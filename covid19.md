@@ -11,6 +11,11 @@ Visualization to feel the impact of measures on the number of positive cases.
 
 - [note の解説 (explanation in Japanese)](https://note.com/ryseto/n/n432fcc37c992)
 
+
+- 東京と大阪の比較\\
+ [Comparison between Tokyo's and Osaka's positive case numbers.](/assets/movie/tokyo_osaka.mp4)
+
+
 - ２回の緊急事態宣言の比較(東京)\\
  [Comparison between two states of emergency in Tokyo's positive case number.](/assets/movie/tokyo2.gif)
 
