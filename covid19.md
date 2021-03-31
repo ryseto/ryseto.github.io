@@ -11,6 +11,11 @@ Visualization to feel the impact of measures on the number of positive cases.
 
 - [note の解説 (explanation in Japanese)](https://note.com/ryseto/n/n432fcc37c992)
 
+<div style="text-align:center">
+<a href="https://note.com/ryseto/n/n432fcc37c992"><img src="/assets/img/zeroCOVIDimage.jpg" alt="note.com"></a>
+</div>
+
+
 
 - 東京と大阪の比較\\
  [Comparison between Tokyo's and Osaka's positive case numbers.](/assets/movie/tokyo_osaka.mp4)
@@ -58,5 +63,5 @@ in [Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakuni
 - [Image for the zero-Covid strategy](/assets/img/zeroCOVID2.jpg)
 
 
-<div style="text-align:center"><img src="/assets/img/zeroCOVIDimage.jpg" /></div>
+
 
