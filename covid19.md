@@ -17,37 +17,38 @@ Visualization to feel the impact of measures on the number of positive cases.
 
 
 
-- 東京と大阪の比較\\
- [Comparison between Tokyo's and Osaka's positive case numbers.](/assets/movie/tokyo_osaka.mp4)
-
-
-- ２回の緊急事態宣言の比較(東京)\\
- [Comparison between two states of emergency in Tokyo's positive case number.](/assets/movie/tokyo2.gif)
-
-- ２回の緊急事態宣言の比較(日本) \\
-[Comparison between two states of emergency in Japan's positive case number.](/assets/movie/japan2.gif) 
-
-- 東京のPCR検査陽性者数 Tokyo's positive case number (data: [COVID-tokyo.csv](https://oku.edu.mie-u.ac.jp/~okumura/python/data/COVID-tokyo.csv) in
-[Prof. Haruhiko Okumura's website](https://oku.edu.mie-u.ac.jp/~okumura/python/COVID-19.html))
+- 東京と大阪の比較 Comparison between Tokyo's and Osaka's positive case numbers.\\
+(data: [COVID-tokyo.csv](https://oku.edu.mie-u.ac.jp/~okumura/python/data/COVID-tokyo.csv)
+and [covid19-osaka.info](https://covid19-osaka.info/data/summary.csv))
 
 <center>
 <video muted autoplay controls>
-    <source src="/assets/movie/tokyo.mp4" type="video/mp4">
+    <source src="/assets/movie/tokyo_osaka.mp4" type="video/mp4">
 </video>
 </center>
+
+
+
+- [２回の緊急事態宣言の比較(東京) Comparison between two states of emergency in Tokyo's positive case number.](/assets/movie/tokyo2.gif)
+
+- [２回の緊急事態宣言の比較(日本) Comparison between two states of emergency in Japan's positive case number.](/assets/movie/japan2.gif) 
+
+- [東京のPCR検査陽性者数 Tokyo's positive case number](/assets/movie/tokyo.mp4) \\
+(data: [COVID-tokyo.csv](https://oku.edu.mie-u.ac.jp/~okumura/python/data/COVID-tokyo.csv) in
+[Prof. Haruhiko Okumura's website](https://oku.edu.mie-u.ac.jp/~okumura/python/COVID-19.html))
+
 
 - [youtube (2021-3-15)](https://youtu.be/F83stzDBO6c)
 
 
-- 日本のPCR検査陽性者数 Japan's positive case number
+
+- [日本のPCR検査陽性者数 Japan's positive case number](/assets/movie/japan.mp4) \\
 (data: [pcr_positive_daily.csv](https://www.mhlw.go.jp/content/pcr_positive_daily.csv)
 in [Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000164708_00001.html))
 
-<center>
-<video muted autoplay controls>
-    <source src="/assets/movie/japan.mp4" type="video/mp4">
-</video>
-</center>
+
+
+
 
 
 
