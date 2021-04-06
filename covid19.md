@@ -4,16 +4,18 @@ title: COVID-19
 permalink: /COVID19/
 ---
 
-
-コロナ対策の効果を感じるための表現方法
+図で認識するコロナ対策
 
 Visualization to feel the impact of measures on the number of positive cases. 
+
 
 - [note の解説 (explanation in Japanese)](https://note.com/ryseto/n/n432fcc37c992)
 
 <div style="text-align:center">
 <a href="https://note.com/ryseto/n/n432fcc37c992"><img src="/assets/img/zeroCOVID2.jpg" alt="note.com"></a>
 </div>
+
+- [長期ビジョンと短期ビジョンの緊急事態宣言（イメージ）](/assets/img/zerocovid3.jpg) [2021-4-6]
 
 - 東京と大阪の比較 Comparison between Tokyo's and Osaka's positive case numbers.\\
 (data: [COVID-tokyo.csv](https://oku.edu.mie-u.ac.jp/~okumura/python/data/COVID-tokyo.csv)
