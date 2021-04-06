@@ -4,7 +4,7 @@ title: COVID-19
 permalink: /COVID19/
 ---
 
-図で認識するコロナ対策
+対策と効果の可視化．
 
 Visualization to feel the impact of measures on the number of positive cases. 
 
