@@ -4,8 +4,6 @@
 layout: home
 ---
 
-Welcome to Seto group
-
 ### [**JOIN US!**](joinus.md)
 
 We study the mechanical properties of functional soft materials using computer simulation. Our research focuses on the rheology of complex fluids. We aim to develop simulations to capture mesoscale dynamics, which determine structures in nonequilibrium conditions, such as driven systems or biological systems. One of our goals is to bring insights from soft matter physics to biomaterials sciences and living phenomena. We are also interested in investigating colloidal phenomena for medical applications.
