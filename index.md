@@ -4,12 +4,20 @@
 layout: home
 ---
 
-### [**JOIN US!**](joinus.md)
+Welcome to Seto group at WIUCAS.
+
+### **BCAM visiting fellow for May--June 2021** 
+
+[CFD Modelling and Simulation Group at Basque Center for Applied Mathematics](http://www.bcamath.org/en/research/lines/CFDMS) .
+
+[time table between Spain and China](assets/img/spain_china.jpg)
+
+### **Modeling and simulation for Soft matter complex fluids** 
 
 We study the mechanical properties of functional soft materials using computer simulation. Our research focuses on the rheology of complex fluids. We aim to develop simulations to capture mesoscale dynamics, which determine structures in nonequilibrium conditions, such as driven systems or biological systems. One of our goals is to bring insights from soft matter physics to biomaterials sciences and living phenomena. We are also interested in investigating colloidal phenomena for medical applications.
 
-### **What's New!** 
-- 2020.09 We move to new building!
+### **What's New!**
+- 2021.05 BCAM visiting fellow for May--June 2021.
 - 2020.07 New member, Dr. Zhiyuan Zhao joined our group! 
 - 2020.07 Our paper on rolling friction in dense suspensions is published in [PRL](https://link.aps.org/doi/10.1103/PhysRevLett.124.248005). 
 
