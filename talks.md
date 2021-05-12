@@ -127,7 +127,7 @@ The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016](htt
 
 ### Oral presentations
 
-1. R. Seto, M. Doi, "Jamming in pressure-driven flows," (ISSP workshop: Frontier research on glasses and related complex systems)[https://yamamuro.issp.u-tokyo.ac.jp/glass2021/index.html], May 11, 2021
+1. [R. Seto, M. Doi, "Jamming in pressure-driven flows," ISSP workshop: Frontier research on glasses and related complex systems](https://yamamuro.issp.u-tokyo.ac.jp/glass2021/index.html), May 11, 2021
 
  
 1. R. Seto, M. Doi "Migration in dense suspension flowsm," the Annual European Rheology Conference, Norway (Online), April 14, 2021
