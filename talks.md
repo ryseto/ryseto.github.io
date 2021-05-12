@@ -127,10 +127,12 @@ The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016](htt
 
 ### Oral presentations
 
-1. R. Seto, M. Doi, "Jamming in pressure-driven flows", (ISSP workshop: Frontier research on glasses and related complex systems)[https://yamamuro.issp.u-tokyo.ac.jp/glass2021/index.html], May 11, 2021
- 
+1. R. Seto, M. Doi, "Jamming in pressure-driven flows," (ISSP workshop: Frontier research on glasses and related complex systems)[https://yamamuro.issp.u-tokyo.ac.jp/glass2021/index.html], May 11, 2021
 
-1. R. Seto, M. Doi "Migration in dense suspension flows", the Annual European Rheology Conference, Norway (Online), April 14 2021,
+ 
+1. R. Seto, M. Doi "Migration in dense suspension flowsm," the Annual European Rheology Conference, Norway (Online), April 14, 2021
+
+1. R. Seto, M. Doi "Toward a fluid mechanics simulation of dense suspensions," International Workshop on Machine Learning for Soft Matter". International Workshop on Machine Learning for So! Matter 2021, Feburary 10, 2021
 
 1. R. Seto, M. Doi, "Migration and jamming in pressure-driven flow of dense non-Brownian suspensions", International Congress on Rheology, Brazil (online), Dec 17, 2020
 
@@ -147,6 +149,8 @@ The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016](htt
 1. "Migration and jamming in pressure-driven flow of dense non-Brownian suspensions,"
 Grand Views of Soft and Liquid Matter Physics, Tokyo, Japan, March 2020.
    cancelled to due COVID19 
+
+1. "Channel-flow clogging of colloidal suspensions", 33th Molecular Simulation Discussion Meeting, Nagoya, Japan, December 11, 2019.
 
 1. "Normal stress differences in dense suspensions," Annual Meeting of the Japanese Society of Rheolgy, Fukuoka, Japan, October 2018 
 
