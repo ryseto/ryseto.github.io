@@ -8,7 +8,8 @@ permalink: /publications/
 
 ### Papers
 
-1. [Giulio G. Giusteri, Ryohei Seto, Shear jamming and fragility of suspensions in a continuum model with elastic constraints, arXiv:2102.01923](https://arxiv.org/abs/2102.01923)
+1. [C. Ness, R. Seto, R. Mari, The physics of dense suspensions, (to appear in Annual Review of Condensed Matter Physics) arXiv:2105.04162](https://arxiv.org/abs/2105.04162)
+1. [G. G. Giusteri, R. Seto, Shear jamming and fragility of suspensions in a continuum model with elastic constraints, arXiv:2102.01923](https://arxiv.org/abs/2102.01923)
 1. [J. T. Jenkins, R. Seto, L. L. Ragione, Predictions of microstructure and stress in two-dimensional pure shearing of a dense viscous suspension, J. Fluid Mech., 912:A27, 2021.](https://doi.org/10.1017/jfm.2020.1111)
 1. [A. Singh, C. Ness, R. Seto, J. J. de Pablo, H. M. Jaeger, Shear thickening and jamming of dense suspensions: the roll of friction, Phys. Rev. Lett. 124, 248005, 2020.](https://journals.aps.org/prl/accepted/6a071YaaC7012d6786e11908e97c58d6265f0e9a3), [arXiv:2002.10996](https://arxiv.org/abs/2002.10996)
 1. [R. Mari and R. Seto, Force transmission and the order parameter of shear thickening, Soft Matter, 15:6650–6659, 2019.](http://dx.doi.org/10.1039/C9SM01223K)

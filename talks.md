@@ -6,7 +6,10 @@ permalink: /talks/
 
 ### Keynote/Symposium/Invited presentations
 
-1. Invited 濃厚懸濁液のレオロジーと流路内の流動, 第16回希薄溶液の流動学講演会 第23回複雑流体研究会, Japan, Nov 20, 2020
+1. Invited "Dense suspension flows in channels", 2021 International Workshop on Soft Matter and Biophysics Theories–Youth Forum,
+MinJiang University, Fuzhou City, March 24, 2021.
+
+1. Invited "濃厚懸濁液のレオロジーと流路内の流動", 第16回希薄溶液の流動学講演会 第23回複雑流体研究会, Japan, Nov 20, 2020
 
 1. [Invited "The physics and fluid mechanics of dense suspensions," 2020 International Workshop on “Soft Matter and Biophysics Theories”](https://indico.itp.ac.cn/event/35/overview), Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing, 5th Nov 2020
 
@@ -51,6 +54,8 @@ The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016](htt
 
 
 ### Seminars
+
+1. "Channel flows of colloidal suspensions" Xiamen University, April 29, 2021.
 
 1. ["A numerical approach to predict incompressible flows of dense non-Brownian suspensions" Kyoto University, February 27, 2020](https://www.yukawa.kyoto-u.ac.jp/seminar/s52679)
 
@@ -122,8 +127,12 @@ The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016](htt
 
 ### Oral presentations
 
+1. R. Seto, M. Doi, "Jamming in pressure-driven flows", (ISSP workshop: Frontier research on glasses and related complex systems)[https://yamamuro.issp.u-tokyo.ac.jp/glass2021/index.html], May 11, 2021
+ 
 
-1. R. Seto, M. Doi, Migration and jamming in pressure- driven flow of dense non-Brownian suspensions, International Congress on Rheology, Brazil (online), Dec 17, 2020
+1. R. Seto, M. Doi "Migration in dense suspension flows", the Annual European Rheology Conference, Norway (Online), April 14 2021,
+
+1. R. Seto, M. Doi, "Migration and jamming in pressure-driven flow of dense non-Brownian suspensions", International Congress on Rheology, Brazil (online), Dec 17, 2020
 
 1. G. Giusteri, R. Seto, "Shear jamming and fragility in a continuum model with unilateral constraints", Dec 17, 2020
 
