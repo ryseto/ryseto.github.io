@@ -100,6 +100,7 @@ Proceedings of the Royal Society of London A: Mathematical, Physical and Enginee
 Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character = Proc. R. Soc. Lond. A
 Reports on Progress in Physics = Rep. Prog. Phys.
 Rheologica Acta = Rheol. Acta
+Reviews of Modern Physics = Rev. Mod. Phys.
 Scientific Reports = Sci. Rep.
 Smart Materials and Structures = Smart Mater. Struct.
 The European Physical Journal Applied Physics = Eur. Phys. J. Appl. Phys.
