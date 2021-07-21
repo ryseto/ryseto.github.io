@@ -11,6 +11,9 @@ Ryohei Seto, PI (Professor) \\
 
 [CV](https://ryseto.github.io/assets/pdf/CV_Seto.pdf)
 
+
+
+
 PI Researcher(Professor) (2019-) \\
 [Wenzhou Institute, University of Chinese Academy of Sciences](http://english.wiucas.ac.cn)\\
 [中国科学院大学温州研究院](http://www.wibe.ac.cn)
@@ -26,6 +29,8 @@ Dr. Ryohei Seto is a computational physicist with broad experience in soft mater
 研究领域主要为软材料科学领域的计算物理学，内容涉及胶体动力学、悬浮流变学、颗粒系统。课题组目前的研究重点是悬浮液的流体力学、生物力学、生物系统中的传输现象。
 濑户博士在剪切增稠的研究领域成就突出（剪切增稠现象为在较高的应力下流体变得更粘稠），论文被广泛引用，对该领域有巨大影响。其中，一篇论文获得2015年流变学会奖。
 濑户博士积极活跃在软物质理论领域，被多个国际会议和研讨会邀请并作邀请报告。
+
+![Ryohei Seto](/assets/img/seto_small.jpeg)
 
 
 ### Academic ID
@@ -43,6 +48,7 @@ No.1 Jinlian Road, Longwan District, Wenzhou, Zhejiang, 325000, China\\
 ### Work
 - 2020-present Visiting Professor, Graduate School of Simulation Studies, University of Hyogo
 - 2019-present PI Researcher(Professor), Wenzhou Institute, University of Chinese Academy of Sciences, China
+- 2021 BCAM visiting fellow, Basque Center for Applied Mathematics
 - 2018-2019 Program-Specific Researcher, Transport Phenomena Group, Department of Chemical Engineering, Kyoto University, Kyoto, Japan
 - 2015–2018 Group Leader, Okinawa Institute of Science and Technology Graduate University,
 Onna, Japan
