@@ -8,12 +8,25 @@ permalink: /COVID19/
 
 Visualization to feel the impact of measures on the number of positive cases. 
 
+- 100万人あたりの死者数（アジア）
+<center>
+<video muted autoplay controls>
+    <source src="/assets/movie/asia_death_per_M.mp4" type="video/mp4">
+</video>
+</center>
+
+- 100万人あたりの死者数（世界）
+<center>
+<video muted autoplay controls>
+    <source src="/assets/movie/world_death_per_M.mp4" type="video/mp4">
+</video>
+</center>
+
+
 
 - [note の解説 (explanation in Japanese)](https://note.com/ryseto/n/n432fcc37c992)
 
-<div style="text-align:center">
-<a href="https://note.com/ryseto/n/n432fcc37c992"><img src="/assets/img/zeroCOVID2.jpg" alt="note.com"></a>
-</div>
+
 
 - [長期ビジョンと短期ビジョンの緊急事態宣言（イメージ）](/assets/img/zerocovid3.jpg) [2021-4-6]
 
@@ -29,6 +42,7 @@ and [covid19-osaka.info](https://covid19-osaka.info/data/summary.csv))
 
 
 
+
 - [２回の緊急事態宣言の比較(東京) Comparison between two states of emergency in Tokyo's positive case number.](/assets/movie/tokyo2.gif)
 
 - [２回の緊急事態宣言の比較(日本) Comparison between two states of emergency in Japan's positive case number.](/assets/movie/japan2.gif) 
@@ -36,10 +50,6 @@ and [covid19-osaka.info](https://covid19-osaka.info/data/summary.csv))
 - [東京のPCR検査陽性者数 Tokyo's positive case number](/assets/movie/tokyo.mp4) \\
 (data: [COVID-tokyo.csv](https://oku.edu.mie-u.ac.jp/~okumura/python/data/COVID-tokyo.csv) in
 [Prof. Haruhiko Okumura's website](https://oku.edu.mie-u.ac.jp/~okumura/python/COVID-19.html))
-
-
-- [youtube (2021-3-15)](https://youtu.be/F83stzDBO6c)
-
 
 
 - [日本のPCR検査陽性者数 Japan's positive case number](/assets/movie/japan.mp4) \\
