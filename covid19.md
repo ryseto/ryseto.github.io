@@ -6,7 +6,7 @@ permalink: /COVID19/
 
 コロナ対策のゴールを図解
 
-Visualization to feel the impact of measures on the number of positive cases. 
+Visualization to feel the impact of measures on COVID-19.
 
 - 100万人あたりの死者数（アジア）
 <center>
