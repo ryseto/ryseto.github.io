@@ -4,18 +4,19 @@ title: COVID-19
 permalink: /COVID19/
 ---
 
-コロナ対策のゴールを図解
+感染者数の推移を可視化
 
 Visualization to feel the impact of measures on COVID-19.
 
-- 100万人あたりの死者数（アジア）
+- 東京の感染者数 Tokyo's new cases ([tokyo_COVID19.nb (Mathematica)](/assets/misc/tokyo_COVID19.nb))
+
 <center>
 <video muted autoplay controls>
-    <source src="/assets/movie/asia_death_per_M.mp4" type="video/mp4">
+    <source src="/assets/movie/Tokyo_new_cases.mp4" type="video/mp4">
 </video>
 </center>
 
-- 100万人あたりの死者数（世界）
+- 100万人あたりの死者数（世界）([covid19-slope_deaths.nb (Mathematica)](/assets/misc/covid19-slope_deaths.nb))
 <center>
 <video muted autoplay controls>
     <source src="/assets/movie/world_death_per_M.mp4" type="video/mp4">
@@ -23,41 +24,14 @@ Visualization to feel the impact of measures on COVID-19.
 </center>
 
 
+- [100万人あたりの死者数（アジア）](/assets/movie/asia_death_per_M.mp4)
 
 - [note の解説 (explanation in Japanese)](https://note.com/ryseto/n/n432fcc37c992)
 
 
-
 - [長期ビジョンと短期ビジョンの緊急事態宣言（イメージ）](/assets/img/zerocovid3.jpg) [2021-4-6]
 
-- 東京と大阪の比較 Comparison between Tokyo's and Osaka's positive case numbers.\\
-(data: [COVID-tokyo.csv](https://oku.edu.mie-u.ac.jp/~okumura/python/data/COVID-tokyo.csv)
-and [covid19-osaka.info](https://covid19-osaka.info/data/summary.csv))
-
-<center>
-<video muted autoplay controls>
-    <source src="/assets/movie/tokyo_osaka.mp4" type="video/mp4">
-</video>
-</center>
-
-
-
 - [３回の緊急事態宣言の比較(東京) Comparison between two states of emergency in Tokyo's positive case number.](/assets/movie/tokyo.gif)
-
-
-- [東京のPCR検査陽性者数 Tokyo's positive case number](/assets/movie/tokyo.mp4) \\
-(data: [COVID-tokyo.csv](https://oku.edu.mie-u.ac.jp/~okumura/python/data/COVID-tokyo.csv) in
-[Prof. Haruhiko Okumura's website](https://oku.edu.mie-u.ac.jp/~okumura/python/COVID-19.html))
-
-
-- [日本のPCR検査陽性者数 Japan's positive case number](/assets/movie/japan.mp4) \\
-(data: [pcr_positive_daily.csv](https://www.mhlw.go.jp/content/pcr_positive_daily.csv)
-in [Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000164708_00001.html))
-
-- [日本と台湾](/assets/movie/japan_taiwan.mp4) 
-
-- [日本，台湾，オーストラリア，米国](/assets/movie/japan_taiwan_australia_usa_death.mp4) 
-
 
 - 対策は感染者一人が他の人に感染させる人数を減らすために行う．感染初期の症状や無症状では新型コロナに感染していると自覚せずに他人を感染させる．このように感染者がどこにいるのかわからない状況での対策では，人の接触する機会を全体的に減らす必要がある．このような性質から，対策のコスト（経済負荷）は基本的に感染者数が何人でも変わらない．
 
@@ -65,11 +39,4 @@ in [Ministry of Health, Labour and Welfare](https://www.mhlw.go.jp/stf/seisakuni
 
 
 - 対策などの条件が一定の条件下で感染者数は指数関数的に変化する．感染者数を対数スケールにすることで，緊急事態宣言や警戒による行動変容が変化した時のレスポンスを直感的に感じることができる．時間を横軸にとったプロットでも情報は同じだが，動きで表現することで感覚的に理解できる．
-
-
-
-
-
-
-
 
