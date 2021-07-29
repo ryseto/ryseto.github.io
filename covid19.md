@@ -16,13 +16,8 @@ Visualization to feel the impact of measures on COVID-19.
 </video>
 </center>
 
-- 100万人あたりの死者数（世界）([covid19-slope_deaths.nb (Mathematica)](/assets/misc/covid19-slope_deaths.nb))
-<center>
-<video muted autoplay controls>
-    <source src="/assets/movie/world_death_per_M.mp4" type="video/mp4">
-</video>
-</center>
-
+- [100万人あたりの死者数（世界）](/assets/movie/world_death_per_M.mp4) \\
+ ([covid19-slope_deaths.nb (Mathematica)](/assets/misc/covid19-slope_deaths.nb))
 
 - [100万人あたりの死者数（アジア）](/assets/movie/asia_death_per_M.mp4)
 
