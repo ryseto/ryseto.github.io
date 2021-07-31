@@ -4,9 +4,11 @@ title: COVID-19
 permalink: /COVID19/
 ---
 
-感染者数の推移を可視化
+感染者数の推移を可視化 
 
 Visualization to feel the impact of measures on COVID-19.
+
+- （このページの図や動画，Mathematicaのファイルは自由に使ってください）
 
 - 傾斜が一定の坂に感染者数を示す数字が対数スケールで刻まれている．
 
