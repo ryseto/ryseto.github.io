@@ -4,6 +4,7 @@ title: COVID-19
 permalink: /COVID19/
 ---
 
+# **対数坂の上で玉を支え続けるのか？**
 
 感染者数の推移を可視化 
 
@@ -11,7 +12,7 @@ Visualization to feel the impact of measures on COVID-19.
 
 このページの図や動画，Mathematicaのファイルは自由に使ってください．何か内容に間違いがあればメールや[Twitter](https://twitter.com/ryseto)で教えてください．
 
-# **対数坂の玉を支えている**
+
 
 傾斜角一定の坂に感染者数（または死者数）を表す数字が対数スケールで刻まれている．
 
