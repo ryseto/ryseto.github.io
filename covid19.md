@@ -60,5 +60,5 @@ Visualization to feel the impact of measures on COVID-19.
 
 - [３回の緊急事態宣言の比較(東京) Comparison between two states of emergency in Tokyo's positive case number.](/assets/movie/tokyo.gif)
 
-- [感染者数と死者数](/assets/misc/newcases_and_newdeaths.nb)
+- [感染者数と死者数 newcases_and_newdeaths.nb](/assets/misc/newcases_and_newdeaths.nb)
 
