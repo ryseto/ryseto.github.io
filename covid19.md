@@ -4,13 +4,12 @@ title: COVID-19
 permalink: /COVID19/
 ---
 
-# **感染者数の推移を動きで表現**
-
+### **感染者数の推移を動きで表現**
 
 
 Visualization to feel the impact of measures on COVID-19.
 
-このページの図や動画，Mathematicaのファイルは自由に使ってください．何か内容に間違いがあればメールや[Twitter](https://twitter.com/ryseto)で教えてください．また，**私は感染症の専門家ではないですが，分野外の研究者でも考え方を整理して問題を捉えやすくするなどの貢献はできると信じてこれを書いています．指摘は全て真剣に検討しますのでフィードバックください**．
+このページの図や動画，Mathematicaのファイルは自由に使ってください．問題を考えるとっかかりになると信じてこれを書いていますが，間違いや誤解を生む可能性がある等の指摘があれば連絡ください．
 
 **東京の新規感染者数** ([tokyo_COVID19.nb (Mathematica)](/assets/misc/tokyo_COVID19.nb))
 
