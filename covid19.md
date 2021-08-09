@@ -4,13 +4,22 @@ title: COVID-19
 permalink: /COVID19/
 ---
 
-# **対数坂の上で玉を支え続けるのか？**
+# **感染者数の推移を動きで表現**
 
-感染者数の推移を可視化 
+
 
 Visualization to feel the impact of measures on COVID-19.
 
 このページの図や動画，Mathematicaのファイルは自由に使ってください．何か内容に間違いがあればメールや[Twitter](https://twitter.com/ryseto)で教えてください．また，**私は感染症の専門家ではないですが，分野外の研究者でも考え方を整理して問題を捉えやすくするなどの貢献はできると信じてこれを書いています．指摘は全て真剣に検討しますのでフィードバックください**．
+
+**東京の新規感染者数** ([tokyo_COVID19.nb (Mathematica)](/assets/misc/tokyo_COVID19.nb))
+
+<center>
+<video muted autoplay controls>
+    <source src="/assets/movie/Tokyo_new_cases.mp4" type="video/mp4">
+</video>
+</center>
+
 
 
 傾斜角一定の坂に感染者数（または死者数）を表す数字が対数スケールで刻まれている．
@@ -44,26 +53,16 @@ Visualization to feel the impact of measures on COVID-19.
 (3) 大半の人が感染してしまえば，感染させる相手がいなくなるので感染の拡大は止まる．これは人と接する生活をする人口の半分以上の人が感染することになる．これも集団免疫なので1人が感染させるはずだった人数のうち，そのほとんどが既に感染済みなら感染は止まる．ワクチンで感染しても重症化しないなら，このシナリオが現実的な選択肢と言える．もちろんワクチンが行き渡る割合，重症化する割合を見る必要がある．
 
 
+### その他
+
+- [note の解説 (explanation in Japanese)](https://note.com/ryseto/n/n432fcc37c992)
 
 - [ワクチンによる集団免疫の考え方](/assets/pdf/role_of_vaccine.pdf)
-
-### 可視化
-
-- 東京の新規感染者数 Tokyo's new cases ([tokyo_COVID19.nb (Mathematica)](/assets/misc/tokyo_COVID19.nb))
-
-<center>
-<video muted autoplay controls>
-    <source src="/assets/movie/Tokyo_new_cases.mp4" type="video/mp4">
-</video>
-</center>
 
 - [100万人あたりの死者数（世界）](/assets/movie/world_death_per_M.mp4) \\
  ([covid19-slope_deaths.nb (Mathematica)](/assets/misc/covid19-slope_deaths.nb))
 
 - [100万人あたりの死者数（アジア）](/assets/movie/asia_death_per_M.mp4)
-
-- [note の解説 (explanation in Japanese)](https://note.com/ryseto/n/n432fcc37c992)
-
 
 - [長期ビジョンと短期ビジョンの緊急事態宣言（イメージ）](/assets/img/zerocovid3.jpg) [2021-4-6]
 
