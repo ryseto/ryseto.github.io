@@ -13,7 +13,7 @@
 <meta property="og:url" content="http://localhost:4000/COVID19/" />
 <meta property="og:site_name" content="Computational Soft and Biological Matter group" />
 <script type="application/ld+json">
-{"headline":"COVID-19","description":"Our group study soft-matter physics, complex fluid mechanics, and rheology with various computational methods.","@type":"WebPage","url":"http://localhost:4000/COVID19/","@context":"https://schema.org"}</script>
+{"headline":"COVID-19","url":"http://localhost:4000/COVID19/","description":"Our group study soft-matter physics, complex fluid mechanics, and rheology with various computational methods.","@type":"WebPage","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Computational Soft and Biological Matter group" /></head>
 <body><header class="site-header" role="banner">
@@ -40,13 +40,19 @@
   </header>
 
   <div class="post-content">
-    <h1 id="対数坂の上で玉を支え続けるのか"><strong>対数坂の上で玉を支え続けるのか？</strong></h1>
-
-<p>感染者数の推移を可視化</p>
+    <h1 id="感染者数の推移を動きで表現"><strong>感染者数の推移を動きで表現</strong></h1>
 
 <p>Visualization to feel the impact of measures on COVID-19.</p>
 
 <p>このページの図や動画，Mathematicaのファイルは自由に使ってください．何か内容に間違いがあればメールや<a href="https://twitter.com/ryseto">Twitter</a>で教えてください．また，<strong>私は感染症の専門家ではないですが，分野外の研究者でも考え方を整理して問題を捉えやすくするなどの貢献はできると信じてこれを書いています．指摘は全て真剣に検討しますのでフィードバックください</strong>．</p>
+
+<p><strong>東京の新規感染者数</strong> (<a href="/assets/misc/tokyo_COVID19.nb">tokyo_COVID19.nb (Mathematica)</a>)</p>
+
+<center>
+<video muted="" autoplay="" controls="">
+    <source src="/assets/movie/Tokyo_new_cases.mp4" type="video/mp4" />
+</video>
+</center>
 
 <p>傾斜角一定の坂に感染者数（または死者数）を表す数字が対数スケールで刻まれている．</p>
 
@@ -83,33 +89,23 @@
 (2) ワクチンの集団免疫が成立するというのは，再生算数が３の場合，本来感染させる３人のうち，ワクチンによる感染防止の効果で2人以上が感染しない状況．ワクチン接種が進むほど坂の角度が緩やかになり，最終的には下り坂で感染者０のところまでいける．多くの人がワクチンにこれを期待していたと思うけど，残念ながらワクチンの感染防止効果は十分でないらしい．<br />
 (3) 大半の人が感染してしまえば，感染させる相手がいなくなるので感染の拡大は止まる．これは人と接する生活をする人口の半分以上の人が感染することになる．これも集団免疫なので1人が感染させるはずだった人数のうち，そのほとんどが既に感染済みなら感染は止まる．ワクチンで感染しても重症化しないなら，このシナリオが現実的な選択肢と言える．もちろんワクチンが行き渡る割合，重症化する割合を見る必要がある．</p>
   </li>
+</ul>
+
+<h3 id="その他">その他</h3>
+
+<ul>
+  <li>
+    <p><a href="https://note.com/ryseto/n/n432fcc37c992">note の解説 (explanation in Japanese)</a></p>
+  </li>
   <li>
     <p><a href="/assets/pdf/role_of_vaccine.pdf">ワクチンによる集団免疫の考え方</a></p>
   </li>
-</ul>
-
-<h3 id="可視化">可視化</h3>
-
-<ul>
-  <li>東京の新規感染者数 Tokyo’s new cases (<a href="/assets/misc/tokyo_COVID19.nb">tokyo_COVID19.nb (Mathematica)</a>)</li>
-</ul>
-
-<center>
-<video muted="" autoplay="" controls="">
-    <source src="/assets/movie/Tokyo_new_cases.mp4" type="video/mp4" />
-</video>
-</center>
-
-<ul>
   <li>
     <p><a href="/assets/movie/world_death_per_M.mp4">100万人あたりの死者数（世界）</a> <br />
  (<a href="/assets/misc/covid19-slope_deaths.nb">covid19-slope_deaths.nb (Mathematica)</a>)</p>
   </li>
   <li>
     <p><a href="/assets/movie/asia_death_per_M.mp4">100万人あたりの死者数（アジア）</a></p>
-  </li>
-  <li>
-    <p><a href="https://note.com/ryseto/n/n432fcc37c992">note の解説 (explanation in Japanese)</a></p>
   </li>
   <li>
     <p><a href="/assets/img/zerocovid3.jpg">長期ビジョンと短期ビジョンの緊急事態宣言（イメージ）</a> [2021-4-6]</p>
