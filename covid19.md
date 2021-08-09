@@ -10,7 +10,7 @@ permalink: /COVID19/
 
 Visualization to feel the impact of measures on COVID-19.
 
-このページの図や動画，Mathematicaのファイルは自由に使ってください．何か内容に間違いがあればメールや[Twitter](https://twitter.com/ryseto)で教えてください．
+このページの図や動画，Mathematicaのファイルは自由に使ってください．何か内容に間違いがあればメールや[Twitter](https://twitter.com/ryseto)で教えてください．また，**私は感染症の専門家ではないですが，分野外の研究者でも考え方を整理して問題を捉えやすくするなどの貢献はできると信じてこれを書いています．指摘は全て真剣に検討しますのでフィードバックください**．
 
 
 傾斜角一定の坂に感染者数（または死者数）を表す数字が対数スケールで刻まれている．
