@@ -12,15 +12,16 @@ Ryohei Seto, PI (Professor) \\
 [CV](https://ryseto.github.io/assets/pdf/CV_Seto.pdf)
 
 
-
-
 PI Researcher(Professor) (2019-) \\
-[Wenzhou Institute, University of Chinese Academy of Sciences](http://english.wiucas.ac.cn)\\
-[中国科学院大学温州研究院](http://www.wibe.ac.cn)
+ [Wenzhou Institute, University of Chinese Academy of Sciences](http://english.wiucas.ac.cn)\\
+ [中国科学院大学温州研究院](http://www.wibe.ac.cn)
+
+ Oujiang Laboratory (Zhejiang Lab for Regenerative Medicine, Vision and Brain Health)\\
+ 瓯江実験室瓯江实验室（再生调控与眼脑健康浙江省实验室）
 
 Visiting Professor (2020-)\\
-[Graduate School of Simulation Studies, University of Hyogo](http://www.simulation-studies.org)\\
-[兵庫県立大学大学院シミュレーション学研究科](http://www.simulation-studies.org)
+ [The Graduate School of Information Science, University of Hyogo](http://www.simulation-studies.org)\\
+ [兵庫県立大学大学院シミュレーション学研究科](http://www.simulation-studies.org)
 
 Dr. Ryohei Seto is a computational physicist with broad experience in soft materials science, including colloidal dynamics, suspension rheology, and granular systems. His current research focuses are fluid mechanics of suspensions, biomechanics, and transport phenomena in biological systems. After his Ph. D in condensed matter physics in 2006, he got a postdoctoral fellowship from the French Government to work on soft matter physics at the Solid States Physics Laboratory (Orsay). He also worked as postdoctoral researchers at the Technical University of Munich, the Max Planck Institute for Polymer Research (Mainz), and the City College of New York. He joined the Okinawa Institute of Science and Technology as a Group Leader (Senior Staff Scientists) in 2015. He is now a PI researcher at the Wenzhou Institute of UCAS since October 2019. He is also a Visiting Professor at the Graduate School of Simulation Studies of the University of Hyogo since April 2020. He is particularly known for his study of shear thickening, a phenomenon in which fluid becomes more viscous under higher stresses. His work is highly cited and has had an enormous impact on the field; one paper was the recipient of the Publication Award of The Society of Rheology in 2015, and he gave invited talks in many international conferences and workshops.
 
@@ -42,8 +43,9 @@ Dr. Ryohei Seto is a computational physicist with broad experience in soft mater
 
 ### Address
 
-No.1 Jinlian Road, Longwan District, Wenzhou, Zhejiang, 325000, China\\
-浙江省温州市龙湾区金联路1号 (邮编 325000)
+No.1 Jinlian Road, Longwan District, Wenzhou, Zhejiang, 325001, China\\
+浙江省温州市龙湾区金联路1号 (邮编 325001)
+
 
 ### Work
 - 2020-present Visiting Professor, Graduate School of Simulation Studies, University of Hyogo
