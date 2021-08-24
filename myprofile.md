@@ -8,16 +8,14 @@ Ryohei Seto, PI (Professor) \\
 瀬戸亮平　課題組長（教授）\\
 温州市海外精英引進計画 
 
-
 [CV](https://ryseto.github.io/assets/pdf/CV_Seto.pdf)
 
+PI Researcher (Professor) (2019-) \\
+[Wenzhou Institute, University of Chinese Academy of Sciences](http://english.wiucas.ac.cn)\\
+[中国科学院大学温州研究院](http://www.wibe.ac.cn)
 
-PI Researcher(Professor) (2019-) \\
-   [Wenzhou Institute, University of Chinese Academy of Sciences](http://english.wiucas.ac.cn)\\
- [中国科学院大学温州研究院](http://www.wibe.ac.cn)
-
- Oujiang Laboratory (Zhejiang Lab for Regenerative Medicine, Vision and Brain Health)\\
- 瓯江実験室瓯江实验室（再生调控与眼脑健康浙江省实验室）
+Oujiang Laboratory (Zhejiang Lab for Regenerative Medicine, Vision and Brain Health)\\
+瓯江実験室瓯江实验室（再生调控与眼脑健康浙江省实验室）
 
 Visiting Professor (2020-)\\
  [The Graduate School of Information Science, University of Hyogo](http://www.simulation-studies.org)\\
