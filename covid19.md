@@ -20,7 +20,6 @@ Visualization to feel the impact of measures on COVID-19.
 </center>
 
 
-
 傾斜角一定の坂に感染者数（または死者数）を表す数字が対数スケールで刻まれている．
 
 
@@ -57,6 +56,9 @@ Visualization to feel the impact of measures on COVID-19.
 - [note の解説 (explanation in Japanese)](https://note.com/ryseto/n/n432fcc37c992)
 
 - [ワクチンによる集団免疫の考え方](/assets/pdf/role_of_vaccine.pdf)
+
+- [死者数と感染者数の相関](/_posts/2021-08-30-covid19-world.md)
+
 
 - [100万人あたりの死者数（世界）](/assets/movie/world_death_per_M.mp4) \\
  ([covid19-slope_deaths.nb (Mathematica)](/assets/misc/covid19-slope_deaths.nb))
