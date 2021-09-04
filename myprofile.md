@@ -6,7 +6,7 @@ permalink: /profile/
 
 Ryohei Seto, PI (Professor) \\
 瀬戸亮平　課題組長（教授）\\
-温州市海外精英引進計画 
+温州市海外精英引進計画 \\
 
 [CV](https://ryseto.github.io/assets/pdf/CV_Seto.pdf)
 
@@ -67,7 +67,8 @@ Orsay, France
 - [2015 Society of Rheology Publication Award](http://www-levich.engr.ccny.cuny.edu/sor2015.htm)
 
 ### Marathon
-- Kanazawa Marathon			**3:39:11**		(2017.10.29)
+- Wenzhou Marathon			[not yet]	(2021.10.31)
+- Kanazawa Marathon			**3:39:11**	(2017.10.29)
 - Naha Marathon				4:00:45		(2016.12.4)
 - Okinawa Marathon			3:43:12		(2016.2.21)
 - Ishigaki-island Marathon		4:08:41		(2016.1.24)
