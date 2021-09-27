@@ -6,14 +6,10 @@ layout: home
 
 Welcome to Seto group at WIUCAS.
 
-### **Review paper**
+New paper with Giulio: [G. G. Giusteri, R. Seto, Shear jamming and fragility of suspensions in a continuum model with elastic constraints, Phys. Rev. Lett., 127:138001, 2021.](https://doi.org/10.1103/PhysRevLett.127.138001) 
+
 Our review paper with Chris and Romain is on [arXiv:2105.04162](https://arxiv.org/abs/2105.04162).
 
-### **BCAM visiting fellow for May--June 2021** 
-
-[CFD Modelling and Simulation Group at Basque Center for Applied Mathematics](http://www.bcamath.org/en/research/lines/CFDMS) .
-
-[time table between Spain and China](assets/img/spain_china.jpg)
 
 ### **Modeling and simulation for Soft matter complex fluids** 
 
