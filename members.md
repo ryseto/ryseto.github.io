@@ -28,8 +28,6 @@ permalink: /Members/
 - [Christopher Ness](https://christopherjness.github.io) University of Edinburgh, UK
 - [Masao Doi](http://mdoi.jp/index_E.html) Beihang University, China
 - [Luigi La Ragione](https://scholar.google.com/citations?user=YiG-vvwAAAAJ&hl=en) Politecnico di Bari, Italy
-
-- [Luigi La Ragione](https://scholar.google.com/citations?user=YiG-vvwAAAAJ&hl=en) Politecnico di Bari, Italy
 - [James T Jenkins](https://www.cee.cornell.edu/faculty-directory/james-t-jenkins) Cornell University, USA
 - [Hitoshi Washizu](http://washizu.org/lab/index-e.html) University of Hyogo, Japan
 - [Yonghao Yue](http://mns.k.u-tokyo.ac.jp/~yonghao/) Aoyama Gakuin University, Japan
