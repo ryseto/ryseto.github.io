@@ -6,9 +6,6 @@ layout: home
 
 Welcome to Seto group at WIUCAS.
 
-New paper with Giulio: [G. G. Giusteri, R. Seto, Shear jamming and fragility of suspensions in a continuum model with elastic constraints, Phys. Rev. Lett., 127:138001, 2021.](https://doi.org/10.1103/PhysRevLett.127.138001) 
-
-Our review paper with Chris and Romain is on [arXiv:2105.04162](https://arxiv.org/abs/2105.04162).
 
 
 ### **Modeling and simulation for Soft matter complex fluids** 
@@ -16,8 +13,10 @@ Our review paper with Chris and Romain is on [arXiv:2105.04162](https://arxiv.or
 We study the mechanical properties of functional soft materials using computer simulation. Our research focuses on the rheology of complex fluids. We aim to develop simulations to capture mesoscale dynamics, which determine structures in nonequilibrium conditions, such as driven systems or biological systems. One of our goals is to bring insights from soft matter physics to biomaterials sciences and living phenomena. We are also interested in investigating colloidal phenomena for medical applications.
 
 ### **What's New!**
-- 2021.05 Review paper preprint appears [arXiv:2105.04162](https://arxiv.org/abs/2105.04162)
-- 2021.05 BCAM visiting fellow for May--June 2021.
+
+- 2021.9 New paper with Giulio: [G. G. Giusteri, R. Seto, Shear jamming and fragility of suspensions in a continuum model with elastic constraints, Phys. Rev. Lett., 127:138001, 2021.](https://doi.org/10.1103/PhysRevLett.127.138001) 
+- 2021.5 Review paper preprint appears [arXiv:2105.04162](https://arxiv.org/abs/2105.04162)
+- 2021.5 BCAM visiting fellow for May--June 2021.
 
 
 
