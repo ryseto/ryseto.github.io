@@ -67,7 +67,7 @@ Orsay, France
 - [2015 Society of Rheology Publication Award](http://www-levich.engr.ccny.cuny.edu/sor2015.htm)
 
 ### Marathon
-- Wenzhou Marathon			[not yet]	(2021.10.31)
+- Wenzhou Marathon			[not yet]	(2021.12.5)
 - Kanazawa Marathon			**3:39:11**	(2017.10.29)
 - Naha Marathon				4:00:45		(2016.12.4)
 - Okinawa Marathon			3:43:12		(2016.2.21)
