@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-10-17T21:16:40+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Computational Soft and Biological Matter group</title><subtitle>Our group study soft-matter physics, complex fluid mechanics, and rheology with various computational methods. </subtitle><entry><title type="html">World data</title><link href="http://localhost:4000/covid19/2021/10/17/world.html" rel="alternate" type="text/html" title="World data" /><published>2021-10-17T00:00:00+08:00</published><updated>2021-10-17T00:00:00+08:00</updated><id>http://localhost:4000/covid19/2021/10/17/world</id><content type="html" xml:base="http://localhost:4000/covid19/2021/10/17/world.html">&lt;p&gt;100万人あたりの累積死者数
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-10-18T23:31:04+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Computational Soft and Biological Matter group</title><subtitle>Our group study soft-matter physics, complex fluid mechanics, and rheology with various computational methods. </subtitle><entry><title type="html">World data</title><link href="http://localhost:4000/covid19/2021/10/17/world.html" rel="alternate" type="text/html" title="World data" /><published>2021-10-17T00:00:00+08:00</published><updated>2021-10-17T00:00:00+08:00</updated><id>http://localhost:4000/covid19/2021/10/17/world</id><content type="html" xml:base="http://localhost:4000/covid19/2021/10/17/world.html">&lt;p&gt;data: “https://covid.ourworldindata.org/data/owid-covid-data.csv”&lt;/p&gt;
+
+&lt;p&gt;100万人あたりの累積死者数
 &lt;img src=&quot;/assets/img/world/death.jpg&quot; alt=&quot;Japan&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/world/Bulgaria.jpg&quot; alt=&quot;Bulgaria&quot; /&gt;
@@ -8,10 +10,11 @@
 &lt;img src=&quot;/assets/img/world/Georgia.jpg&quot; alt=&quot;Georgia&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Slovakia.jpg&quot; alt=&quot;Slovakia&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Slovenia.jpg&quot; alt=&quot;Slovenia&quot; /&gt;
+&lt;img src=&quot;/assets/img/world/Romania.jpg&quot; alt=&quot;Romania&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Mexico.jpg&quot; alt=&quot;Mexico&quot; /&gt;
+&lt;img src=&quot;/assets/img/world/Croatia.jpg&quot; alt=&quot;Croatia&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Italy.jpg&quot; alt=&quot;Italy&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/United States.jpg&quot; alt=&quot;United States&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Croatia.jpg&quot; alt=&quot;Croatia&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Tunisia.jpg&quot; alt=&quot;Tunisia&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/United Kingdom.jpg&quot; alt=&quot;United Kingdom&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Poland.jpg&quot; alt=&quot;Poland&quot; /&gt;
@@ -33,8 +36,8 @@
 &lt;img src=&quot;/assets/img/world/Turkey.jpg&quot; alt=&quot;Turkey&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Canada.jpg&quot; alt=&quot;Canada&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Indonesia.jpg&quot; alt=&quot;Indonesia&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Denmark.jpg&quot; alt=&quot;Denmark&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Mongolia.jpg&quot; alt=&quot;Mongolia&quot; /&gt;
+&lt;img src=&quot;/assets/img/world/Denmark.jpg&quot; alt=&quot;Denmark&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Philippines.jpg&quot; alt=&quot;Philippines&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Myanmar.jpg&quot; alt=&quot;Myanmar&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/India.jpg&quot; alt=&quot;India&quot; /&gt;
@@ -55,7 +58,7 @@
 &lt;img src=&quot;/assets/img/world/Taiwan.jpg&quot; alt=&quot;Taiwan&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Nigeria.jpg&quot; alt=&quot;Nigeria&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/New Zealand.jpg&quot; alt=&quot;New Zealand&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/China.jpg&quot; alt=&quot;China&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">100万人あたりの累積死者数</summary></entry><entry><title type="html">Green zone strategy for the COVID 19</title><link href="http://localhost:4000/covid19/2021/10/01/greenzone.html" rel="alternate" type="text/html" title="Green zone strategy for the COVID 19" /><published>2021-10-01T00:00:00+08:00</published><updated>2021-10-01T00:00:00+08:00</updated><id>http://localhost:4000/covid19/2021/10/01/greenzone</id><content type="html" xml:base="http://localhost:4000/covid19/2021/10/01/greenzone.html">&lt;p&gt;&lt;strong&gt;まだ書いている途中&lt;/strong&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/img/world/China.jpg&quot; alt=&quot;China&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">data: “https://covid.ourworldindata.org/data/owid-covid-data.csv”</summary></entry><entry><title type="html">Green zone strategy for the COVID 19</title><link href="http://localhost:4000/covid19/2021/10/01/greenzone.html" rel="alternate" type="text/html" title="Green zone strategy for the COVID 19" /><published>2021-10-01T00:00:00+08:00</published><updated>2021-10-01T00:00:00+08:00</updated><id>http://localhost:4000/covid19/2021/10/01/greenzone</id><content type="html" xml:base="http://localhost:4000/covid19/2021/10/01/greenzone.html">&lt;p&gt;&lt;strong&gt;まだ書いている途中&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://greenzoneproject2021.wordpress.com&quot;&gt;グリーンゾーン化戦略&lt;/a&gt;&lt;/p&gt;
 
