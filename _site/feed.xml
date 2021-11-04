@@ -1,20 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-10-30T10:03:59+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Computational Soft and Biological Matter group</title><subtitle>Our group study soft-matter physics, complex fluid mechanics, and rheology with various computational methods. </subtitle><entry><title type="html">World data</title><link href="http://localhost:4000/covid19/2021/10/17/world.html" rel="alternate" type="text/html" title="World data" /><published>2021-10-17T00:00:00+08:00</published><updated>2021-10-17T00:00:00+08:00</updated><id>http://localhost:4000/covid19/2021/10/17/world</id><content type="html" xml:base="http://localhost:4000/covid19/2021/10/17/world.html">&lt;p&gt;data: “https://covid.ourworldindata.org/data/owid-covid-data.csv”&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-04T15:58:35+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Computational Soft and Biological Matter group</title><subtitle>Our group study soft-matter physics, complex fluid mechanics, and rheology with various computational methods. </subtitle><entry><title type="html">Total deaths in various countries</title><link href="http://localhost:4000/covid19/2021/10/17/world.html" rel="alternate" type="text/html" title="Total deaths in various countries" /><published>2021-10-17T00:00:00+08:00</published><updated>2021-10-17T00:00:00+08:00</updated><id>http://localhost:4000/covid19/2021/10/17/world</id><content type="html" xml:base="http://localhost:4000/covid19/2021/10/17/world.html">&lt;p&gt;data: “https://covid.ourworldindata.org/data/owid-covid-data.csv”&lt;/p&gt;
 
 &lt;p&gt;100万人あたりの累積死者数
 &lt;img src=&quot;/assets/img/world/death.jpg&quot; alt=&quot;Japan&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;100万人あたりの感染者数と死者数、およびワクチン接種率&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/img/world/Bulgaria.jpg&quot; alt=&quot;Bulgaria&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Hungary.jpg&quot; alt=&quot;Hungary&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Czechia.jpg&quot; alt=&quot;Czechia&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Brazil.jpg&quot; alt=&quot;Brazil&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Argentina.jpg&quot; alt=&quot;Argentina&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Georgia.jpg&quot; alt=&quot;Georgia&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Slovakia.jpg&quot; alt=&quot;Slovakia&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Romania.jpg&quot; alt=&quot;Romania&quot; /&gt;
+&lt;img src=&quot;/assets/img/world/Georgia.jpg&quot; alt=&quot;Georgia&quot; /&gt;
+&lt;img src=&quot;/assets/img/world/Argentina.jpg&quot; alt=&quot;Argentina&quot; /&gt;
+&lt;img src=&quot;/assets/img/world/Slovakia.jpg&quot; alt=&quot;Slovakia&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Slovenia.jpg&quot; alt=&quot;Slovenia&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Belgium.jpg&quot; alt=&quot;Belgium&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Croatia.jpg&quot; alt=&quot;Croatia&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/United States.jpg&quot; alt=&quot;United States&quot; /&gt;
+&lt;img src=&quot;/assets/img/world/Belgium.jpg&quot; alt=&quot;Belgium&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Mexico.jpg&quot; alt=&quot;Mexico&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Italy.jpg&quot; alt=&quot;Italy&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Tunisia.jpg&quot; alt=&quot;Tunisia&quot; /&gt;
@@ -27,9 +29,9 @@
 &lt;img src=&quot;/assets/img/world/Ukraine.jpg&quot; alt=&quot;Ukraine&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Russia.jpg&quot; alt=&quot;Russia&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Greece.jpg&quot; alt=&quot;Greece&quot; /&gt;
+&lt;img src=&quot;/assets/img/world/Iran.jpg&quot; alt=&quot;Iran&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/South Africa.jpg&quot; alt=&quot;South Africa&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Sweden.jpg&quot; alt=&quot;Sweden&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Iran.jpg&quot; alt=&quot;Iran&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Switzerland.jpg&quot; alt=&quot;Switzerland&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Austria.jpg&quot; alt=&quot;Austria&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Germany.jpg&quot; alt=&quot;Germany&quot; /&gt;
@@ -39,8 +41,8 @@
 &lt;img src=&quot;/assets/img/world/Malaysia.jpg&quot; alt=&quot;Malaysia&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Turkey.jpg&quot; alt=&quot;Turkey&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Canada.jpg&quot; alt=&quot;Canada&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Indonesia.jpg&quot; alt=&quot;Indonesia&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Mongolia.jpg&quot; alt=&quot;Mongolia&quot; /&gt;
+&lt;img src=&quot;/assets/img/world/Indonesia.jpg&quot; alt=&quot;Indonesia&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Denmark.jpg&quot; alt=&quot;Denmark&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Philippines.jpg&quot; alt=&quot;Philippines&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Myanmar.jpg&quot; alt=&quot;Myanmar&quot; /&gt;
@@ -55,10 +57,10 @@
 &lt;img src=&quot;/assets/img/world/Algeria.jpg&quot; alt=&quot;Algeria&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Pakistan.jpg&quot; alt=&quot;Pakistan&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Senegal.jpg&quot; alt=&quot;Senegal&quot; /&gt;
+&lt;img src=&quot;/assets/img/world/Singapore.jpg&quot; alt=&quot;Singapore&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Australia.jpg&quot; alt=&quot;Australia&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/South Korea.jpg&quot; alt=&quot;South Korea&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Ethiopia.jpg&quot; alt=&quot;Ethiopia&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Singapore.jpg&quot; alt=&quot;Singapore&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Taiwan.jpg&quot; alt=&quot;Taiwan&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/Nigeria.jpg&quot; alt=&quot;Nigeria&quot; /&gt;
 &lt;img src=&quot;/assets/img/world/New Zealand.jpg&quot; alt=&quot;New Zealand&quot; /&gt;
