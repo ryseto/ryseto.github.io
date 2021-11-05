@@ -8,9 +8,11 @@ permalink: /Members/
 
 - [Zhiyuan Zhao (Postdoc)](https://www.researchgate.net/profile/Zhiyuan_Zhao11) (2020.7--)
 
-- Sudarshan Konidena (Postdoc) (2020.8-- [Delay due to COVID-19])
+- Zhiwei Liu (2021.11--)
 
 - Yujie Jiang (Postdoc) (2021.5--)
+
+- Sudarshan Konidena (Postdoc) (2020.8-- [Delay due to COVID-19])
 
 - Boi Wang (2020.7--) (visiting student, Institute of Physics, Chinese Academy of Science)
 
