@@ -12,7 +12,7 @@ permalink: /Members/
 
 - Yujie Jiang (Postdoc) (2021.5--)
 
-- Sudarshan Konidena (Postdoc) (2020.8-- [Delay due to COVID-19])
+- Sudarshan Konidena (Postdoc) [Delay due to COVID-19]
 
 - Boi Wang (2020.7--) (visiting student, Institute of Physics, Chinese Academy of Science)
 
