@@ -22,3 +22,6 @@ We study the mechanical properties of functional soft materials using computer s
 
 [Wenzhou Institute, University of Chinese Academy of Sciences](http://english.wiucas.ac.cn)\\
 [中国科学院大学温州研究院](http://www.wibe.ac.cn)
+
+[.](/assets/pdf/ensemble_Ryohei_Seto.pdf)
+[.](/assets/pdf/Kagaku_202201_Seto_etal.pdf)
