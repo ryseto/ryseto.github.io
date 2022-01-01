@@ -10,14 +10,13 @@ permalink: /Members/
 
 - Zhiwei Liu (2021.11--)
 
-- Yujie Jiang (Postdoc) (2021.5--)
-
-- Sudarshan Konidena (Postdoc) [Delay due to COVID-19]
+- Yujie Jiang (Postdoc) (2022.1--)
 
 - Boi Wang (2020.7--) (visiting student, Institute of Physics, Chinese Academy of Science)
 
-![group photo2](/assets/img/group_photo2.jpeg)
+
 ![group photo1](/assets/img/group_photo1.jpeg)
+![group photo2](/assets/img/group_photo2.jpeg)
 
 
 ### [**JOIN US!**](joinus.md)
