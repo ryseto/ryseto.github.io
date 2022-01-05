@@ -67,6 +67,7 @@ Visualization to feel the impact of measures on COVID-19.
 
 - [日本の新規感染者数(2022-1-4)](/assets/movie/Japan_new_cases.mp4)
 
+- [東京の新規感染者数(2022-1-4)](/assets/movie/Tokyo_new_cases_simple.mp4)
 
 - [100万人あたりの死者数（世界）](/assets/movie/world_death_per_M.mp4) \\
  ([covid19-slope_deaths.nb (Mathematica)](/assets/misc/covid19-slope_deaths.nb))
