@@ -20,6 +20,9 @@ Visualization to feel the impact of measures on COVID-19.
 </center>
 
 
+
+
+
 傾斜角一定の坂に感染者数（または死者数）を表す数字が対数スケールで刻まれている．
 
 - **ワクチン効果の追記(2021-10-08)**\\
@@ -61,6 +64,8 @@ Visualization to feel the impact of measures on COVID-19.
 - [ワクチンによる集団免疫の考え方](/assets/pdf/role_of_vaccine.pdf)
 
 - [死者数と感染者数の相関](/_posts/2021-08-30-covid19-world.md)
+
+- [日本の新規感染者数(2022-1-4)](/assets/pdf/Japan_new_cases.mp4)
 
 
 - [100万人あたりの死者数（世界）](/assets/movie/world_death_per_M.mp4) \\
