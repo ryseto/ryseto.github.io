@@ -131,7 +131,7 @@ The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016](htt
 
 1. Z. Zhao, J. Morris, M. Doi, R. Seto, "Jamming and migration in channel flows of dense suspensions," Xiamen Soft Matter Forum 2021, Xiamen, December 13, 2021
 
-1. Z. Zhao, B. Wang, S. Komura, M. Yang, F. Ye, R. Seto, "Emergent Stripes of Active Rotors in Shear Flows", Annual meeting of The Physical Society of Japan, Kumamoto University, September 23, 2021
+1. Z. Zhao, B. Wang, S. Komura, M. Yang, F. Ye, R. Seto, "Emergent Stripes of Active Rotors in Shear Flows", Annual meeting of The Physical Society of Japan, September 23, 2021
 
 1. [R. Seto, M. Doi, "Jamming in pressure-driven flows," ISSP workshop: Frontier research on glasses and related complex systems](https://yamamuro.issp.u-tokyo.ac.jp/glass2021/index.html), May 11, 2021
  
