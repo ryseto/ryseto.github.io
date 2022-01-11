@@ -55,7 +55,7 @@ The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016](htt
 
 ### Seminars
 
-1. "Channel flows of colloidal suspensions" Xiamen University, April 29, 2021.
+1. "Channel flows of colloidal suspensions," Xiamen University, April 29, 2021.
 
 1. ["A numerical approach to predict incompressible flows of dense non-Brownian suspensions" Kyoto University, February 27, 2020](https://www.yukawa.kyoto-u.ac.jp/seminar/s52679)
 
