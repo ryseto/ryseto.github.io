@@ -127,12 +127,9 @@ The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016](htt
 
 ### Oral presentations
 
-1. Z. Zhao, J. Morris, M. Doi, R. Seto,
-Chinese Society of Chemistry,
-Complex fluid and rheology workshop, Songjiang, Shanghai, January 8, 2022
+1. Z. Zhao, J. Morris, M. Doi, R. Seto, "Jamming and migration in channel flows of dense suspensions," Complex fluid and rheology workshop (Chinese Society of Chemistry), Songjiang, Shanghai, January 8, 2022
 
-
-1. Z. Zhao, J. Morris, M. Doi, R. Seto, Xiamen Soft Matter Forum 2021, Xiamen, December 13, 2021
+1. Z. Zhao, J. Morris, M. Doi, R. Seto, "Jamming and migration in channel flows of dense suspensions," Xiamen Soft Matter Forum 2021, Xiamen, December 13, 2021
 
 1. Z. Zhao, B. Wang, S. Komura, M. Yang, F. Ye, R. Seto, "Emergent Stripes of Active Rotors in Shear Flows", Annual meeting of The Physical Society of Japan, Kumamoto University, September 23, 2021
 
