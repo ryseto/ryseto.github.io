@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-01-16T21:08:58+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Computational Soft and Biological Matter group</title><subtitle>Our group study soft-matter physics, complex fluid mechanics, and rheology with various computational methods. </subtitle><entry><title type="html">New cases and deaths</title><link href="http://localhost:4000/covid19/2022/01/03/covid19-world.html" rel="alternate" type="text/html" title="New cases and deaths" /><published>2022-01-03T00:00:00+08:00</published><updated>2022-01-03T00:00:00+08:00</updated><id>http://localhost:4000/covid19/2022/01/03/covid19-world</id><content type="html" xml:base="http://localhost:4000/covid19/2022/01/03/covid19-world.html">&lt;p&gt;data: Our World in Data “https://covid.ourworldindata.org/data/owid-covid-data.csv”&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-01-19T05:00:00+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Computational Soft and Biological Matter group</title><subtitle>Our group study soft-matter physics, complex fluid mechanics, and rheology with various computational methods. </subtitle><entry><title type="html">Relation between new cases and new deaths (updated)</title><link href="http://localhost:4000/covid19/2022/01/19/covid19-world.html" rel="alternate" type="text/html" title="Relation between new cases and new deaths (updated)" /><published>2022-01-19T00:00:00+08:00</published><updated>2022-01-19T00:00:00+08:00</updated><id>http://localhost:4000/covid19/2022/01/19/covid19-world</id><content type="html" xml:base="http://localhost:4000/covid19/2022/01/19/covid19-world.html">&lt;p&gt;死者数と感染者数の相関&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;赤線、青線は r×(d日前の感染者数)。黒のプロットが実際の死者数。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;New deaths  vs. New cases&lt;/p&gt;
+
+&lt;p&gt;(Orange plots represent the rates of fully vaccinated people)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/newdeath2/Japan.jpg&quot; alt=&quot;Japan&quot; /&gt;
+&lt;img src=&quot;/assets/img/newdeath2/United Kingdom.jpg&quot; alt=&quot;United Kingdom&quot; /&gt;
+&lt;img src=&quot;/assets/img/newdeath2/United States.jpg&quot; alt=&quot;United States&quot; /&gt;
+&lt;img src=&quot;/assets/img/newdeath2/France.jpg&quot; alt=&quot;France&quot; /&gt;
+&lt;img src=&quot;/assets/img/newdeath2/Germany.jpg&quot; alt=&quot;Germany&quot; /&gt;
+&lt;img src=&quot;/assets/img/newdeath2/Italy.jpg&quot; alt=&quot;Italy&quot; /&gt;
+&lt;img src=&quot;/assets/img/newdeath2/Canada.jpg&quot; alt=&quot;Canada&quot; /&gt;
+&lt;img src=&quot;/assets/img/newdeath2/Sweden.jpg&quot; alt=&quot;Sweden&quot; /&gt;
+&lt;img src=&quot;/assets/img/newdeath2/Israel.jpg&quot; alt=&quot;Israel&quot; /&gt;
+&lt;img src=&quot;/assets/img/newdeath2/South Korea.jpg&quot; alt=&quot;South Korea&quot; /&gt;
+&lt;img src=&quot;/assets/img/newdeath2/Thailand.jpg&quot; alt=&quot;Thailand&quot; /&gt;
+&lt;img src=&quot;/assets/img/newdeath2/Indonesia.jpg&quot; alt=&quot;Indonesia&quot; /&gt;
+&lt;img src=&quot;/assets/img/newdeath2/India.jpg&quot; alt=&quot;India&quot; /&gt;
+&lt;img src=&quot;/assets/img/newdeath2/Australia.jpg&quot; alt=&quot;Australia&quot; /&gt;
+&lt;img src=&quot;/assets/img/newdeath2/Singapore.jpg&quot; alt=&quot;Singapore&quot; /&gt;
+&lt;img src=&quot;/assets/img/newdeath2/Taiwan.jpg&quot; alt=&quot;Taiwan&quot; /&gt;
+&lt;img src=&quot;/assets/img/newdeath2/New Zealand.jpg&quot; alt=&quot;New Zealand&quot; /&gt;
+&lt;img src=&quot;/assets/img/newdeath2/China.jpg&quot; alt=&quot;China&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">死者数と感染者数の相関</summary></entry><entry><title type="html">New cases and deaths</title><link href="http://localhost:4000/covid19/2022/01/03/covid19-world.html" rel="alternate" type="text/html" title="New cases and deaths" /><published>2022-01-03T00:00:00+08:00</published><updated>2022-01-03T00:00:00+08:00</updated><id>http://localhost:4000/covid19/2022/01/03/covid19-world</id><content type="html" xml:base="http://localhost:4000/covid19/2022/01/03/covid19-world.html">&lt;p&gt;data: Our World in Data “https://covid.ourworldindata.org/data/owid-covid-data.csv”&lt;/p&gt;
 
 &lt;p&gt;100万人あたりの感染者数と死者数、およびワクチン接種率&lt;/p&gt;
 
@@ -244,8 +271,4 @@
 &lt;div class=&quot;embed-container&quot;&gt;
   &lt;iframe src=&quot;https://www.youtube.com/embed/UuhJhLs3S8w&quot; width=&quot;360&quot; height=&quot;270&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
   &lt;/iframe&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Force transmission and the order parameter of shear thickening</title><link href="http://localhost:4000/publication/update/2019/06/06/thickening-order-parameter.html" rel="alternate" type="text/html" title="Force transmission and the order parameter of shear thickening" /><published>2019-06-06T12:00:00+08:00</published><updated>2019-06-06T12:00:00+08:00</updated><id>http://localhost:4000/publication/update/2019/06/06/thickening-order-parameter</id><content type="html" xml:base="http://localhost:4000/publication/update/2019/06/06/thickening-order-parameter.html">&lt;p&gt;&lt;a href=&quot;http://rmari.github.io&quot;&gt;Romain&lt;/a&gt; and I uploaded a manuscript &lt;a href=&quot;https://arxiv.org/abs/1906.02103&quot;&gt;arXiv:1906.02103&lt;/a&gt;, discussing shear-thickening order parameters with a force transmission model adapted to shear thickening transitions.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://pubs.rsc.org/en/content/articlelanding/2019/sm/c9sm01223k&quot;&gt;&lt;strong&gt;July 25, 2019: Accepted for publication in Soft Matter!!&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/biq.jpg&quot; alt=&quot;bi-q-model&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Romain and I uploaded a manuscript arXiv:1906.02103, discussing shear-thickening order parameters with a force transmission model adapted to shear thickening transitions.</summary></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
