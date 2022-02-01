@@ -65,8 +65,8 @@ Orsay, France
 - [Scientific American](https://www.scientificamerican.com/article/friction-makes-cornstarch-and-water-into-bizarre-oobleck/)
 - [Physics World](http://physicsworld.com/cws/article/news/2013/nov/25/model-explains-why-liquid-suspensions-suddenly-turn-solid)
 - [2015 Society of Rheology Publication Award](http://www-levich.engr.ccny.cuny.edu/sor2015.htm)
+- [Dynamic Zero-COVID Strategy in China, Kagaku (Iwanami Shoten, Publishers)](/assets/pdf/Kagaku_202201_Seto_etal.pdf)
 - [.](/assets/pdf/ensemble_Ryohei_Seto.pdf)
-- [.](/assets/pdf/Kagaku_202201_Seto_etal.pdf)
 
 ### Marathon
 - Wenzhou Marathon			[not yet]	(2021.12.5)
