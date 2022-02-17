@@ -55,7 +55,7 @@ The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016](htt
 
 ### Seminars
 
-1. "Channel flows of colloidal suspensions" Xiamen University, April 29, 2021.
+1. "Channel flows of colloidal suspensions," Xiamen University, April 29, 2021.
 
 1. ["A numerical approach to predict incompressible flows of dense non-Brownian suspensions" Kyoto University, February 27, 2020](https://www.yukawa.kyoto-u.ac.jp/seminar/s52679)
 
@@ -127,18 +127,24 @@ The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016](htt
 
 ### Oral presentations
 
-1. [R. Seto, M. Doi, "Jamming in pressure-driven flows," ISSP workshop: Frontier research on glasses and related complex systems](https://yamamuro.issp.u-tokyo.ac.jp/glass2021/index.html), May 11, 2021
+1. Z. Zhao, J. Morris, M. Doi, R. Seto, "Jamming and migration in channel flows of dense suspensions," Complex fluid and rheology workshop (Chinese Society of Chemistry), Songjiang, Shanghai, January 8, 2022
 
+1. Z. Zhao, J. Morris, M. Doi, R. Seto, "Jamming and migration in channel flows of dense suspensions," Xiamen Soft Matter Forum 2021, Xiamen, December 13, 2021
+
+1. Z. Zhao, B. Wang, S. Komura, M. Yang, F. Ye, R. Seto, "Emergent Stripes of Active Rotors in Shear Flows", Annual meeting of The Physical Society of Japan, September 23, 2021
+
+1. [R. Seto, M. Doi, "Jamming in pressure-driven flows," ISSP workshop: Frontier research on glasses and related complex systems](https://yamamuro.issp.u-tokyo.ac.jp/glass2021/index.html), May 11, 2021
  
+
 1. R. Seto, M. Doi "Migration in dense suspension flowsm," the Annual European Rheology Conference, Norway (Online), April 14, 2021
 
-1. R. Seto, M. Doi "Toward a fluid mechanics simulation of dense suspensions," International Workshop on Machine Learning for Soft Matter". International Workshop on Machine Learning for So! Matter 2021, Feburary 10, 2021
+1. R. Seto, M. Doi "Toward a fluid mechanics simulation of dense suspensions," International Workshop on Machine Learning for Soft Matter," International Workshop on Machine Learning for Soft Matter 2021, Feburary 10, 2021
 
-1. R. Seto, M. Doi, "Migration and jamming in pressure-driven flow of dense non-Brownian suspensions", International Congress on Rheology, Brazil (online), Dec 17, 2020
+1. R. Seto, M. Doi, "Migration and jamming in pressure-driven flow of dense non-Brownian suspensions," International Congress on Rheology, Brazil (online), Dec 17, 2020
 
-1. G. Giusteri, R. Seto, "Shear jamming and fragility in a continuum model with unilateral constraints", Dec 17, 2020
+1. G. Giusteri, R. Seto, "Shear jamming and fragility in a continuum model with unilateral constraints," the International Congress on Rheology, Brazil (online), Dec 17, 2020
 
-1. Z. Zhao, R. Seto, "Computational Predictions of Magnetorheology and Magnetization Dynamics of Frictional Magnetic Nanoparticle Suspension", Brazil (online), Dec 14, 2020
+1. Z. Zhao, R. Seto, "Computational Predictions of Magnetorheology and Magnetization Dynamics of Frictional Magnetic Nanoparticle Suspension," the International Congress on Rheology, Brazil (online), Dec 14, 2020
 
 1. "Flowing and jammed dense suspensions", Annual meeting of The Physical Society of Japan, Kumamoto University, Kumamoto (Online), Japan, September 2020
 
