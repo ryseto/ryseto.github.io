@@ -9,7 +9,6 @@ Postdoc positions are available in the Computational Soft Matter group at [the W
 - Simulation: Fluid mechanics of dense suspensions, modeling for soft matter systems
 - Experiment: rheology and fluid mechanics (suspensions and mucus)
 1. Conditions
-- Only Chinese (This temporal condition is due to the difficulty of the current pandemic situation)
 - Salary: see [here](http://www.wiucas.ac.cn/hr/2020/272.html)
 - Term: 2 years (needs to be more than 21 months, and possible to extend)
 1. Requirements
