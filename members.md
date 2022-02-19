@@ -4,7 +4,9 @@ title: Members
 permalink: /Members/
 ---
 
-- Ryohei Seto (PI)
+### [**JOIN US!**](joinus.md)
+
+- [Ryohei Seto](myprofile.md)
 
 - [Zhiyuan Zhao (Postdoc)](https://www.researchgate.net/profile/Zhiyuan_Zhao11) (2020.7--)
 
@@ -14,12 +16,9 @@ permalink: /Members/
 
 - Boi Wang (2020.7--) (visiting student, Institute of Physics, Chinese Academy of Science)
 
-
 ![group photo1](/assets/img/group_photo1.jpeg)
 ![group photo2](/assets/img/group_photo2.jpeg)
-
-
-### [**JOIN US!**](joinus.md)
+![Yujie](/assets/img/group_photo4.jpeg)
 
 ### Collaborators
 
