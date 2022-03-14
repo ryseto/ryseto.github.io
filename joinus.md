@@ -6,7 +6,7 @@ permalink: /JoinUs/
 
 Postdoc positions are available in the Computational Soft Matter group at [the Wenzhou Institute, University of Chinese Academy of Science](http://www.wiucas.ac.cn). We seek motivated researchers of simulation modeling in soft matter, rheology, and biophysics.
 1. Directions
-- Simulation: Fluid mechanics of dense suspensions, modeling for soft matter systems
+- Simulation: Fluid mechanics of dense suspensions, modeling for soft matter systems 
 - Experiment: rheology and fluid mechanics (suspensions and mucus)
 1. Conditions
 - Salary: see [here](http://www.wiucas.ac.cn/hr/2020/272.html)
