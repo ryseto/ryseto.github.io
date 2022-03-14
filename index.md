@@ -6,7 +6,7 @@ layout: home
 
 Welcome to Seto group at WIUCAS.
 
-### [**JOIN US!**](joinus.md)
+### [**======== JOIN US! ========**](joinus.md)
 
 ### **Modeling and simulation for Soft matter complex fluids** 
 
