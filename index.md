@@ -14,7 +14,8 @@ We study the mechanical properties of functional soft materials using computer s
 
 ### **What's New!**
 
-- 2022.3 - Review paper "The Physics of Dense Suspensions" published in Annual Review of Condensed Matter Physics [arXiv:2105.04162](https://arxiv.org/abs/2105.04162)
+- 2022.3 - Review paper published in Annual Review of Condensed Matter Physics:\\
+[C. Ness, R. Seto, R. Mari, The physics of dense suspensions, Annu. Rev. Condens. Matter Phys., 13(1):97–117.](https://doi.org/10.1146/annurev-conmatphys-031620-105938)
 - 2022.1 - [Dynamic Zero-COVID Strategy in China, Kagaku (Iwanami Shoten, Publishers)](/assets/pdf/Kagaku_202201_Seto_etal.pdf)
 - 2021.12 [New paper with Zhiyuan (open access)](https://doi.org/10.1103/PhysRevResearch.3.043229)
 - 2021.12 [NSFC-RFIS grant](http://www.wiucas.ac.cn/news/2021/1094.html)
