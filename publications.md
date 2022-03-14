@@ -8,7 +8,7 @@ permalink: /publications/
 
 ### Papers
 
-1. C. Ness, R. Seto, R. Mari, The physics of dense suspensions, Annu. Rev. Condens. Matter Phys. (accepted), 2022. [(arXiv:2105.04162)](https://arxiv.org/abs/2105.04162)
+1. [C. Ness, R. Seto, R. Mari, The physics of dense suspensions, Annu. Rev. Condens. Matter Phys., 13(1):97–117.](https://doi.org/10.1146/annurev-conmatphys-031620-105938) [(arXiv:2105.04162)](https://arxiv.org/abs/2105.04162)
 1. [Z. Zhao, B. Wang, S. Komura, M. Yang, F. Ye, R. Seto, Emergent Stripes of Active Rotors in Shear Flows, Phys. Rev. Research, 3:043229, 2021.](https://doi.org/10.1103/PhysRevResearch.3.043229)
 1. [G. G. Giusteri, R. Seto, Shear jamming and fragility of suspensions in a continuum model with elastic constraints, Phys. Rev. Lett., 127:138001, 2021.](https://doi.org/10.1103/PhysRevLett.127.138001) [(arXiv:2102.01923)](https://arxiv.org/abs/2102.01923)
 1. [J. T. Jenkins, R. Seto, L. L. Ragione, Predictions of microstructure and stress in two-dimensional pure shearing of a dense viscous suspension, J. Fluid Mech., 912:A27, 2021.](https://doi.org/10.1017/jfm.2020.1111) [(arXiv:2006.05590)](https://arxiv.org/abs/2006.05590)
