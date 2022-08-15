@@ -6,15 +6,23 @@ permalink: /Members/
 
 ### [**JOIN US!**](joinus.md)
 
+### Members
+
 - [Ryohei Seto](myprofile.md)
 
-- [Zhiyuan Zhao (Postdoc)](https://www.researchgate.net/profile/Zhiyuan_Zhao11) (2020.7--)
+- Zhiwei Liu (2021.11--) research assistant
 
-- Zhiwei Liu (2021.11--)
+- Yujie Jiang (2022.1--) postdoc
 
-- Yujie Jiang (Postdoc) (2022.1--)
+- Zhongqiang Xiong (2022.7--) postdoc
 
-- Boi Wang (2020.7--) (visiting student, Institute of Physics, Chinese Academy of Science)
+- Boi Wang (2020.7--) visiting student, Institute of Physics, Chinese Academy of Science
+
+### Group Alumni
+
+- [Zhiyuan Zhao (Postdoc)](https://www.researchgate.net/profile/Zhiyuan_Zhao11) (2020.7--2022.6)
+
+
 
 ![group photo1](/assets/img/group_photo1.jpeg)
 ![group photo2](/assets/img/group_photo2.jpeg)
