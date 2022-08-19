@@ -26,4 +26,3 @@ We study the mechanical properties of functional soft materials using computer s
 
 [Wenzhou Institute, University of Chinese Academy of Sciences](http://english.wiucas.ac.cn)\\
 [国科温州研究院](http://www.wiucas.ac.cn)
-
