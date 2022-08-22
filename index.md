@@ -10,7 +10,8 @@ Welcome to Seto group at WIUCAS.
 
 ### **Modeling and simulation for Soft matter complex fluids** 
 
-We study the mechanical properties of functional soft materials using computer simulation. Our research focuses on the rheology of complex fluids. We aim to develop simulations to capture mesoscale dynamics, which determine structures in nonequilibrium conditions, such as driven systems or biological systems. One of our goals is to bring insights from soft matter physics to biomaterials sciences and living phenomena. We are also interested in investigating colloidal phenomena for medical applications.
+We study the mechanical properties of functional soft materials using computer simulation. Our research focuses on the rheology of complex fluids. We develop simulations to capture mesoscale dynamics and microstructures in out-of-equilibrium conditions, such as flowing soft-matter or biological systems. One of our goals is to bring insights from soft matter physics to biomaterials sciences and living phenomena. We are also interested in investigating colloidal phenomena for medical applications.
+
 
 ### **What's New!**
 

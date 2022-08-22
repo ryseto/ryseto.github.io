@@ -2,6 +2,7 @@
 layout: page
 title: Ryohei Seto
 permalink: /profile/
+weight : "1"
 ---
 
 Ryohei Seto, PI (Professor) \\
