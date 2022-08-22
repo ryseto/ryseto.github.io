@@ -2,16 +2,17 @@
 layout: page
 title: Research
 permalink: /research/
+weight: 10
 ---
 
 ### Directions
 
 - Fluid mechanics of dense particulate suspensions
 
-The rheology and hydrodynamics of suspensions remain a challenging problem. Dissipative dynamics of fine particles require consideration of constraints such as contact forces that deprive them of freedom of tangential motion and the incompressibility of the fluid that fills the gaps between particles. We have introduced new simulation methods to address the nonequilibrium physics of flow in concentrated suspensions.
+The rheology and fluid mechanics of particle suspensions remain a challenging problem. Dissipative dynamics of microscale particles require consideration of constraints such as contact forces that deprive them of freedom of tangential motion and the incompressibility of the fluid that fills the gaps between particles. We have introduced new simulation methods to address the nonequilibrium physics in flowing dense suspensions.
 
-悬浮液的流变学和流体力学仍然是一个具有挑战性的问题。细小颗粒的耗散动力学需要考虑一些限制因素，如剥夺其切向运动自由的接触力，以及填充颗粒间空隙的流体的不可压缩性。我们引入了新的模拟方法来解决浓缩悬浮液中流动的非平衡物理问题。
 
+颗粒悬浮液的流变学和流体力学是一个具有挑战性的问题。细颗粒之间的耗散需要考虑一些特殊的力学约束，例如限制切向运动的接触力和颗粒隙间流体的不可压缩性。我们引入了全新的模拟方法来处理浓悬液流中的非平衡物理问题。
 
 
 ### Simulation software
