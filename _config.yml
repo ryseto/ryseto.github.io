@@ -14,13 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Computational Soft and Biological Matter group 
+title: Rheophysics of Soft Matter group
 email: seto@ucas.ac.cn
 address: No.1 Jinlian Road, Longwan District, Wenzhou, Zhejiang 325000, China
-description: >- 
-   Our group study soft-matter physics,
-   complex fluid mechanics, and rheology with various
-   computational methods. 
+description: Our group studies soft matter physics. We study rheology and flow of soft materials by simulation and experiment.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ryseto.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
