@@ -7,7 +7,6 @@ weight: 1
 
 ### **感染者数の推移を動きで表現**
 
-
 Visualization to feel the impact of measures on COVID-19.
 
 このページの図や動画，Mathematicaのファイルは自由に使ってください．問題を考えるとっかかりになると信じてこれを書いていますが，間違いや誤解を生む可能性がある等の指摘があれば連絡ください．
@@ -19,9 +18,6 @@ Visualization to feel the impact of measures on COVID-19.
     <source src="/assets/movie/Tokyo_new_cases.mp4" type="video/mp4">
 </video>
 </center>
-
-
-
 
 
 傾斜角一定の坂に感染者数（または死者数）を表す数字が対数スケールで刻まれている．
