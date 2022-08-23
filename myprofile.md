@@ -14,6 +14,7 @@ PI Researcher (Professor) (2019-) \\
 [Wenzhou Institute, University of Chinese Academy of Sciences](http://english.wiucas.ac.cn)\\
 [国科温州研究院](http://www.wiucas.ac.cn)
 
+
 Oujiang Laboratory (Zhejiang Lab for Regenerative Medicine, Vision and Brain Health)\\
 瓯江実験室瓯江实验室（再生调控与眼脑健康浙江省实验室）
 
@@ -30,7 +31,6 @@ Dr. Ryohei Seto is a computational physicist with broad experience in soft mater
 濑户博士积极活跃在软物质理论领域，被多个国际会议和研讨会邀请并作邀请报告。
 
 ![Ryohei Seto](/assets/img/seto_small.jpeg)
-
 
 ### Academic ID
 - [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
