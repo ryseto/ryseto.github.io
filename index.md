@@ -6,7 +6,7 @@ layout: home
 
 Welcome to the Rheophysics of Soft Matter group at WIUCAS!
 
-### [**======== JOIN US! ========**](joinus.md)
+### [**JOIN US!**](joinus.md)
 
 ### **Simulation and experiment for soft matter systems**
 
