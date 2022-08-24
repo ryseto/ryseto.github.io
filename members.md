@@ -16,7 +16,7 @@ permalink: /Members/
 
 ### Group Alumni
 
-- [Zhiyuan Zhao (Postdoc)](https://www.researchgate.net/profile/Zhiyuan_Zhao11) (2020.7--2022.6)
+- [Zhiyuan Zhao (Postdoc)](https://www.researchgate.net/profile/Zhiyuan_Zhao11) (2020.7--2022.6) (Associate Professor of Masao Doi's group)
 
 ### Collaborators
 
