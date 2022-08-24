@@ -15,7 +15,7 @@ We study the mechanical properties of functional soft materials using computer s
 ### **What's New!**
 
 - 2022.8 - Our odd viscosity paper accepted\\
-[Z. Zhao, S. Komura, M. Yang, R. Seto, Odd Viscosity in Chiral Passive Suspensions, Front. Phys., 2022.](https://www.frontiersin.org/articles/10.3389/fphy.2022.951465/abstract)[(arXiv:2205.11881)](https://arxiv.org/abs/2205.11881)
+[Z. Zhao, M. Yang, S. Komura, R. Seto, Odd Viscosity in Chiral Passive Suspensions, Front. Phys., 2022.](https://www.frontiersin.org/articles/10.3389/fphy.2022.951465/abstract)[(arXiv:2205.11881)](https://arxiv.org/abs/2205.11881)
 - 2022.3 - Review paper published in Annual Review of Condensed Matter Physics:\\
 [C. Ness, R. Seto, R. Mari, The physics of dense suspensions, Annu. Rev. Condens. Matter Phys., 13(1):97–117.](https://doi.org/10.1146/annurev-conmatphys-031620-105938)
 - 2022.1 - [Dynamic Zero-COVID Strategy in China, Kagaku (Iwanami Shoten, Publishers)](/assets/pdf/Kagaku_202201_Seto_etal.pdf)
