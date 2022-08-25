@@ -2,10 +2,10 @@
 layout: page
 title: COVID-19
 permalink: /COVID19/
+weight: 1
 ---
 
 ### **感染者数の推移を動きで表現**
-
 
 Visualization to feel the impact of measures on COVID-19.
 
@@ -18,9 +18,6 @@ Visualization to feel the impact of measures on COVID-19.
     <source src="/assets/movie/Tokyo_new_cases.mp4" type="video/mp4">
 </video>
 </center>
-
-
-
 
 
 傾斜角一定の坂に感染者数（または死者数）を表す数字が対数スケールで刻まれている．
