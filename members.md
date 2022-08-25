@@ -2,6 +2,7 @@
 layout: page
 title: Members
 permalink: /Members/
+weight: 5
 ---
 
 ### [**JOIN US!**](joinus.md)

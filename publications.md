@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
+weight: 100
 ---
 
 [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
