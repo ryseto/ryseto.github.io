@@ -127,6 +127,10 @@ The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016](htt
 
 ### Oral presentations
 
+1. R. Seto, Z. Zhao, J. Morris, M. Doi, "Pressure-driven flows of dense particle-liquid mixtures: a Stokesian DEM-CFD approach", 2022 JSME-II/ASME-ISPS Joint Confrence on Micromechatronics for Information and Precision Equipment (MIPE2022), Nagoya, August 28-31(31), 2022
+
+1. R. Seto, "Odd viscosity of chiral suspensions," 2022 Frontier Workshop of Centre for Theoretical Interdisciplinary Sciences, Wenzhou, July 11-13(12), 2022
+
 1. Z. Zhao, J. Morris, M. Doi, R. Seto, "Jamming and migration in channel flows of dense suspensions," Complex fluid and rheology workshop (Chinese Society of Chemistry), Songjiang, Shanghai, January 8, 2022
 
 1. Z. Zhao, J. Morris, M. Doi, R. Seto, "Jamming and migration in channel flows of dense suspensions," Xiamen Soft Matter Forum 2021, Xiamen, December 13, 2021
@@ -134,7 +138,6 @@ The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016](htt
 1. Z. Zhao, B. Wang, S. Komura, M. Yang, F. Ye, R. Seto, "Emergent Stripes of Active Rotors in Shear Flows", Annual meeting of The Physical Society of Japan, September 23, 2021
 
 1. [R. Seto, M. Doi, "Jamming in pressure-driven flows," ISSP workshop: Frontier research on glasses and related complex systems](https://yamamuro.issp.u-tokyo.ac.jp/glass2021/index.html), May 11, 2021
- 
 
 1. R. Seto, M. Doi "Migration in dense suspension flowsm," the Annual European Rheology Conference, Norway (Online), April 14, 2021
 
