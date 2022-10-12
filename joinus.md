@@ -2,7 +2,6 @@
 layout: page
 title: Join Us
 permalink: /JoinUs/
-weight: 20
 ---
 
 Postdoc positions are available in the Computational Soft Matter group at [the Wenzhou Institute, University of Chinese Academy of Science](http://www.wiucas.ac.cn). We seek motivated researchers of simulation modeling in soft matter, rheology, and biophysics.
