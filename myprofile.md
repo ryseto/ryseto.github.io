@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ryohei Seto
-permalink: /profile/
+permalink: /aprofile/
 ---
 
 Ryohei Seto, PI (Professor) \\
