@@ -2,7 +2,6 @@
 layout: page
 title: COVID-19
 permalink: /COVID19/
-weight: 1
 ---
 
 ### **感染者数の推移を動きで表現**
