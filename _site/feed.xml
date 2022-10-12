@@ -1,196 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-13T07:26:40+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Rheophysics of Soft Matter group</title><subtitle>Our group studies soft matter physics. We study rheology and flow of soft materials by simulation and experiment.</subtitle><entry><title type="html">Article about the dynamic zero-covid strategy in China</title><link href="http://localhost:4000/covid19/2022/02/01/Kagaku.html" rel="alternate" type="text/html" title="Article about the dynamic zero-covid strategy in China" /><published>2022-02-01T00:00:00+08:00</published><updated>2022-02-01T00:00:00+08:00</updated><id>http://localhost:4000/covid19/2022/02/01/Kagaku</id><content type="html" xml:base="http://localhost:4000/covid19/2022/02/01/Kagaku.html">&lt;p&gt;&lt;a href=&quot;https://www.iwanami.co.jp/kagaku/top.html&quot;&gt;岩波書店の『科学』&lt;/a&gt;の2022年1月号に掲載した「中国の新型コロナウイルス感染症対策—日常を守る動的ゼロコロナ戦略の考え方」という記事のPDF別刷ファイルを公開します。(2022.2.1)&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-13T07:30:56+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Rheophysics of Soft Matter group</title><subtitle>Our group studies soft matter physics. We study rheology and flow of soft materials by simulation and experiment.</subtitle><entry><title type="html">Article about the dynamic zero-covid strategy in China</title><link href="http://localhost:4000/covid19/2022/02/01/Kagaku.html" rel="alternate" type="text/html" title="Article about the dynamic zero-covid strategy in China" /><published>2022-02-01T00:00:00+08:00</published><updated>2022-02-01T00:00:00+08:00</updated><id>http://localhost:4000/covid19/2022/02/01/Kagaku</id><content type="html" xml:base="http://localhost:4000/covid19/2022/02/01/Kagaku.html">&lt;p&gt;&lt;a href=&quot;https://www.iwanami.co.jp/kagaku/top.html&quot;&gt;岩波書店の『科学』&lt;/a&gt;の2022年1月号に掲載した「中国の新型コロナウイルス感染症対策—日常を守る動的ゼロコロナ戦略の考え方」という記事のPDF別刷ファイルを公開します。(2022.2.1)&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;/assets/pdf/Kagaku_202201_Seto_etal.pdf&quot;&gt;PDFファイル&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The original article is written in Japanese for &lt;a href=&quot;https://www.iwanami.co.jp/kagaku/top.html&quot;&gt;Kagaku (Iwanami Shoten)&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://ryseto.github.io/assets/pdf/COVID19_in_China.pdf&quot;&gt;COVID19_in_China.pdf&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">岩波書店の『科学』の2022年1月号に掲載した「中国の新型コロナウイルス感染症対策—日常を守る動的ゼロコロナ戦略の考え方」という記事のPDF別刷ファイルを公開します。(2022.2.1)</summary></entry><entry><title type="html">Relation between new cases and new deaths (updated)</title><link href="http://localhost:4000/covid19/2022/01/19/covid19-world.html" rel="alternate" type="text/html" title="Relation between new cases and new deaths (updated)" /><published>2022-01-19T00:00:00+08:00</published><updated>2022-01-19T00:00:00+08:00</updated><id>http://localhost:4000/covid19/2022/01/19/covid19-world</id><content type="html" xml:base="http://localhost:4000/covid19/2022/01/19/covid19-world.html">&lt;p&gt;死者数と感染者数の相関&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;赤線、青線は r×(d日前の感染者数)。黒のプロットが実際の死者数。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;New deaths  vs. New cases&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/newdeath2/Japan.jpg&quot; alt=&quot;Japan&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath2/United Kingdom.jpg&quot; alt=&quot;United Kingdom&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath2/United States.jpg&quot; alt=&quot;United States&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath2/France.jpg&quot; alt=&quot;France&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath2/Germany.jpg&quot; alt=&quot;Germany&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath2/Italy.jpg&quot; alt=&quot;Italy&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath2/Canada.jpg&quot; alt=&quot;Canada&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath2/Sweden.jpg&quot; alt=&quot;Sweden&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath2/Israel.jpg&quot; alt=&quot;Israel&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath2/South Africa.jpg&quot; alt=&quot;South Africa&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath2/South Korea.jpg&quot; alt=&quot;South Korea&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath2/Thailand.jpg&quot; alt=&quot;Thailand&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath2/Indonesia.jpg&quot; alt=&quot;Indonesia&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath2/India.jpg&quot; alt=&quot;India&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath2/Australia.jpg&quot; alt=&quot;Australia&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath2/Singapore.jpg&quot; alt=&quot;Singapore&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath2/Taiwan.jpg&quot; alt=&quot;Taiwan&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath2/New Zealand.jpg&quot; alt=&quot;New Zealand&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath2/China.jpg&quot; alt=&quot;China&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">死者数と感染者数の相関</summary></entry><entry><title type="html">New cases and deaths</title><link href="http://localhost:4000/covid19/2022/01/03/covid19-world.html" rel="alternate" type="text/html" title="New cases and deaths" /><published>2022-01-03T00:00:00+08:00</published><updated>2022-01-03T00:00:00+08:00</updated><id>http://localhost:4000/covid19/2022/01/03/covid19-world</id><content type="html" xml:base="http://localhost:4000/covid19/2022/01/03/covid19-world.html">&lt;p&gt;data: Our World in Data “https://covid.ourworldindata.org/data/owid-covid-data.csv”&lt;/p&gt;
-
-&lt;p&gt;100万人あたりの感染者数と死者数、およびワクチン接種率&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/world/Bulgaria.jpg&quot; alt=&quot;Bulgaria&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Hungary.jpg&quot; alt=&quot;Hungary&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Georgia.jpg&quot; alt=&quot;Georgia&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Czechia.jpg&quot; alt=&quot;Czechia&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Croatia.jpg&quot; alt=&quot;Croatia&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Slovakia.jpg&quot; alt=&quot;Slovakia&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Romania.jpg&quot; alt=&quot;Romania&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Brazil.jpg&quot; alt=&quot;Brazil&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Slovenia.jpg&quot; alt=&quot;Slovenia&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Poland.jpg&quot; alt=&quot;Poland&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Argentina.jpg&quot; alt=&quot;Argentina&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/United States.jpg&quot; alt=&quot;United States&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Belgium.jpg&quot; alt=&quot;Belgium&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Ukraine.jpg&quot; alt=&quot;Ukraine&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Italy.jpg&quot; alt=&quot;Italy&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Mexico.jpg&quot; alt=&quot;Mexico&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/United Kingdom.jpg&quot; alt=&quot;United Kingdom&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Tunisia.jpg&quot; alt=&quot;Tunisia&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Russia.jpg&quot; alt=&quot;Russia&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Greece.jpg&quot; alt=&quot;Greece&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Chile.jpg&quot; alt=&quot;Chile&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Spain.jpg&quot; alt=&quot;Spain&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Portugal.jpg&quot; alt=&quot;Portugal&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/France.jpg&quot; alt=&quot;France&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/South Africa.jpg&quot; alt=&quot;South Africa&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Iran.jpg&quot; alt=&quot;Iran&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Austria.jpg&quot; alt=&quot;Austria&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Sweden.jpg&quot; alt=&quot;Sweden&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Switzerland.jpg&quot; alt=&quot;Switzerland&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Germany.jpg&quot; alt=&quot;Germany&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Jordan.jpg&quot; alt=&quot;Jordan&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Netherlands.jpg&quot; alt=&quot;Netherlands&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Turkey.jpg&quot; alt=&quot;Turkey&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Malaysia.jpg&quot; alt=&quot;Malaysia&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Kazakhstan.jpg&quot; alt=&quot;Kazakhstan&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Israel.jpg&quot; alt=&quot;Israel&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Canada.jpg&quot; alt=&quot;Canada&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Mongolia.jpg&quot; alt=&quot;Mongolia&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Denmark.jpg&quot; alt=&quot;Denmark&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Iraq.jpg&quot; alt=&quot;Iraq&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Indonesia.jpg&quot; alt=&quot;Indonesia&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Philippines.jpg&quot; alt=&quot;Philippines&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Vietnam.jpg&quot; alt=&quot;Vietnam&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Myanmar.jpg&quot; alt=&quot;Myanmar&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/India.jpg&quot; alt=&quot;India&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Thailand.jpg&quot; alt=&quot;Thailand&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Finland.jpg&quot; alt=&quot;Finland&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Saudi Arabia.jpg&quot; alt=&quot;Saudi Arabia&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Egypt.jpg&quot; alt=&quot;Egypt&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Bangladesh.jpg&quot; alt=&quot;Bangladesh&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Singapore.jpg&quot; alt=&quot;Singapore&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Japan.jpg&quot; alt=&quot;Japan&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Pakistan.jpg&quot; alt=&quot;Pakistan&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/South Korea.jpg&quot; alt=&quot;South Korea&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Senegal.jpg&quot; alt=&quot;Senegal&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Australia.jpg&quot; alt=&quot;Australia&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Ethiopia.jpg&quot; alt=&quot;Ethiopia&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Taiwan.jpg&quot; alt=&quot;Taiwan&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/Nigeria.jpg&quot; alt=&quot;Nigeria&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/New Zealand.jpg&quot; alt=&quot;New Zealand&quot; /&gt;
-&lt;img src=&quot;/assets/img/world/China.jpg&quot; alt=&quot;China&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">data: Our World in Data “https://covid.ourworldindata.org/data/owid-covid-data.csv”</summary></entry><entry><title type="html">The COVID-19 measures in China</title><link href="http://localhost:4000/covid19/2021/11/30/covid19-China.html" rel="alternate" type="text/html" title="The COVID-19 measures in China" /><published>2021-11-30T00:00:00+08:00</published><updated>2021-11-30T00:00:00+08:00</updated><id>http://localhost:4000/covid19/2021/11/30/covid19-China</id><content type="html" xml:base="http://localhost:4000/covid19/2021/11/30/covid19-China.html">&lt;p&gt;The original article is written in Japanese for &lt;a href=&quot;https://www.iwanami.co.jp/kagaku/top.html&quot;&gt;Kagaku (Iwanami Shoten)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ryseto.github.io/assets/pdf/COVID19_in_China.pdf&quot;&gt;COVID19_in_China.pdf&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">The original article is written in Japanese for Kagaku (Iwanami Shoten).</summary></entry><entry><title type="html">Green zone strategy for the COVID 19</title><link href="http://localhost:4000/covid19/2021/10/01/greenzone.html" rel="alternate" type="text/html" title="Green zone strategy for the COVID 19" /><published>2021-10-01T00:00:00+08:00</published><updated>2021-10-01T00:00:00+08:00</updated><id>http://localhost:4000/covid19/2021/10/01/greenzone</id><content type="html" xml:base="http://localhost:4000/covid19/2021/10/01/greenzone.html">&lt;p&gt;&lt;strong&gt;まだ書いている途中&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://greenzoneproject2021.wordpress.com&quot;&gt;グリーンゾーン化戦略&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;呼び名について&quot;&gt;&lt;strong&gt;呼び名について&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;グリーンゾーン化戦略と呼ぶことにしたけど、ゼロコロナ戦略や Zero COVID strategy と呼ばれている elimination 戦略のこと。&lt;/p&gt;
-
-&lt;p&gt;日本では広く認識されている「ゼロコロナ」や「Zero COVID」は、「ウイルスをゼロにできない」と反応する人がいる。&lt;/p&gt;
-
-&lt;p&gt;また、「ゼロ」という言葉がゼロリスクを連想させる。ゼロリスクは、交通事故や食品の安全性等で、完全なリスクをゼロにすることは不可能で、どこかで小さい確率の危険を妥協して、他の利点とのバランスを考えた方が良いという意味で、ゼロリスク指向の問題点を指摘されたりする。&lt;/p&gt;
-
-&lt;p&gt;elimination の日本語訳は「排除」や「撲滅」だけど、排除は負のイメージがあり、撲滅も上のゼロコロナと同じで「ウイルスの根絶は不可能」と瞬間的に反応する人がいるので、そういった言葉を使わない方が良いという意見が出た。&lt;/p&gt;
-
-&lt;p&gt;ある外部と交流しない集団があり、その中に感染者がいないことが分かっていれば、人と会ったり食事をしたりするという行動を制限しなくても感染者数は増えない。感染している人が1人でもその中にいて、それが誰か分からない場合は、感染者数は増える可能性がある。&lt;/p&gt;
-
-&lt;p&gt;日常生活は、仕事・学校や買い物・外食といった地域生活のことであり、その日常生活の接触を可能とするためには、その集団を「地域で生活する人々」とすればいい。仕事をしている人の移動範囲は広いので、その地域がある程度広くないと仕事が影響を受ける。日本グリーンゾーン化戦略は、究極的に島国である日本全体をその集団にしようという提案である。&lt;/p&gt;
-
-&lt;p&gt;集団を完全に孤立させなくても、感染していないことが確認できれば、外部の人がその集団に入ることができる。新型コロナを含め多くの感染症は、体内にウイルスが潜伏している状態の時に確実に発見することはほぼ不可能だ。ウイルスが増殖し始めるまで待つ必要があるので、集団に入る前に一定期間待つ必要がある。その期間中に感染しては意味がないので、感染する可能性がゼロの環境で待つ必要がある。これが水際対策の2週間隔離だ。このような検疫隔離は昔からあるけど、今は PCR 検査という強力な道具がある。&lt;/p&gt;
-
-&lt;h3 id=&quot;実現可能性&quot;&gt;&lt;strong&gt;実現可能性&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;不可能な目標を設定することは無駄で、莫大な費用が発生する。おそらく「ゼロコロナ」について否定的な人はこういう直感を持っているともう。上に書いたゼロリスクの一般論は多くの事象に成り立つ。しかし、感染における「ゼロ」は別の意味である。数理モデルで新規感染者数を表現すると、現在の感染者数という因子を含む。現在の感染者数が 0 ならば、新規感染者数も 0 となる。感染者がいなければ感染は起こらない。&lt;/p&gt;
-
-&lt;p&gt;局所的にグリーンゾーン化するのは難しくない。グリーンゾーン化した地域間の移動は制限する必要がないので、グリーンゾーンを達成した地域を広げていき、最終的に日本全体をグリーンゾーン化するという方針なら、簡単ではないが実現可能である。&lt;/p&gt;</content><author><name></name></author><summary type="html">まだ書いている途中</summary></entry><entry><title type="html">Vaccination and new cases</title><link href="http://localhost:4000/covid19/2021/09/29/covid19.html" rel="alternate" type="text/html" title="Vaccination and new cases" /><published>2021-09-29T00:00:00+08:00</published><updated>2021-09-29T00:00:00+08:00</updated><id>http://localhost:4000/covid19/2021/09/29/covid19</id><content type="html" xml:base="http://localhost:4000/covid19/2021/09/29/covid19.html">&lt;p&gt;&lt;img src=&quot;/assets/img/vaccine/Japan.jpg&quot; alt=&quot;Japan&quot; /&gt;
-&lt;img src=&quot;/assets/img/vaccine/United Kingdom.jpg&quot; alt=&quot;United Kingdom&quot; /&gt;
-&lt;img src=&quot;/assets/img/vaccine/United States.jpg&quot; alt=&quot;United States&quot; /&gt;
-&lt;img src=&quot;/assets/img/vaccine/France.jpg&quot; alt=&quot;France&quot; /&gt;
-&lt;img src=&quot;/assets/img/vaccine/Germany.jpg&quot; alt=&quot;Germany&quot; /&gt;
-&lt;img src=&quot;/assets/img/vaccine/Italy.jpg&quot; alt=&quot;Italy&quot; /&gt;
-&lt;img src=&quot;/assets/img/vaccine/Canada.jpg&quot; alt=&quot;Canada&quot; /&gt;
-&lt;img src=&quot;/assets/img/vaccine/Sweden.jpg&quot; alt=&quot;Sweden&quot; /&gt;
-&lt;img src=&quot;/assets/img/vaccine/Israel.jpg&quot; alt=&quot;Israel&quot; /&gt;
-&lt;img src=&quot;/assets/img/vaccine/South Korea.jpg&quot; alt=&quot;South Korea&quot; /&gt;
-&lt;img src=&quot;/assets/img/vaccine/Thailand.jpg&quot; alt=&quot;Thailand&quot; /&gt;
-&lt;img src=&quot;/assets/img/vaccine/Indonesia.jpg&quot; alt=&quot;Indonesia&quot; /&gt;
-&lt;img src=&quot;/assets/img/vaccine/India.jpg&quot; alt=&quot;India&quot; /&gt;
-&lt;img src=&quot;/assets/img/vaccine/Brazil.jpg&quot; alt=&quot;Brazil&quot; /&gt;
-&lt;img src=&quot;/assets/img/vaccine/Chile.jpg&quot; alt=&quot;Chile&quot; /&gt;
-&lt;img src=&quot;/assets/img/vaccine/Australia.jpg&quot; alt=&quot;Australia&quot; /&gt;
-&lt;img src=&quot;/assets/img/vaccine/Singapore.jpg&quot; alt=&quot;Singapore&quot; /&gt;
-&lt;img src=&quot;/assets/img/vaccine/Taiwan.jpg&quot; alt=&quot;Taiwan&quot; /&gt;
-&lt;img src=&quot;/assets/img/vaccine/New Zealand.jpg&quot; alt=&quot;New Zealand&quot; /&gt;
-&lt;img src=&quot;/assets/img/vaccine/China.jpg&quot; alt=&quot;China&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Population ratio of COVID death by age in Japan</title><link href="http://localhost:4000/covid19/2021/09/03/covid19-Japan.html" rel="alternate" type="text/html" title="Population ratio of COVID death by age in Japan" /><published>2021-09-03T00:00:00+08:00</published><updated>2021-09-03T00:00:00+08:00</updated><id>http://localhost:4000/covid19/2021/09/03/covid19-Japan</id><content type="html" xml:base="http://localhost:4000/covid19/2021/09/03/covid19-Japan.html">&lt;p&gt;&lt;strong&gt;[2021/09/18更新]&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;ワクチン接種の進行度と死者数の年代毎の割合&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.ipss.go.jp/projects/j/Choju/covid19/index.asp&quot;&gt;リンク先&lt;/a&gt;のデータを用いた．&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/japan_deaths.jpg&quot; alt=&quot;Japan deaths by ages&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;ワクチン接種のおかげで死亡率は確実に下がっている．しかし，他の国&lt;a href=&quot;/covid19/2021/08/30/covid19-world.html&quot;&gt;(いろいろな国の死者数の推移)&lt;/a&gt;をみているとワクチン接種が進んで感染対策を緩めた結果，感染者数が再増加し結果的に死者数も増えるという状況がみられる．だから，ワクチンで重症化を防ぐことができれば，感染者数の増加を許しても良いという考え方を支持しない．&lt;/p&gt;
-
-&lt;p&gt;集団免疫には足りないとはいえ，ワクチンは感染の予防効果もある．他の感染対策と組み合わせて，国内撲滅を実現し，外からの感染者の侵入を防ぐことで，国内での生活を1日でも早く元に戻した方が，人々の負担は小さくなるし，国の経済活動の回復にもつながる．&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/zeroCOVID_with_vaccine.jpg&quot; alt=&quot;Zero Covid with vaccine&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">[2021/09/18更新]</summary></entry><entry><title type="html">Relation between new cases and new deaths</title><link href="http://localhost:4000/covid19/2021/08/30/covid19-world.html" rel="alternate" type="text/html" title="Relation between new cases and new deaths" /><published>2021-08-30T00:00:00+08:00</published><updated>2021-08-30T00:00:00+08:00</updated><id>http://localhost:4000/covid19/2021/08/30/covid19-world</id><content type="html" xml:base="http://localhost:4000/covid19/2021/08/30/covid19-world.html">&lt;p&gt;&lt;strong&gt;[2021/10/23更新]&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;死者数と感染者数の相関(他の国も比較のため日本の人口1億2630万人に換算した）&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;赤線は初期&lt;/strong&gt;のころの死者数をその前の感染者数と比べるためのもの．d1日前の陽性者数に死亡率r1を掛けた（フィッティングは目視）．主にワクチン接種が始まる前の状況&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;青線は直近&lt;/strong&gt;の死者数についての比較．d2日前の陽性者数に死亡率r2を掛けている（フィッティングは目視）．ワクチン接種は進行中なので，これらの値は時間とともに変わりうる．&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;多くの国で青線を得るための死亡率は赤線のものより小さくなっている．国によって値や変化の度合いにばらつきがあるので断定できないが，ワクチンによる効果と考えている．&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;New deaths  vs. New cases (scaled for the population of Japan 126.3M)&lt;/p&gt;
-
-&lt;p&gt;(Orange plots represent the rates of fully vaccinated people)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/misc/newcases_and_newdeaths.nb&quot;&gt;covid19-slope_deaths.nb (Mathematica)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/newdeath/Japan.jpg&quot; alt=&quot;Japan&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath/United Kingdom.jpg&quot; alt=&quot;United Kingdom&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath/United States.jpg&quot; alt=&quot;United States&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath/France.jpg&quot; alt=&quot;France&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath/Germany.jpg&quot; alt=&quot;Germany&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath/Italy.jpg&quot; alt=&quot;Italy&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath/Canada.jpg&quot; alt=&quot;Canada&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath/Sweden.jpg&quot; alt=&quot;Sweden&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath/Israel.jpg&quot; alt=&quot;Israel&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath/South Korea.jpg&quot; alt=&quot;South Korea&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath/Thailand.jpg&quot; alt=&quot;Thailand&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath/Indonesia.jpg&quot; alt=&quot;Indonesia&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath/India.jpg&quot; alt=&quot;India&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath/Australia.jpg&quot; alt=&quot;Australia&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath/Singapore.jpg&quot; alt=&quot;Singapore&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath/Taiwan.jpg&quot; alt=&quot;Taiwan&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath/New Zealand.jpg&quot; alt=&quot;New Zealand&quot; /&gt;
-&lt;img src=&quot;/assets/img/newdeath/China.jpg&quot; alt=&quot;China&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">[2021/10/23更新]</summary></entry><entry><title type="html">Shear jamming and fragility</title><link href="http://localhost:4000/publication/update/2019/08/04/shear-jamming.html" rel="alternate" type="text/html" title="Shear jamming and fragility" /><published>2019-08-04T00:00:00+08:00</published><updated>2019-08-04T00:00:00+08:00</updated><id>http://localhost:4000/publication/update/2019/08/04/shear-jamming</id><content type="html" xml:base="http://localhost:4000/publication/update/2019/08/04/shear-jamming.html">&lt;p&gt;これは去年亡くなった &lt;a href=&quot;https://today.duke.edu/2018/07/physics-professor-robert-p-behringer-dies-69&quot;&gt;Behringer&lt;/a&gt; さんを追悼する Special Issue として，&lt;a href=&quot;https://doi.org/10.1007/s10035-019-0931-5&quot;&gt;Shear jamming and fragility in dense suspensions&lt;/a&gt; という論文を書いた．去年の KITP のプログラムに参加した時に &lt;a href=&quot;http://online.kitp.ucsb.edu/online/suspensions18/discshear/&quot;&gt;shear jamming と shear thickening の関係についてのディスカッション&lt;/a&gt; があり，Fragile state と Shear jammed state は，力学的なレスポンスに違いがあるのかなどの疑問が解決しないまま終わった．その時はこの話題について自分が論文を書くことになるとは思っていなかったけど，Behringer さんが亡くなられたことから Special Issue が組まれることになり，共同研究者から誘われて論文の共著者になることになった．その後，KITPの時の疑問に答えを出したいと思い，自分が主著者となりこの論文を書かせてもらうことにした．その結果 Behringer さんとは違う立場の論文になってしまったかもしれないが，私などが Behringer さんが取り組んでこられた研究と関わりを持てだだけで光栄なことだと思う．この論文についてどのように思われるのか聞けないことが残念でならない．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ryseto.github.io/assets/pdf/COVID19_in_China.pdf&quot;&gt;COVID19_in_China.pdf&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">岩波書店の『科学』の2022年1月号に掲載した「中国の新型コロナウイルス感染症対策—日常を守る動的ゼロコロナ戦略の考え方」という記事のPDF別刷ファイルを公開します。(2022.2.1)</summary></entry><entry><title type="html">Shear jamming and fragility</title><link href="http://localhost:4000/publication/update/2019/08/04/shear-jamming.html" rel="alternate" type="text/html" title="Shear jamming and fragility" /><published>2019-08-04T00:00:00+08:00</published><updated>2019-08-04T00:00:00+08:00</updated><id>http://localhost:4000/publication/update/2019/08/04/shear-jamming</id><content type="html" xml:base="http://localhost:4000/publication/update/2019/08/04/shear-jamming.html">&lt;p&gt;これは去年亡くなった &lt;a href=&quot;https://today.duke.edu/2018/07/physics-professor-robert-p-behringer-dies-69&quot;&gt;Behringer&lt;/a&gt; さんを追悼する Special Issue として，&lt;a href=&quot;https://doi.org/10.1007/s10035-019-0931-5&quot;&gt;Shear jamming and fragility in dense suspensions&lt;/a&gt; という論文を書いた．去年の KITP のプログラムに参加した時に &lt;a href=&quot;http://online.kitp.ucsb.edu/online/suspensions18/discshear/&quot;&gt;shear jamming と shear thickening の関係についてのディスカッション&lt;/a&gt; があり，Fragile state と Shear jammed state は，力学的なレスポンスに違いがあるのかなどの疑問が解決しないまま終わった．その時はこの話題について自分が論文を書くことになるとは思っていなかったけど，Behringer さんが亡くなられたことから Special Issue が組まれることになり，共同研究者から誘われて論文の共著者になることになった．その後，KITPの時の疑問に答えを出したいと思い，自分が主著者となりこの論文を書かせてもらうことにした．その結果 Behringer さんとは違う立場の論文になってしまったかもしれないが，私などが Behringer さんが取り組んでこられた研究と関わりを持てだだけで光栄なことだと思う．この論文についてどのように思われるのか聞けないことが残念でならない．&lt;/p&gt;
 
 &lt;div class=&quot;embed-container&quot;&gt;
   &lt;iframe src=&quot;https://www.youtube.com/embed/SoAVRjvwBKE&quot; width=&quot;360&quot; height=&quot;270&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
@@ -208,4 +22,25 @@
 &lt;div class=&quot;embed-container&quot;&gt;
   &lt;iframe src=&quot;https://www.youtube.com/embed/UuhJhLs3S8w&quot; width=&quot;360&quot; height=&quot;270&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;
   &lt;/iframe&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Force transmission and the order parameter of shear thickening</title><link href="http://localhost:4000/publication/update/2019/06/06/thickening-order-parameter.html" rel="alternate" type="text/html" title="Force transmission and the order parameter of shear thickening" /><published>2019-06-06T12:00:00+08:00</published><updated>2019-06-06T12:00:00+08:00</updated><id>http://localhost:4000/publication/update/2019/06/06/thickening-order-parameter</id><content type="html" xml:base="http://localhost:4000/publication/update/2019/06/06/thickening-order-parameter.html">&lt;p&gt;&lt;a href=&quot;http://rmari.github.io&quot;&gt;Romain&lt;/a&gt; and I uploaded a manuscript &lt;a href=&quot;https://arxiv.org/abs/1906.02103&quot;&gt;arXiv:1906.02103&lt;/a&gt;, discussing shear-thickening order parameters with a force transmission model adapted to shear thickening transitions.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pubs.rsc.org/en/content/articlelanding/2019/sm/c9sm01223k&quot;&gt;&lt;strong&gt;July 25, 2019: Accepted for publication in Soft Matter!!&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/biq.jpg&quot; alt=&quot;bi-q-model&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Romain and I uploaded a manuscript arXiv:1906.02103, discussing shear-thickening order parameters with a force transmission model adapted to shear thickening transitions.</summary></entry><entry><title type="html">Visiting Prof. Masubuchi group at Nagoya University</title><link href="http://localhost:4000/visiting/2019/05/13/Nagoya.html" rel="alternate" type="text/html" title="Visiting Prof. Masubuchi group at Nagoya University" /><published>2019-05-13T12:00:00+08:00</published><updated>2019-05-13T12:00:00+08:00</updated><id>http://localhost:4000/visiting/2019/05/13/Nagoya</id><content type="html" xml:base="http://localhost:4000/visiting/2019/05/13/Nagoya.html">&lt;p&gt;I will work in &lt;a href=&quot;http://rheology.jp/nagoya/&quot;&gt;Prof Masubuchi’s group&lt;/a&gt; at Nagoya University for next 2 months (May 13 – July 12, 2019)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/nagoya.jpg&quot; alt=&quot;Nagoya&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">I will work in Prof Masubuchi’s group at Nagoya University for next 2 months (May 13 – July 12, 2019)</summary></entry><entry><title type="html">Mixing Sauces: A Viscosity Blending Model for Shear Thinning Fluids</title><link href="http://localhost:4000/publication/update/2019/05/01/MixingSauces.html" rel="alternate" type="text/html" title="Mixing Sauces: A Viscosity Blending Model for Shear Thinning Fluids" /><published>2019-05-01T12:00:00+08:00</published><updated>2019-05-01T12:00:00+08:00</updated><id>http://localhost:4000/publication/update/2019/05/01/MixingSauces</id><content type="html" xml:base="http://localhost:4000/publication/update/2019/05/01/MixingSauces.html">&lt;p&gt;Our work on &lt;a href=&quot;http://mns.k.u-tokyo.ac.jp/~yonghao/sig19/abstsig19.html&quot;&gt;Mixing Sauces&lt;/a&gt; is appearing at &lt;a href=&quot;https://s2019.siggraph.org&quot;&gt;SIGGRAPH 2019&lt;/a&gt;!!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/mixing_sauces.jpg&quot; alt=&quot;Mixing sauces&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Our work on Mixing Sauces is appearing at SIGGRAPH 2019!!</summary></entry><entry><title type="html">Shear jamming and fragility in dense suspensions</title><link href="http://localhost:4000/publication/update/2019/02/12/shear-jamming.html" rel="alternate" type="text/html" title="Shear jamming and fragility in dense suspensions" /><published>2019-02-12T14:12:14+08:00</published><updated>2019-02-12T14:12:14+08:00</updated><id>http://localhost:4000/publication/update/2019/02/12/shear-jamming</id><content type="html" xml:base="http://localhost:4000/publication/update/2019/02/12/shear-jamming.html">&lt;p&gt;&lt;a href=&quot;https://arxiv.org/abs/1902.04361&quot;&gt;arXiv&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The phenomenon of shear-induced jamming is a factor in the complex rheological behavior of dense suspensions. Such shear-jammed states are fragile, i.e., they are not stable against applied stresses that are incompatible with the stress imposed to create them. This peculiar flow-history dependence of the stress response is due to flow-induced microstructures. To examine jammed states realized under constant shear stress, we perform dynamic simulations of non-Brownian particles with frictional contact forces and hydrodynamic lubrication forces. We find clear signatures that distinguish these fragile states from the more conventional isotropic jammed states.&lt;/p&gt;
+
+&lt;p&gt;[2019-05-30] We updated &lt;a href=&quot;https://arxiv.org/abs/1902.04361&quot;&gt;our paper on shear jamming&lt;/a&gt;. Here is a &lt;a href=&quot;https://youtu.be/v5LKX8bpP-w&quot;&gt;simulation movie&lt;/a&gt; included as Supplemental Material. See also &lt;a href=&quot;https://youtu.be/SoAVRjvwBKE&quot;&gt;1min YouTube introduction&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">arXiv</summary></entry><entry><title type="html">Dynamics of Complex Fluids and Interfaces in Kanpur</title><link href="http://localhost:4000/publication/update/2018/12/19/IIT-Kanpur.html" rel="alternate" type="text/html" title="Dynamics of Complex Fluids and Interfaces in Kanpur" /><published>2018-12-19T12:00:00+08:00</published><updated>2018-12-19T12:00:00+08:00</updated><id>http://localhost:4000/publication/update/2018/12/19/IIT-Kanpur</id><content type="html" xml:base="http://localhost:4000/publication/update/2018/12/19/IIT-Kanpur.html">&lt;p&gt;I joined the IUTAM Symposium on Dynamics of Complex Fluids and Interfaces in Kanpur, India.
+My talk is available &lt;a href=&quot;https://youtu.be/bi6Wd4usYTQ&quot;&gt;online&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/Kanpur.jpg&quot; alt=&quot;Kanpur&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">I joined the IUTAM Symposium on Dynamics of Complex Fluids and Interfaces in Kanpur, India. My talk is available online.</summary></entry><entry><title type="html">Normal stress differences in dense suspensions</title><link href="http://localhost:4000/publication/update/2018/09/30/normalstressdifferences.html" rel="alternate" type="text/html" title="Normal stress differences in dense suspensions" /><published>2018-09-30T14:12:14+08:00</published><updated>2018-09-30T14:12:14+08:00</updated><id>http://localhost:4000/publication/update/2018/09/30/normalstressdifferences</id><content type="html" xml:base="http://localhost:4000/publication/update/2018/09/30/normalstressdifferences.html">&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1017/jfm.2018.743&quot;&gt;JFM(open access)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We explain normal stress differences in dense suspensions!&lt;/p&gt;
+
+&lt;p&gt;The presence and the microscopic origin of normal stress differences in dense suspensions under simple shear flows are investigated by means of inertialess particle dynamics simulations, taking into account hydrodynamic lubrication and frictional contact forces. The synergic action of hydrodynamic and contact forces between the suspended particles is found to be the origin of negative contributions to the first normal stress difference N1, whereas positive values of N1 observed at higher volume fractions near jamming are due to effects that cannot be accounted for in the hard-sphere limit. Furthermore, we found that the stress anisotropy induced by the planarity of the simple shear flow vanishes as the volume fraction approaches the jamming point for frictionless particles, while it remains finite for the case of frictional particles.&lt;/p&gt;</content><author><name></name></author><summary type="html">JFM(open access)</summary></entry><entry><title type="html">Generalization of material functions</title><link href="http://localhost:4000/publication/update/2018/04/17/material-functions.html" rel="alternate" type="text/html" title="Generalization of material functions" /><published>2018-04-17T16:45:15+08:00</published><updated>2018-04-17T16:45:15+08:00</updated><id>http://localhost:4000/publication/update/2018/04/17/material-functions</id><content type="html" xml:base="http://localhost:4000/publication/update/2018/04/17/material-functions.html">&lt;p&gt;Published in Journal of Rheology (April 17, 2018) G. G. Giusteri and R. Seto. A theoretical framework for steady-state rheometry in generic flow conditions. J. Rheol., 62(3):713–723, 2018. 10.1122/1.4986840 &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ryseto.github.io/assets/pdf/Giusteri_2018.pdf&quot;&gt;PDF&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Published in Journal of Rheology (April 17, 2018) G. G. Giusteri and R. Seto. A theoretical framework for steady-state rheometry in generic flow conditions. J. Rheol., 62(3):713–723, 2018. 10.1122/1.4986840 </summary></entry></feed>
