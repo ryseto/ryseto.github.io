@@ -4,8 +4,6 @@ title: Members
 permalink: /Members/
 ---
 
-### [**JOIN US!**](joinus.md)
-
 ### Members
 
 - ![Seto](/assets/img/Seto2.jpeg) [Ryohei Seto](myprofile.md) 
