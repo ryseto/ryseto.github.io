@@ -6,15 +6,20 @@ permalink: /Members/
 
 ### Members
 
-- ![Seto](/assets/img/Seto2.jpeg) [Ryohei Seto](myprofile.md) 
-- ![Zhiwei](/assets/img/Zhiwei.jpeg) Zhiwei Liu (2021.11--) research assistant   
-- ![Yujie](/assets/img/Yujie.jpeg) Yujie Jiang (2022.1--) postdoc 
-- ![Zhongqiang](/assets/img/Zhongqiang.jpeg) Zhongqiang Xiong (2022.7--) postdoc
-- Boi Wang (2020.7--) visiting student, Institute of Physics, Chinese Academy of Science
+![Seto](/assets/img/Seto2.jpeg) [Ryohei Seto (PI)](myprofile.md)
+
+![Zhiwei](/assets/img/Zhiwei.jpeg)
+Zhiwei Liu (Research Assistant)
+
+![Yujie](/assets/img/Yujie.jpeg) Yujie Jiang (Postdoc)
+
+![Zhongqiang](/assets/img/Zhongqiang.jpeg) Zhongqiang Xiong (Postdoc)
+
+Boyi Wang (Institute of Physics, Chinese Academy of Science)
 
 ### Group Alumni
 
-- ![Zhiyuan](/assets/img/Zhiyuan.jpeg) [Zhiyuan Zhao (Postdoc)](https://www.researchgate.net/profile/Zhiyuan_Zhao11) (2020.7--2022.6) (Associate Professor of Masao Doi's group)
+![Zhiyuan](/assets/img/Zhiyuan.jpeg) [Zhiyuan Zhao](https://www.researchgate.net/profile/Zhiyuan_Zhao11) (Associate Professor, Doi group)
 
 ### Collaborators
 
