@@ -8,15 +8,15 @@ permalink: /Members/
 
 ### Members
 
-- [Ryohei Seto](myprofile.md)
-- Zhiwei Liu (2021.11--) research assistant
-- Yujie Jiang (2022.1--) postdoc
-- Zhongqiang Xiong (2022.7--) postdoc
+- ![Seto](/assets/img/Seto2.jpeg) [Ryohei Seto](myprofile.md) 
+- ![Zhiwei](/assets/img/Zhiwei.jpeg) Zhiwei Liu (2021.11--) research assistant   
+- ![Yujie](/assets/img/Yujie.jpeg) Yujie Jiang (2022.1--) postdoc 
+- ![Zhongqiang](/assets/img/Zhongqiang.jpeg) Zhongqiang Xiong (2022.7--) postdoc
 - Boi Wang (2020.7--) visiting student, Institute of Physics, Chinese Academy of Science
 
 ### Group Alumni
 
-- [Zhiyuan Zhao (Postdoc)](https://www.researchgate.net/profile/Zhiyuan_Zhao11) (2020.7--2022.6) (Associate Professor of Masao Doi's group)
+- ![Zhiyuan](/assets/img/Zhiyuan.jpeg) [Zhiyuan Zhao (Postdoc)](https://www.researchgate.net/profile/Zhiyuan_Zhao11) (2020.7--2022.6) (Associate Professor of Masao Doi's group)
 
 ### Collaborators
 
@@ -37,6 +37,5 @@ permalink: /Members/
 - [Jeffrey F. Morris](http://www-levich.engr.ccny.cuny.edu/~jmorris/index.html) Levich Institute, City College of New York, USA
 - [Morton Denn](http://www-levich.engr.ccny.cuny.edu/mdcv.htm) Levich Institute, City College of New York, USA
 
-![group photo1](/assets/img/group_photo1.jpeg)
 ![group photo2](/assets/img/group_photo2.jpeg)
-![Yujie](/assets/img/group_photo4.jpeg)
+
