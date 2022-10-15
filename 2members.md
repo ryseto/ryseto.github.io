@@ -6,7 +6,7 @@ permalink: /Members/
 
 ### Members
 
-![Seto](/assets/img/Seto2.jpeg) [Ryohei Seto (PI)](myprofile.md)
+![Seto](/assets/img/Seto2.jpeg) [Ryohei Seto (PI)](99myprofile.md)
 
 ![Zhiwei](/assets/img/Zhiwei.jpeg)
 Zhiwei Liu (Research Assistant)
