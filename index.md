@@ -5,11 +5,10 @@ layout: home
 ---
 [Research](1research.md) /  [Memebers](2members.md) / [Publicationis](4publications.md) / [Talks](5talks.md) / [Join us](6joinus.md)
 
+
+
 Welcome to the Rheophysics of Soft Matter group at WIUCAS!
 
-### **Simulation and experiment for soft matter systems**
-
-We study the mechanical properties of functional soft materials using computer simulation. Our research focuses on the rheology of complex fluids. We develop simulations to capture mesoscale dynamics and microstructures in out-of-equilibrium conditions, such as flowing soft-matter or biological systems. One of our goals is to bring insights from soft matter physics to biomaterials sciences and living phenomena. We are also interested in investigating colloidal phenomena for medical applications.
 
 ### **What's New!**
 
@@ -23,6 +22,7 @@ We study the mechanical properties of functional soft materials using computer s
 - 2021.9 New paper with Giulio: [G. G. Giusteri, R. Seto, Shear jamming and fragility of suspensions in a continuum model with elastic constraints, Phys. Rev. Lett., 127:138001, 2021.](https://doi.org/10.1103/PhysRevLett.127.138001) 
 - 2021.5 BCAM visiting fellow for May--June 2021.
 
-[Wenzhou Institute, University of Chinese Academy of Sciences](http://english.wiucas.ac.cn)\\
-[国科温州研究院](http://www.wiucas.ac.cn)
 
+[**Wenzhou Institute, University of Chinese Academy of Sciences**](http://english.wiucas.ac.cn)
+
+[**国科温州研究院**](http://www.wiucas.ac.cn)

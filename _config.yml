@@ -18,6 +18,8 @@ title: Rheophysics of Soft Matter group
 email: seto@ucas.ac.cn
 address: No.1 Jinlian Road, Longwan District, Wenzhou, Zhejiang 325000, China
 description: Our group studies soft matter physics. We study rheology and flow of soft materials by simulation and experiment.
+
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ryseto.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
