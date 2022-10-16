@@ -8,15 +8,15 @@ permalink: /Members/
 
 ### Members
 
-|![Seto](/assets/img/Seto2.jpeg)| [Ryohei Seto](99myprofile.md) <br> PI |
+|[![Seto](/assets/img/Seto2.jpeg)](..//aprofile)| [Ryohei Seto](99myprofile.md) <br> PI |
 |![Zhiwei](/assets/img/Zhiwei.jpeg)| Zhiwei Liu <br> Research Assistant |
 |![Yujie](/assets/img/Yujie.jpeg)  | Yujie Jiang <br> Postdoc |
-|![Zhongqiang](/assets/img/Zhongqiang.jpeg) | [Zhongqiang Xiong <br> Postdoc](https://www.researchgate.net/profile/Zhongqiang-Xiong) |
+|[![Zhongqiang](/assets/img/Zhongqiang.jpeg)](https://www.researchgate.net/profile/Zhongqiang-Xiong) | [Zhongqiang Xiong <br> Postdoc](https://www.researchgate.net/profile/Zhongqiang-Xiong) |
 |![Boyi](/assets/img/Boyi.jpeg) | Boyi Wang <br> Ph. D student <br> Institute of Physics, CAS |
 
 ### Group Alumni
 
-|![Zhiyuan](/assets/img/Zhiyuan.jpeg)| [Zhiyuan Zhao](https://www.researchgate.net/profile/Zhiyuan_Zhao11) <br> Associate Professor, Doi group |
+|[![Zhiyuan](/assets/img/Zhiyuan.jpeg)](https://www.researchgate.net/profile/Zhiyuan_Zhao11)| [Zhiyuan Zhao](https://www.researchgate.net/profile/Zhiyuan_Zhao11) <br> Associate Professor, Doi group |
 
 
 ### Collaborators
