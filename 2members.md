@@ -13,7 +13,7 @@ Zhiwei Liu (Research Assistant)
 
 ![Yujie](/assets/img/Yujie.jpeg) Yujie Jiang (Postdoc)
 
-![Zhongqiang](/assets/img/Zhongqiang.jpeg) Zhongqiang Xiong (Postdoc)
+![Zhongqiang](/assets/img/Zhongqiang.jpeg) [Zhongqiang Xiong (Postdoc)](https://www.researchgate.net/profile/Zhongqiang-Xiong)
 
 ![Boyi](/assets/img/Boyi.jpeg) Boyi Wang (Ph. D student, Institute of Physics, CAS)
 
