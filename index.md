@@ -14,6 +14,9 @@ Welcome to the Rheophysics of Soft Matter group at WIUCAS!
 The goal of this session is to report on the progress in the rheology and constitutive modeling of suspensions, with the role of interparticle interactions, shape, topography and friction on linear viscoelastic properties and non-Newtonian characteristics such as thinning and/or thickening in shear or extension. Magneto-responsive  and electrorheological suspensions will also ibe considered.
 
 
+[Introduction of WIUCAS by Prof. Komura](https://youtu.be/akAe0qse_3s)
+
+
 ### **What's New!**
 
 
