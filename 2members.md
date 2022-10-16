@@ -15,7 +15,7 @@ Zhiwei Liu (Research Assistant)
 
 ![Zhongqiang](/assets/img/Zhongqiang.jpeg) Zhongqiang Xiong (Postdoc)
 
-Boyi Wang (Institute of Physics, Chinese Academy of Science)
+![Boyi](/assets/img/Boyi.jpeg) Boyi Wang (Ph. D student, Institute of Physics, CAS)
 
 ### Group Alumni
 
