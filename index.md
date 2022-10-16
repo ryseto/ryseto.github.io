@@ -6,11 +6,16 @@ layout: home
 [Research](1research.md) /  [Memebers](2members.md) / [Publicationis](4publications.md) / [Talks](5talks.md) / [Join us](6joinus.md)
 
 
-
 Welcome to the Rheophysics of Soft Matter group at WIUCAS!
+
+### [ICR 2023 Call for abstracts (Deadline: January 10, 2023)](http://www.icr2023.com)
+>
+**Suspensions, frictional and granular systems**
+The goal of this session is to report on the progress in the rheology and constitutive modeling of suspensions, with the role of interparticle interactions, shape, topography and friction on linear viscoelastic properties and non-Newtonian characteristics such as thinning and/or thickening in shear or extension. Magneto-responsive  and electrorheological suspensions will also ibe considered.
 
 
 ### **What's New!**
+
 
 - 2022.10 - Our odd viscosity paper is out now on Frontiers in Physics(open access).\\
 [Z. Zhao, M. Yang, S. Komura, R. Seto, Odd Viscosity in Chiral Passive Suspensions, Front. Phys., 2022.](https://www.frontiersin.org/articles/10.3389/fphy.2022.951465/abstract)[(arXiv:2205.11881)](https://arxiv.org/abs/2205.11881)
