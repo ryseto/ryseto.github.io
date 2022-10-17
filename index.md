@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-| [Memebers](2members.md) | [Research](1research.md) | [Publicationis](4publications.md) | [Talks](5talks.md) | [Join us](6joinus.md)
+| [Memebers](1members.md) | [Research](2research.md) | [Publicationis](4publications.md) | [Talks](5talks.md) | [Join us](6joinus.md)
 
 **Welcome to the Rheophysics of Soft Matter group at WIUCAS!**
 
