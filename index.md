@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-[Research](1research.md) /  [Memebers](2members.md) / [Publicationis](4publications.md) / [Talks](5talks.md) / [Join us](6joinus.md)
+| [Memebers](2members.md) | [Research](1research.md) | [Publicationis](4publications.md) | [Talks](5talks.md) | [Join us](6joinus.md)
 
-Welcome to the Rheophysics of Soft Matter group at WIUCAS!
+**Welcome to the Rheophysics of Soft Matter group at WIUCAS!**
 
 ### [ICR 2023 Call for abstracts (Deadline: January 10, 2023)](http://www.icr2023.com)
 >
