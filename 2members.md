@@ -9,10 +9,10 @@ permalink: /Members/
 ### Members
 
 |[![Seto](/assets/img/Seto2.jpeg)](..//aprofile)| [Ryohei Seto](99myprofile.md) <br> PI |
-|![Zhiwei](/assets/img/Zhiwei.jpeg)| Zhiwei Liu <br> Research Assistant |
+|[![Zhiwei](/assets/img/Zhiwei.jpeg)](https://www.researchgate.net/profile/Zhiwei-Liu-49)| [Zhiwei Liu](https://www.researchgate.net/profile/Zhiwei-Liu-49) <br> Research Assistant |
 |![Yujie](/assets/img/Yujie.jpeg)  | Yujie Jiang <br> Postdoc |
 |[![Zhongqiang](/assets/img/Zhongqiang.jpeg)](https://www.researchgate.net/profile/Zhongqiang-Xiong) | [Zhongqiang Xiong <br> Postdoc](https://www.researchgate.net/profile/Zhongqiang-Xiong) |
-|![Boyi](/assets/img/Boyi.jpeg) | Boyi Wang <br> Ph. D student <br> Institute of Physics, CAS |
+|[![Boyi](/assets/img/Boyi.jpeg)](https://www.researchgate.net/profile/Boyi-Wang-4) | [Boyi Wang](https://www.researchgate.net/profile/Boyi-Wang-4) <br> Ph. D student <br> Institute of Physics, CAS |
 
 ### Group Alumni
 
