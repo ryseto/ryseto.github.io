@@ -84,7 +84,7 @@ Philosophical Transactions of the Royal Society of London. Series A: Mathematica
 Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences = Phil. Trans. R. Soc. Lond. A
 Physica A: Statistical Mechanics and its Applications = Phys. A
 Physical Chemistry Chemical Physics = Phys. Chem. Chem. Phys.
-Physics of Fluids A: Fluid Dyあ) = Phys. Fluids A
+Physics of Fluids A: Fluid Dynamics) = Phys. Fluids A
 Physics of Fluids (1994-present) = Phys. Fluids
 Physical Review Letter = Phys. Rev. Lett.
 Physical Review B = Phys. Rev. B
