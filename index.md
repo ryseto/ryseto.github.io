@@ -18,7 +18,7 @@ The goal of this session is to report on the progress in the rheology and consti
 
 ### **What's New!**
 
-
+- 2022.11 - New preprint [Y. Jiang, R. Seto, Competing Lengthscales in Colloidal Gelation with Non-Sticky Particles, arXiv:2211.12978](https://arxiv.org/abs/2211.12978)
 - 2022.10 - Our odd viscosity paper is out now on Frontiers in Physics(open access).\\
 [Z. Zhao, M. Yang, S. Komura, R. Seto, Odd Viscosity in Chiral Passive Suspensions, Front. Phys., 2022.](https://www.frontiersin.org/articles/10.3389/fphy.2022.951465/abstract)[(arXiv:2205.11881)](https://arxiv.org/abs/2205.11881)
 - 2022.3 - Review paper published in Annual Review of Condensed Matter Physics:\\
