@@ -5,12 +5,10 @@ layout: home
 ---
 | [Memebers](1members.md) | [Research](2research.md) | [Publicationis](4publications.md) | [Talks](5talks.md) | [Join us](6joinus.md)
 
-Welcome to the Rheophysics of Soft Matter group at [WIUCAS](http://english.wiucas.ac.cn).
-
-We are in **UCAS International Soft Matter Center**.
+Welcome to the Rheophysics of Soft Matter group at **UCAS International Soft Matter Center** and [**Wenzhou Institute**](http://english.wiucas.ac.cn)!
 
 
-### What's New!
+#### What's New
 
 - 2022.11 - New preprint [Y. Jiang, R. Seto, Competing Lengthscales in Colloidal Gelation with Non-Sticky Particles, arXiv:2211.12978](https://arxiv.org/abs/2211.12978)
 - 2022.10 - Our odd viscosity paper is out now on Frontiers in Physics(open access).\\
@@ -24,6 +22,5 @@ We are in **UCAS International Soft Matter Center**.
 - 2021.5 BCAM visiting fellow for May--June 2021.
 
 
-[**Wenzhou Institute, University of Chinese Academy of Sciences**](http://english.wiucas.ac.cn)
-
-[**国科温州研究院**](http://www.wiucas.ac.cn)
+[**Wenzhou Institute, University of Chinese Academy of Sciences**](http://english.wiucas.ac.cn) ([**国科温州研究院**](http://www.wiucas.ac.cn)) \\
+**UCAS International Soft Matter Center**
