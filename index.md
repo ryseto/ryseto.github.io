@@ -5,18 +5,12 @@ layout: home
 ---
 | [Memebers](1members.md) | [Research](2research.md) | [Publicationis](4publications.md) | [Talks](5talks.md) | [Join us](6joinus.md)
 
-**Welcome to the Rheophysics of Soft Matter group at [WIUCAS](http://english.wiucas.ac.cn)**
+Welcome to the Rheophysics of Soft Matter group at [WIUCAS](http://english.wiucas.ac.cn).
 
-### [ICR 2023 Call for abstracts (Deadline: January 10, 2023)](http://www.icr2023.com)
->
-**Suspensions, frictional and granular systems**
-The goal of this session is to report on the progress in the rheology and constitutive modeling of suspensions, with the role of interparticle interactions, shape, topography and friction on linear viscoelastic properties and non-Newtonian characteristics such as thinning and/or thickening in shear or extension. Magneto-responsive  and electrorheological suspensions will also ibe considered.
+We are in **UCAS International Soft Matter Center**.
 
 
-[Introduction of WIUCAS by Prof. Komura](https://youtu.be/akAe0qse_3s)
-
-
-### **What's New!**
+### What's New!
 
 - 2022.11 - New preprint [Y. Jiang, R. Seto, Competing Lengthscales in Colloidal Gelation with Non-Sticky Particles, arXiv:2211.12978](https://arxiv.org/abs/2211.12978)
 - 2022.10 - Our odd viscosity paper is out now on Frontiers in Physics(open access).\\
