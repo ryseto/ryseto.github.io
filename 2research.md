@@ -43,3 +43,15 @@ The rheology and fluid mechanics of particle suspensions remain a challenging pr
 </video>
 </center>
 
+
+### Grants
+ 
+- NSFC-RFIS II (外国学者研究基金项目, 外国优秀青年学者) 12150610463 \\
+Computational rheology to investigate aging effects of composite materials
+
+- 面上项目 12174390 \\
+New simulation scheme for migration and clogging of dense suspensions in channel flow
+
+
+
+
