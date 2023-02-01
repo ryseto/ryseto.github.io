@@ -6,15 +6,15 @@ permalink: /Members/
 
 ### Members
 
-|[![Seto](/assets/img/Seto2.jpeg)](/aprofile/)| [Ryohei SETO](9myprofile.md) <br> PI |
-|[![Zhiwei](/assets/img/Zhiwei.jpeg)](https://www.researchgate.net/profile/Zhiwei-Liu-49)| [Zhiwei LIU](https://www.researchgate.net/profile/Zhiwei-Liu-49) <br> Assistant Researcher |
-|![Yujie](/assets/img/Yujie.jpeg)  | Yujie JIANG <br> Postdoc |
-|[![Zhongqiang](/assets/img/Zhongqiang.jpeg)](https://www.researchgate.net/profile/Zhongqiang-Xiong) | [Zhongqiang XIONG <br> Postdoc](https://www.researchgate.net/profile/Zhongqiang-Xiong) |
+|[![Seto](/assets/img/Seto2.jpeg)](/aprofile/)| [Ryohei SETO 濑户亮平](9myprofile.md) <br> PI |
+|[![Zhiwei](/assets/img/Zhiwei.jpeg)](https://www.researchgate.net/profile/Zhiwei-Liu-49)| [Zhiwei LIU 刘志伟](https://www.researchgate.net/profile/Zhiwei-Liu-49) <br> Assistant Researcher |
+|![Yujie](/assets/img/Yujie.jpeg)  | Yujie JIANG 蒋玉杰<br> Postdoc |
+|[![Zhongqiang](/assets/img/Zhongqiang.jpeg)](https://www.researchgate.net/profile/Zhongqiang-Xiong) | [Zhongqiang XIONG 熊钟强<br> Postdoc](https://www.researchgate.net/profile/Zhongqiang-Xiong) |
 |[![Boyi](/assets/img/Boyi.jpeg)](https://www.researchgate.net/profile/Boyi-Wang-4) | [Boyi WANG](https://www.researchgate.net/profile/Boyi-Wang-4) <br> Ph. D student <br> Institute of Physics, CAS |
 
 ### Group Alumni
 
-|[![Zhiyuan](/assets/img/Zhiyuan.jpeg)](https://www.researchgate.net/profile/Zhiyuan_Zhao11)| [Zhiyuan ZHAO](https://www.researchgate.net/profile/Zhiyuan_Zhao11) <br> Associate Professor, Doi group |
+|[![Zhiyuan](/assets/img/Zhiyuan.jpeg)](https://www.researchgate.net/profile/Zhiyuan_Zhao11)| [Zhiyuan ZHAO 赵志远](https://www.researchgate.net/profile/Zhiyuan_Zhao11) <br> Postdoc (2020--2022) <br> Associate Professor, Doi group (2022--) |
 
 
 ### Collaborators
