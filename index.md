@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-| [Memebers](1members.md) | [Research](2research.md) | [Publicationis](4publications.md) | [Talks](5talks.md) | [Join us](6joinus.md)
+| [Memebers](1members.md) | [Research](2research.md) | [Publications](4publications.md) | [Talks](5talks.md) | [Join us](6joinus.md)
 
 Welcome to the Rheophysics of Soft Matter group at **UCAS International Soft Matter Center** and [**Wenzhou Institute**](http://english.wiucas.ac.cn)!
 
