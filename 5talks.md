@@ -6,7 +6,9 @@ permalink: /talks/
 
 ### Keynote/Symposium/Invited presentations
 
-1. Invited "Dense suspension flows in channels", 2021 International Workshop on Soft Matter and Biophysics Theories–Youth Forum,
+1. Invited "Flow and pressure of dense suspensions in pipes," 第十二届软物质与生命物质物理学术会, Wenzhou, October 28--31th, 2022.
+
+1. Invited "Dense suspension flows in channels," 2021 International Workshop on Soft Matter and Biophysics Theories–Youth Forum,
 MinJiang University, Fuzhou City, March 24, 2021.
 
 1. Invited "濃厚懸濁液のレオロジーと流路内の流動", 第16回希薄溶液の流動学講演会 第23回複雑流体研究会, Japan, Nov 20, 2020
