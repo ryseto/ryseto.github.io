@@ -57,6 +57,8 @@ The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016](htt
 
 ### Seminars
 
+1. "Nonuniform flows of dense suspensions," Osaka University, February 20, 2023.
+
 1. "Channel flows of colloidal suspensions," Xiamen University, April 29, 2021.
 
 1. ["A numerical approach to predict incompressible flows of dense non-Brownian suspensions" Kyoto University, February 27, 2020](https://www.yukawa.kyoto-u.ac.jp/seminar/s52679)
@@ -128,6 +130,8 @@ The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016](htt
 1. "Modeling of colloidal gels---rheology and contact forces," Saint-Gobain Recherche, Paris, France, September 8, 2011.
 
 ### Oral presentations
+
+1. R. Seto, Migration and jamming in pressure-driven dense suspension flows, CoMFoS22 Mathematical Aspects of Continuum Mechanics 2022 December 6-7, 2022
 
 1. R. Seto, Z. Zhao, J. Morris, M. Doi, "Pressure-driven flows of dense particle-liquid mixtures: a Stokesian DEM-CFD approach", 2022 JSME-II/ASME-ISPS Joint Confrence on Micromechatronics for Information and Precision Equipment (MIPE2022), Nagoya, August 28-31(31), 2022
 
