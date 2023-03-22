@@ -68,7 +68,7 @@ Orsay, France
 - [Physics World](http://physicsworld.com/cws/article/news/2013/nov/25/model-explains-why-liquid-suspensions-suddenly-turn-solid)
 - [2015 Society of Rheology Publication Award](http://www-levich.engr.ccny.cuny.edu/sor2015.htm)
 - [Dynamic Zero-COVID Strategy in China, Kagaku (Iwanami Shoten, Publishers)](/assets/pdf/Kagaku_202201_Seto_etal.pdf)
-- [.](/assets/pdf/ensemble_Ryohei_Seto.pdf)
+- [Article about my career history (in Japanese)](https://www.jstage.jst.go.jp/article/mssj/24/1/24_77/_article/-char/ja/)
 
 ### Marathon
 - Wenzhou Marathon			[not yet]	(2021.12.5)
