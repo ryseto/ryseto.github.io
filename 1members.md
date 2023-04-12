@@ -10,7 +10,10 @@ permalink: /Members/
 |[![Zhiwei](/assets/img/Zhiwei.jpeg)](https://www.researchgate.net/profile/Zhiwei-Liu-49)| [Zhiwei LIU 刘志伟](https://www.researchgate.net/profile/Zhiwei-Liu-49) <br> Assistant Researcher |
 |![Yujie](/assets/img/Yujie.jpeg)  | Yujie JIANG 蒋玉杰<br> Postdoc |
 |[![Zhongqiang](/assets/img/Zhongqiang.jpeg)](https://www.researchgate.net/profile/Zhongqiang-Xiong) | [Zhongqiang XIONG 熊钟强<br> Postdoc](https://www.researchgate.net/profile/Zhongqiang-Xiong) |
+|[![Yankai Li](/assets/img/Yankai.jpeg)](https://scholar.google.com/citations?user=zYSDLm4AAAAJ&hl=en) | [Yankai Li 李彦凯<br> Visiting member ](https://scholar.google.com/citations?user=zYSDLm4AAAAJ&hl=en) |
+|[![Yang](/assets/img/YangCui.jpeg)]() | [Yang Cui 崔阳<br> Visiting member ]() |
 |[![Boyi](/assets/img/Boyi.jpeg)](https://www.researchgate.net/profile/Boyi-Wang-4) | [Boyi WANG](https://www.researchgate.net/profile/Boyi-Wang-4) <br> Ph. D student <br> Institute of Physics, CAS |
+
 
 ### Group Alumni
 
