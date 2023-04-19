@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Microstructure and thickening of dense suspensions under extensional and shear flows"
+date: 2017-07-27 12:00:00 +0800
+categories: publication update
+---
+
+Our paper for extensional flow simulations is featured in Focus on Fluids by Prof. Helen Wilson: [`Shear thickening' in non-shear flows: the effect of microstructure](https://doi.org/10.1017/jfm.2017.744)
+
+The cover image of Journal of Fluid Mechanics is from our work!
+
+![Cover image for Journal of Fluid Mechanics](/assets/img/JFM_cover_2017.jpg)
+
+![Planar extensional flow](/assets/img/KRdemo.gif)

@@ -6,6 +6,8 @@ permalink: /research/
 
 
 
+
+
 ### **Simulation and experiment for soft matter systems**
 
 We study the mechanical properties of functional soft materials using computer simulation. Our research focuses on the rheology of complex fluids. We develop simulations to capture mesoscale dynamics and microstructures in out-of-equilibrium conditions, such as flowing soft-matter or biological systems. One of our goals is to bring insights from soft matter physics to biomaterials sciences and living phenomena. We are also interested in investigating colloidal phenomena for medical applications.
