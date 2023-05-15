@@ -7,11 +7,17 @@ layout: home
 
 Welcome to the Rheophysics of Soft Matter group at **UCAS International Soft Matter Center** and [**Wenzhou Institute**](http://english.wiucas.ac.cn)!
 
+<center>
+     <img class="fit-picture"
+     src="/assets/img/sticky-nonsticky-gel.jpg"
+     alt="Grapefruit slice atop a pile of other slices">
+</center>
+
 
 #### What's New
 
 
-- 2023.5 - **Our paper on colloidal gelation with non-sticky particles was published in Nature Communications!!** [Y. Jiang, R. Seto, Competing Lengthscales in Colloidal Gelation with Non-Sticky Particles](https://doi.org/10.1038/s41467-023-38461-1)
+- 2023.5 - **Our paper about colloidal gelation with non-sticky particles is out in Nature Communications.** [Y. Jiang, R. Seto, Competing Lengthscales in Colloidal Gelation with Non-Sticky Particles](https://doi.org/10.1038/s41467-023-38461-1)
 - 2022.10 - Our odd viscosity paper is out now on Frontiers in Physics(open access).\\
 [Z. Zhao, M. Yang, S. Komura, R. Seto, Odd Viscosity in Chiral Passive Suspensions, Front. Phys., 2022.](https://www.frontiersin.org/articles/10.3389/fphy.2022.951465/abstract)
 - 2022.3 - Review paper published in Annual Review of Condensed Matter Physics:\\
