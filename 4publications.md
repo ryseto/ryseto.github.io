@@ -8,7 +8,7 @@ permalink: /publications/
 
 ### Papers
 
-1. Y. Jiang, R. Seto, Competing Lengthscales in Colloidal Gelation with Non-Sticky Particles, Nat. Commun. (accepted) [arXiv:2211.12978](https://arxiv.org/abs/2211.12978) 
+1. [Y. Jiang, R. Seto, Competing Lengthscales in Colloidal Gelation with Non-Sticky Particles, Nat. Commun., 14(1):2773, 2023](https://doi.org/10.1038/s41467-023-38461-1) [arXiv:2211.12978](https://arxiv.org/abs/2211.12978) 
 1. [A. N. Kato, Y. Jiang, W. Chen, R. Seto, T. Li, How Surface Roughness Affects the Interparticle Interactions at a Liquid Interface, J. Colloid Interface Sci., 641:492–498, 2023.](https://doi.org/10.1016/j.jcis.2023.03.041)[arXiv:2209.02922](https://arxiv.org/abs/2209.02922)
 1. [Z. Zhao, M. Yang, S. Komura, R. Seto, Odd Viscosity in Chiral Passive Suspensions, Front. Phys., 2022.](https://www.frontiersin.org/articles/10.3389/fphy.2022.951465/abstract)[(arXiv:2205.11881)](https://arxiv.org/abs/2205.11881)
 1. [C. Ness, R. Seto, R. Mari, The physics of dense suspensions, Annu. Rev. Condens. Matter Phys., 13(1):97–117.](https://doi.org/10.1146/annurev-conmatphys-031620-105938) [(arXiv:2105.04162)](https://arxiv.org/abs/2105.04162)
