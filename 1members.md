@@ -11,7 +11,7 @@ permalink: /Members/
 |![Yujie](/assets/img/Yujie.jpeg)  | [Yujie JIANG 蒋玉杰](https://scholar.google.com/citations?user=8d1fMNwAAAAJ) <br> Postdoc |
 |[![Zhongqiang](/assets/img/Zhongqiang.jpeg)](https://www.researchgate.net/profile/Zhongqiang-Xiong) | [Zhongqiang XIONG 熊钟强](https://www.researchgate.net/profile/Zhongqiang-Xiong) <br> Postdoc|
 |[![Yankai Li](/assets/img/Yankai.jpeg)](https://scholar.google.com/citations?user=zYSDLm4AAAAJ&hl=en) | [Yankai LI 李彦凯<br> Visiting Fellow, University of Edinburgh](https://scholar.google.com/citations?user=zYSDLm4AAAAJ&hl=en) |
-|[![Yang](/assets/img/YangCui.jpeg)]() | [Yang CUI 崔阳<br> Visiting Fellow, University of Edinburgh]() |
+|![Yang](/assets/img/YangCui.jpeg) | Yang CUI 崔阳<br> Visiting Fellow, University of Edinburgh |
 |[![Boyi](/assets/img/Boyi.jpeg)](https://www.researchgate.net/profile/Boyi-Wang-4) | [Boyi WANG](https://www.researchgate.net/profile/Boyi-Wang-4) <br> Ph. D student <br> Institute of Physics, CAS |
 
 
