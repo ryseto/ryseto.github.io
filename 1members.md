@@ -6,10 +6,10 @@ permalink: /Members/
 
 ### Members
 
-|[![Seto](/assets/img/Seto2.jpeg)](/aprofile/)| [Ryohei SETO 濑户亮平](9myprofile.md) <br> PI |
+|[![Seto](/assets/img/Seto2.jpeg)](/aprofile/)| [Ryohei SETO 濑户亮平](9myprofile.md) <br> PI Researcher (Professor)|
 |[![Zhiwei](/assets/img/Zhiwei.jpeg)](https://www.researchgate.net/profile/Zhiwei-Liu-49)| [Zhiwei LIU 刘志伟](https://www.researchgate.net/profile/Zhiwei-Liu-49) <br> Assistant Researcher |
-|![Yujie](/assets/img/Yujie.jpeg)  | [Yujie JIANG 蒋玉杰<br>](https://scholar.google.com/citations?user=8d1fMNwAAAAJ) Postdoc |
-|[![Zhongqiang](/assets/img/Zhongqiang.jpeg)](https://www.researchgate.net/profile/Zhongqiang-Xiong) | [Zhongqiang XIONG 熊钟强<br> Postdoc](https://www.researchgate.net/profile/Zhongqiang-Xiong) |
+|![Yujie](/assets/img/Yujie.jpeg)  | [Yujie JIANG 蒋玉杰](https://scholar.google.com/citations?user=8d1fMNwAAAAJ) <br> Postdoc |
+|[![Zhongqiang](/assets/img/Zhongqiang.jpeg)](https://www.researchgate.net/profile/Zhongqiang-Xiong) | [Zhongqiang XIONG 熊钟强](https://www.researchgate.net/profile/Zhongqiang-Xiong) <br> Postdoc|
 |[![Yankai Li](/assets/img/Yankai.jpeg)](https://scholar.google.com/citations?user=zYSDLm4AAAAJ&hl=en) | [Yankai LI 李彦凯<br> Visiting Fellow, University of Edinburgh](https://scholar.google.com/citations?user=zYSDLm4AAAAJ&hl=en) |
 |[![Yang](/assets/img/YangCui.jpeg)]() | [Yang CUI 崔阳<br> Visiting Fellow, University of Edinburgh]() |
 |[![Boyi](/assets/img/Boyi.jpeg)](https://www.researchgate.net/profile/Boyi-Wang-4) | [Boyi WANG](https://www.researchgate.net/profile/Boyi-Wang-4) <br> Ph. D student <br> Institute of Physics, CAS |
@@ -40,5 +40,5 @@ permalink: /Members/
 - [Hitoshi WASHIZU](http://washizu.org/lab/index-e.html) University of Hyogo, Japan
 - [Yonghao YUE](http://mns.k.u-tokyo.ac.jp/~yonghao/) Aoyama Gakuin University, Japan
 
-![group photo2](/assets/img/group_photo2.jpeg)
+
 
