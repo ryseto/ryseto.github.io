@@ -8,7 +8,7 @@ permalink: /Members/
 
 |[![Seto](/assets/img/Seto2.jpeg)](/aprofile/)| [Ryohei SETO 濑户亮平](9myprofile.md) <br> PI |
 |[![Zhiwei](/assets/img/Zhiwei.jpeg)](https://www.researchgate.net/profile/Zhiwei-Liu-49)| [Zhiwei LIU 刘志伟](https://www.researchgate.net/profile/Zhiwei-Liu-49) <br> Assistant Researcher |
-|![Yujie](/assets/img/Yujie.jpeg)  | Yujie JIANG 蒋玉杰<br> Postdoc |
+|![Yujie](/assets/img/Yujie.jpeg)  | [Yujie JIANG 蒋玉杰<br>](https://scholar.google.com/citations?user=8d1fMNwAAAAJ) Postdoc |
 |[![Zhongqiang](/assets/img/Zhongqiang.jpeg)](https://www.researchgate.net/profile/Zhongqiang-Xiong) | [Zhongqiang XIONG 熊钟强<br> Postdoc](https://www.researchgate.net/profile/Zhongqiang-Xiong) |
 |[![Yankai Li](/assets/img/Yankai.jpeg)](https://scholar.google.com/citations?user=zYSDLm4AAAAJ&hl=en) | [Yankai LI 李彦凯<br> Visiting Fellow, University of Edinburgh](https://scholar.google.com/citations?user=zYSDLm4AAAAJ&hl=en) |
 |[![Yang](/assets/img/YangCui.jpeg)]() | [Yang CUI 崔阳<br> Visiting Fellow, University of Edinburgh]() |
