@@ -38,7 +38,7 @@ The rheology and fluid mechanics of particle suspensions remain a challenging pr
 
 <center>
 <video muted autoplay controls>
-    <source src="/assets/movie/channel.mov" type="video/mp4">
+    <source src="/assets/movie/pg_0.011.mov" type="video/mp4">
 </video>
 </center>
 
