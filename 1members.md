@@ -17,7 +17,7 @@ permalink: /Members/
 
 ### Group Alumni
 
-|[![Zhiyuan](/assets/img/Zhiyuan.jpeg)](https://www.researchgate.net/profile/Zhiyuan_Zhao11)| [Zhiyuan ZHAO 赵志远](https://www.researchgate.net/profile/Zhiyuan_Zhao11) <br> Postdoc (2020--2022) <br> Associate Professor, Doi group (2022--) |
+|[![Zhiyuan](/assets/img/Zhiyuan.jpeg)](https://www.researchgate.net/profile/Zhiyuan_Zhao11)| [Zhiyuan ZHAO 赵志远](https://scholar.google.com/citations?hl=fr&user=e4Z56nQAAAAJ&view_op=list_works&sortby=pubdate) <br> Postdoc (2020--2022) <br> Associate Researcher, Doi group (2022--) |
 
 
 ### Collaborators
