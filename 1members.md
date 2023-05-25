@@ -41,4 +41,8 @@ permalink: /Members/
 - [Yonghao YUE](http://mns.k.u-tokyo.ac.jp/~yonghao/) Aoyama Gakuin University, Japan
 
 
-
+<center>
+     <img class="fit-picture"
+     src="/assets/img/groupphoto.jpeg"
+     alt="group photo 2023">
+</center>
