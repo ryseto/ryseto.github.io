@@ -21,7 +21,7 @@ Welcome to the Rheophysics of Soft Matter group at **UCAS International Soft Mat
 #### What's New
 
 - 2023.6 [[高分子科学前沿]  国科温研院濑户亮平团队《自然·通讯》：含有杂质的凝胶化过程--加速or延缓？](https://mp.weixin.qq.com/s/zK63JTw44LVDduXcpMTcSw)
-- 2023.5 - **Our paper about colloidal gelation with non-sticky particles is out in Nature Communications.** [Y. Jiang, R. Seto, Competing Lengthscales in Colloidal Gelation with Non-Sticky Particles](https://doi.org/10.1038/s41467-023-38461-1)  **[Editors' Highlights](https://www.nature.com/collections/hjhbgijcei)**
+- 2023.5 - **Our paper about colloidal gelation with non-sticky particles is out in Nature Communications.** [Y. Jiang, R. Seto, Competing Lengthscales in Colloidal Gelation with Non-Sticky Particles](https://doi.org/10.1038/s41467-023-38461-1)  **[Featured in Editors' Highlights](https://www.nature.com/collections/hjhbgijcei)**
 - 2022.10 - Our odd viscosity paper is out now on Frontiers in Physics(open access).\\
 [Z. Zhao, M. Yang, S. Komura, R. Seto, Odd Viscosity in Chiral Passive Suspensions, Front. Phys., 2022.](https://www.frontiersin.org/articles/10.3389/fphy.2022.951465/abstract)
 - 2022.3 - Review paper published in Annual Review of Condensed Matter Physics:\\
