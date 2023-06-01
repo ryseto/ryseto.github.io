@@ -28,6 +28,7 @@ url: "https://ryseto.github.io" # the base hostname & protocol for your site, e.
 # Build settings
 # markdown: kramdown
 # theme: minima
+
 theme: bulma-clean-theme
 remote_theme: chrisrhymes/bulma-clean-theme
 
