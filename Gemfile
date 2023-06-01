@@ -23,6 +23,7 @@ gem "bulma-clean-theme"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "kramdown", "~> 2.3.1"
+  gem 'github-pages', group: :jekyll_plugins
 end
 
 
@@ -41,4 +42,3 @@ gem "rexml", "~> 3.2"
 gem "webrick", "~> 1.7"
 
 
-#gem "github-pages", group: :jekyll_plugins
