@@ -30,11 +30,15 @@ url: "https://ryseto.github.io" # the base hostname & protocol for your site, e.
 # theme: minima
 
 theme: bulma-clean-theme
-# remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 
 plugins:
   - jekyll-feed
-
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - github-pages
+  
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
