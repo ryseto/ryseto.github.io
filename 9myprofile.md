@@ -4,6 +4,7 @@ title: Ryohei Seto
 permalink: /aprofile/
 ---
 
+![Ryohei Seto](/assets/img/Seto2.jpeg)
 Ryohei Seto, PI (Professor) \\
 瀬戸亮平　課題組長（研究员，教授）\\
 温州市海外精英引進計画 
@@ -32,7 +33,7 @@ Dr. Ryohei Seto is a computational physicist with broad experience in soft mater
 濑户博士在剪切增稠的研究领域成就突出（剪切增稠现象为在较高的应力下流体变得更粘稠），论文被广泛引用，对该领域有巨大影响。其中，一篇论文获得2015年流变学会奖。
 濑户博士积极活跃在软物质理论领域，被多个国际会议和研讨会邀请并作邀请报告。
 
-![Ryohei Seto](/assets/img/seto_small.jpeg)
+
 
 ### Academic ID
 - [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
