@@ -1,7 +1,8 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+title: Rheophysics of Soft Matter group
+layout: page
 ---
 | [Memebers](1members.md) | [Research](2research.md) | [Publications](4publications.md) | [Talks](5talks.md) | [Join us](6joinus.md)
 
