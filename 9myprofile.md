@@ -5,8 +5,9 @@ permalink: /aprofile/
 ---
 
 ![Ryohei Seto](/assets/img/Seto2.jpeg)
+
 Ryohei Seto, PI (Professor) \\
-瀬戸亮平　課題組長（研究员，教授）\\
+瀬戸亮平 課題組長（研究员，教授）\\
 温州市海外精英引進計画 
 
 [CV](https://ryseto.github.io/assets/pdf/CV_Seto.pdf)
@@ -33,8 +34,6 @@ Dr. Ryohei Seto is a computational physicist with broad experience in soft mater
 濑户博士在剪切增稠的研究领域成就突出（剪切增稠现象为在较高的应力下流体变得更粘稠），论文被广泛引用，对该领域有巨大影响。其中，一篇论文获得2015年流变学会奖。
 濑户博士积极活跃在软物质理论领域，被多个国际会议和研讨会邀请并作邀请报告。
 
-
-
 ### Academic ID
 - [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
 - [ResearcherID](http://www.researcherid.com/rid/E-3275-2014)
@@ -46,7 +45,6 @@ Dr. Ryohei Seto is a computational physicist with broad experience in soft mater
 
 No.1 Jinlian Road, Longwan District, Wenzhou, Zhejiang, 325001, China\\
 浙江省温州市龙湾区金联路1号 (邮编 325001)
-
 
 ### Work
 - 2020-present Visiting Professor, Graduate School of Simulation Studies, University of Hyogo
@@ -63,6 +61,14 @@ Onna, Japan
 Orsay, France
 - 2006      Dr. of Science in Physics  Ritsumeikan University, Japan (Prof. Hiroshi Kuratsuji)
 
+### Grants
+
+- NSFC-RFIS II (外国学者研究基金项目, 外国优秀青年学者) 12150610463 [2022--2023]\\
+Computational rheology to investigate aging effects of composite materials
+
+- NSFC 面上项目 12174390 [2022--2025] \\
+New simulation scheme for migration and clogging of dense suspensions in channel flow
+
 
 ### Misc
 - [Scientific American](https://www.scientificamerican.com/article/friction-makes-cornstarch-and-water-into-bizarre-oobleck/)
@@ -72,7 +78,6 @@ Orsay, France
 - [Article about my career history (in Japanese)](https://www.jstage.jst.go.jp/article/mssj/24/1/24_77/_article/-char/ja/)
 
 ### Marathon
-- Wenzhou Marathon			[not yet]	(2021.12.5)
 - Kanazawa Marathon			**3:39:11**	(2017.10.29)
 - Naha Marathon				4:00:45		(2016.12.4)
 - Okinawa Marathon			3:43:12		(2016.2.21)
