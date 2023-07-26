@@ -35,3 +35,5 @@ Welcome to the Rheophysics of Soft Matter group at **UCAS International Soft Mat
 
 [**Wenzhou Institute, University of Chinese Academy of Sciences**](http://english.wiucas.ac.cn) ([**国科温州研究院**](http://www.wiucas.ac.cn)) \\
 **UCAS International Soft Matter Center**
+
+Ryohei Seto [seto@wiucas.ac.cn](mailto:seto@wiucas.ac.cn) 

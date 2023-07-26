@@ -7,8 +7,12 @@ permalink: /aprofile/
 ![Ryohei Seto](/assets/img/Seto2.jpeg)
 
 Ryohei Seto, PI (Professor) \\
+[seto@wiucas.ac.cn](mailto:seto@wiucas.ac.cn)  \\
 瀬戸亮平 課題組長（研究员，教授）\\
 温州市海外精英引進計画 
+
+
+
 
 [CV](https://ryseto.github.io/assets/pdf/CV_Seto.pdf)
 
@@ -40,6 +44,10 @@ Dr. Ryohei Seto is a computational physicist with broad experience in soft mater
 - [ORCID](http://orcid.org/0000-0002-4099-034X)
 - [researchmap](https://researchmap.jp/ryseto)
 - [ResearchGate](https://www.researchgate.net/profile/Ryohei_Seto)
+
+### Email address
+
+[seto@wiucas.ac.cn](mailto:seto@wiucas.ac.cn)
 
 ### Address
 

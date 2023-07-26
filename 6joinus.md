@@ -15,7 +15,7 @@ Postdoc positions are available in the Computational Soft Matter group at [the W
 - Doctoral degree in soft matter, statistical physics, fluid mechanics, and biophysics, etc.
 - Experience with numerical simulations
 - Programming skills (C++, Python, etc.)
-1. Please send the following items to [me](mailto:seto@wibe.ac.cn) 
+1. Please send the following items to [me](mailto:seto@wiucas.ac.cn) 
 - CV 
 - List of publications
 - Summary of your research accomplishments and your research interests
