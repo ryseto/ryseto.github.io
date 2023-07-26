@@ -19,6 +19,12 @@ email: seto@ucas.ac.cn
 address: No.1 Jinlian Road, Longwan District, Wenzhou, Zhejiang 325000, China
 description: Our group studies soft matter physics. We study rheology and flow of soft materials by simulation and experiment.
 
+# Disqus Comments
+disqus:
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  shortname: ryseto
+
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ryseto.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -52,4 +58,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
