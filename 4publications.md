@@ -8,10 +8,13 @@ permalink: /publications/
 
 ### Papers
 
-1. [Y. Jiang, R. Seto, Competing Lengthscales in Colloidal Gelation with Non-Sticky Particles, Nat. Commun., 14(1):2773, 2023](https://doi.org/10.1038/s41467-023-38461-1) **[Featured in Editors' Highlights](https://www.nature.com/collections/hjhbgijcei)**
+1. [Airi N. Kato, Ryohei Seto, Yujie Jiang, Wei Chen, and Tao Li,
+Compaction of Particle-laden Interfaces: Effects of anisotropy and surface roughness of particles,
+Journal of the Japanese Association for Crystal Growth 50(2), 50-2-02 (2023).](https://www.jacg.jp/jacg/journal/english/2023vol50no2.html) **[in Japanese, invited, peer-reviewed]**
+1. [Y. Jiang, R. Seto, Competing Lengthscales in Colloidal Gelation with Non-Sticky Particles, Nat. Commun., 14(1):2773, 2023](https://doi.org/10.1038/s41467-023-38461-1) **[Featured in Editors' Highlights](https://www.nature.com/collections/hjhbgijcei)** 
 1. [A. N. Kato, Y. Jiang, W. Chen, R. Seto, T. Li, How Surface Roughness Affects the Interparticle Interactions at a Liquid Interface, J. Colloid Interface Sci., 641:492–498, 2023.](https://doi.org/10.1016/j.jcis.2023.03.041)[arXiv:2209.02922](https://arxiv.org/abs/2209.02922)
-1. [Z. Zhao, M. Yang, S. Komura, R. Seto, Odd Viscosity in Chiral Passive Suspensions, Front. Phys., 2022.](https://www.frontiersin.org/articles/10.3389/fphy.2022.951465/abstract)[(arXiv:2205.11881)](https://arxiv.org/abs/2205.11881)
-1. [C. Ness, R. Seto, R. Mari, The physics of dense suspensions, Annu. Rev. Condens. Matter Phys., 13(1):97–117.](https://doi.org/10.1146/annurev-conmatphys-031620-105938) [(arXiv:2105.04162)](https://arxiv.org/abs/2105.04162)
+1. [Z. Zhao, M. Yang, S. Komura, R. Seto, Odd Viscosity in Chiral Passive Suspensions, Front. Phys., 2022.](https://www.frontiersin.org/articles/10.3389/fphy.2022.951465/abstract) **[invited, peer-reviewed]**
+1. [C. Ness, R. Seto, R. Mari, The physics of dense suspensions, Annu. Rev. Condens. Matter Phys., 13(1):97–117.](https://doi.org/10.1146/annurev-conmatphys-031620-105938) [(arXiv:2105.04162)](https://arxiv.org/abs/2105.04162) **[invited, peer-reviewed]**
 1. [Z. Zhao, B. Wang, S. Komura, M. Yang, F. Ye, R. Seto, Emergent Stripes of Active Rotors in Shear Flows, Phys. Rev. Research, 3:043229, 2021.](https://doi.org/10.1103/PhysRevResearch.3.043229)
 1. [G. G. Giusteri, R. Seto, Shear jamming and fragility of suspensions in a continuum model with elastic constraints, Phys. Rev. Lett., 127:138001, 2021.](https://doi.org/10.1103/PhysRevLett.127.138001) [(arXiv:2102.01923)](https://arxiv.org/abs/2102.01923)
 1. [J. T. Jenkins, R. Seto, L. L. Ragione, Predictions of microstructure and stress in two-dimensional pure shearing of a dense viscous suspension, J. Fluid Mech., 912:A27, 2021.](https://doi.org/10.1017/jfm.2020.1111) [(arXiv:2006.05590)](https://arxiv.org/abs/2006.05590)
@@ -25,7 +28,7 @@ permalink: /publications/
 1. [A. T. Pham, R. Seto, J. Schönke, D. Y. Joh, A. Chilkoti, E. Fried, and B. B. Yellen. Crystallization kinetics of binary colloidal monolayers, Soft Matter, 12:7735–7746, 2016.](http://dx.doi.org/10.1039/C6SM01072E)
 1. [R. Mari, R. Seto, J. F. Morris, and M. M. Denn. Discontinuous shear thickening in Brownian suspensions by dynamic simulation. Proc. Natl. Acad. Sci. USA, 112(50):15326–15330, 2015.](http://www.pnas.org/content/112/50/15326.abstract)
 1. [R. Mari, R. Seto, J. F. Morris, and M. M. Denn. Nonmonotonic flow curves of shear thickening suspensions. Phys. Rev. E, 91:052302, 2015.](http://link.aps.org/doi/10.1103/PhysRevE.91.052302)
-1. [R. Seto, R. Mari, J. F. Morris, and M. M. Denn. The essential role of frictional contact in shear thickening, Japanese J. Multiphase Flow, Vol. 28, No. 3, 296–303, 2014.](http://dx.doi.org/10.3811/jjmf.28.296)
+1. [R. Seto, R. Mari, J. F. Morris, and M. M. Denn. The essential role of frictional contact in shear thickening, Japanese J. Multiphase Flow, Vol. 28, No. 3, 296–303, 2014.](http://dx.doi.org/10.3811/jjmf.28.296) **[in Japanese, invited]**
 1. [R. Mari, R. Seto, J. F. Morris, and M. M. Denn. Shear thickening, frictionless and frictional rheologies. J. Rheol., 58(6):1693–1724, 2014.](http://scitation.aip.org/content/sor/journal/jor2/58/6/10.1122/1.4890747) [**Received the 2015 Society of Rheology Publication Award**](http://www-levich.engr.ccny.cuny.edu/sor2015.htm)
 1. [R. Seto, R. Mari, J. F. Morris, and M. M. Denn. Discontinuous shear thickening of frictional hard-sphere suspensions. Phys. Rev. Lett., 111:218301, 2013.](http://prl.aps.org/abstract/PRL/v111/i21/e218301)
  Featured as Editors’ Suggestion and highlighted in [**Physics Viewpoint "Friction’s Role in Shear Thickening"**](https://physics.aps.org/articles/v6/125)
