@@ -19,7 +19,7 @@ Welcome to the Rheophysics of Soft Matter group at **UCAS International Soft Mat
 
 
 #### What's New
-
+- 2023.10 Our lab got ARES-G2 (rheometor)
 - 2023.6 [[高分子科学前沿]  国科温研院濑户亮平团队《自然·通讯》：含有杂质的凝胶化过程--加速or延缓？](https://mp.weixin.qq.com/s/zK63JTw44LVDduXcpMTcSw)
 - 2023.5 - **Our paper about colloidal gelation with non-sticky particles is out in Nature Communications.** [Y. Jiang, R. Seto, Competing Lengthscales in Colloidal Gelation with Non-Sticky Particles](https://doi.org/10.1038/s41467-023-38461-1)  **[Featured in Editors' Highlights](https://www.nature.com/collections/hjhbgijcei)**
 - 2022.10 - Our odd viscosity paper is out now on Frontiers in Physics(open access).\\
