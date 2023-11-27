@@ -8,6 +8,9 @@ permalink: /publications/
 
 ### Papers
 
+1. [Peter Angerman, Sagaya Prasanna Kumar, Bjornar Sandnes, Ryohei Seto, and Marco Ellero, Microstructural Smoothed Particle Hydrodynamics Model and Simulations of Discontinuous Shear-Thickening Fluids, arXiv:2311.13759[physics.flu-dyn]](https://arxiv.org/abs/2311.13759) 
+1. [Zhongqiang Xiong, Peter Angerman, Marco Ellero, Bjornar Sandnes, and Ryohei Seto, Ridge instability in dense suspensions caused by the second normal stress difference, arXiv:2311.11201[cond-mat.soft]](https://arxiv.org/abs/2311.11201)
+1. [Yujie Jiang, Yang Cui, Yankai Li, Zhiwei Liu, Christopher Ness, and Ryohei Seto, Filled Colloidal Gel Rheology: Strengthening, Softening, and Tuneability, arXiv:2311.08751[cond-mat.soft] ](https://arxiv.org/abs/2311.08751)
 1. [Airi N. Kato, Ryohei Seto, Yujie Jiang, Wei Chen, and Tao Li,
 Compaction of Particle-laden Interfaces: Effects of anisotropy and surface roughness of particles,
 Journal of the Japanese Association for Crystal Growth 50(2), 50-2-02 (2023).](https://www.jacg.jp/jacg/journal/english/2023vol50no2.html) **[in Japanese, invited, peer-reviewed]**
