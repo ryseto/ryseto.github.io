@@ -11,7 +11,8 @@ permalink: /Members/
 |[![Yankai Li](/assets/img/Yankai.jpeg)](https://scholar.google.com/citations?user=zYSDLm4AAAAJ&hl=en) | [Yankai LI 李彦凯<br> Visiting Fellow, University of Edinburgh](https://scholar.google.com/citations?user=zYSDLm4AAAAJ&hl=en)  <br> [(Ness group)](https://christopherjness.github.io/group.html) |
 |![Yang](/assets/img/YangCui.jpeg) | Yang CUI 崔阳<br> Visiting Fellow, University of Edinburgh|
 |[![Boyi](/assets/img/Boyi.jpeg)](https://www.researchgate.net/profile/Boyi-Wang-4) | [Boyi WANG](https://www.researchgate.net/profile/Boyi-Wang-4) <br> Ph. D student <br> Institute of Physics, CAS |
-
+| | 袁翔 <br> Undergraduate Student  <br> Wenzhou Medical University |
+| | 杨岚 <br> Undergraduate Student <br> Wenzhou Medical University |
 
 ### Group Alumni
 
