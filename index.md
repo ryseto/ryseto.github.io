@@ -7,15 +7,15 @@ layout: page
 
 Welcome to the Rheophysics of Soft Matter group at **UCAS International Soft Matter Center** and [**Wenzhou Institute**](http://english.wiucas.ac.cn)!
 
+[Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
+
 <center>
 <a href="https://www.nature.com/articles/s41467-023-38461-1">	
      <img class="fit-picture"
      src="/assets/img/sticky-nonsticky-gel.jpg"
      alt="Grapefruit slice atop a pile of other slices">
 </a>
-
 </center>
-
 
 
 #### What's New
@@ -36,4 +36,4 @@ Welcome to the Rheophysics of Soft Matter group at **UCAS International Soft Mat
 [**Wenzhou Institute, University of Chinese Academy of Sciences**](http://english.wiucas.ac.cn) ([**国科温州研究院**](http://www.wiucas.ac.cn)) \\
 **UCAS International Soft Matter Center**
 
-Ryohei Seto [seto@wiucas.ac.cn](mailto:seto@wiucas.ac.cn) 
+Ryohei Seto [seto@wiucas.ac.cn](mailto:seto@wiucas.ac.cn)
