@@ -4,6 +4,9 @@ title: Research
 permalink: /research/
 ---
 
+
+
+
 ### **Simulation and experiment for soft matter systems**
 
 We study the mechanical properties of functional soft materials using computer simulation. Our research focuses on the rheology of complex fluids. We develop simulations to capture mesoscale dynamics and microstructures in out-of-equilibrium conditions, such as flowing soft-matter or biological systems. One of our goals is to bring insights from soft matter physics to biomaterials sciences and living phenomena. We are also interested in investigating colloidal phenomena for medical applications.
@@ -18,6 +21,10 @@ The rheology and fluid mechanics of particle suspensions remain a challenging pr
 
 颗粒悬浮液的流变学和流体力学是一个具有挑战性的问题。细颗粒之间的耗散需要考虑一些特殊的力学约束，例如限制切向运动的接触力和颗粒隙间流体的不可压缩性。我们引入了全新的模拟方法来处理浓悬液流中的非平衡物理问题。
 
+
+### Rheology
+
+We are working with ARES-G2 rheometor.
 
 ### Simulation software
 
