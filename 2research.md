@@ -21,11 +21,6 @@ The rheology and fluid mechanics of particle suspensions remain a challenging pr
 
 颗粒悬浮液的流变学和流体力学是一个具有挑战性的问题。细颗粒之间的耗散需要考虑一些特殊的力学约束，例如限制切向运动的接触力和颗粒隙间流体的不可压缩性。我们引入了全新的模拟方法来处理浓悬液流中的非平衡物理问题。
 
-
-### Rheology
-
-We are working with ARES-G2 rheometor.
-
 ### Simulation software
 
 
@@ -48,6 +43,18 @@ We are working with ARES-G2 rheometor.
     <source src="/assets/movie/pg_0.011.mov" type="video/mp4">
 </video>
 </center>
+
+### Rheology
+
+We are working with ARES-G2 rheometor.
+
+<center>
+     <img class="fit-picture"
+     src="/assets/img/G2.jpeg"
+     alt="ARES-G2">
+</center>
+
+
 
 
 ## **Grants**
