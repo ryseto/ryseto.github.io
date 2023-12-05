@@ -13,7 +13,7 @@ Welcome to the Rheophysics of Soft Matter group at **UCAS International Soft Mat
 <a href="https://www.nature.com/articles/s41467-023-38461-1">	
      <img class="fit-picture"
      src="/assets/img/sticky-nonsticky-gel.jpg"
-     alt="Grapefruit slice atop a pile of other slices">
+     alt="Sticky particles with non-sticky granular fillers">
 </a>
 </center>
 
