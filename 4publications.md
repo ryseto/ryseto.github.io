@@ -8,6 +8,7 @@ permalink: /publications/
 
 ### Papers
 
+1. [Mitsuki Hamamichi, Kentaro Nagasawa, Masato Okada, Ryohei Seto, Yonghao Yue, ACM Transactions on Graphics (TOG) 42 (6), 1--16](https://dl.acm.org/doi/abs/10.1145/3618310)
 1. [Peter Angerman, Sagaya Prasanna Kumar, Bjornar Sandnes, Ryohei Seto, and Marco Ellero, Microstructural Smoothed Particle Hydrodynamics Model and Simulations of Discontinuous Shear-Thickening Fluids, arXiv:2311.13759[physics.flu-dyn]](https://arxiv.org/abs/2311.13759) 
 1. [Zhongqiang Xiong, Peter Angerman, Marco Ellero, Bjornar Sandnes, and Ryohei Seto, Ridge instability in dense suspensions caused by the second normal stress difference, arXiv:2311.11201[cond-mat.soft]](https://arxiv.org/abs/2311.11201)
 1. [Yujie Jiang, Yang Cui, Yankai Li, Zhiwei Liu, Christopher Ness, and Ryohei Seto, Filled Colloidal Gel Rheology: Strengthening, Softening, and Tuneability, arXiv:2311.08751[cond-mat.soft] ](https://arxiv.org/abs/2311.08751)
