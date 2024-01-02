@@ -6,6 +6,17 @@ permalink: /talks/
 
 ### Keynote/Symposium/Invited presentations
 
+1. Invited "A simulation scheme for dense suspension flows with locally
+averaged equations of motion", [The 15th Complex Fluid Rheology Symposium and Rheology Workshop, Guangzhou, China, Dec. 6--11, 2023](https://rheology2023.scimeeting.cn/cn/web/index/19983_)
+
+1. Short course lecture "Rheology of Suspensions," [The 15th Complex Fluid Rheology Symposium and Rheology Workshop, Guangzhou, China, Dec. 6--11, 2023](https://rheology2023.scimeeting.cn/cn/web/index/19983_)
+
+1. Invited "A simulation scheme for dense suspension flows---LF-DEM with   unresolved CFD," [The Xiamen Soft Matter Forum 2023, Xiamen, Oct. 20--23, 2023.](https://rwz.xmu.edu.cn/smnep/index.htm)
+
+1. Invited "Normal stress and migration in pressure driven Àow of dense suspensions," [The 9th International Discussion Meeting on Relaxations in Complex Systems, Makuhari, Chiba, Japan, Aug. 12--18](https://9idmrcs.jp)
+
+1. Invited "Pressure-driven flows of frictional dense suspensions: migration, jammed plug, and diffusion", [EUROMECH Colloquium 622 "Suspension flows and rheology: inertia, shape and roughness matter", Chateau Valrose, Nice, France, June 26--30, 2023](https://622.euromech.org)
+
 1. Invited "Migration in inhomogeneous flow of dense suspensions," 2023 Symposium on Theoretical Calculation and Simulation of Soft Matter, Chinese Chemical Society, Changchun, April 14--17, 2023.
 
 1. Invited "Flow and pressure of dense suspensions in pipes," 第十二届软物质与生命物质物理学术会, Wenzhou, October 28--31, 2022.
@@ -133,9 +144,14 @@ The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016](htt
 
 ### Oral presentations
 
-1. R. Seto, Migration and jamming in pressure-driven dense suspension flows, CoMFoS22 Mathematical Aspects of Continuum Mechanics 2022 December 6-7, 2022
+1. R. Seto, "Simulation model to combine locally-averaged flow field and colloidal dynamics," [11th Soft Matter Workshop, Tokyo, Dec 18--20, 2023](https://softmatter.xsrv.jp/event/meeting11.html)
 
-1. R. Seto, Z. Zhao, J. Morris, M. Doi, "Pressure-driven flows of dense particle-liquid mixtures: a Stokesian DEM-CFD approach", 2022 JSME-II/ASME-ISPS Joint Confrence on Micromechatronics for Information and Precision Equipment (MIPE2022), Nagoya, August 28-31(31), 2022
+
+1. R. Seto, Z. Zhao, J. Morris, M. Doi, "Migration and diffusion in pressure-driven flow of dense suspensions," [International Congress on Rheology, Athens, Greece, July 29--Aug 4, 2023](http://icr2023.com)
+
+1. R. Seto, "Migration and jamming in pressure-driven dense suspension flows", CoMFoS22 Mathematical Aspects of Continuum Mechanics 2022 December 6-7, 2022
+
+1. R. Seto, Z. Zhao, J. Morris, M. Doi, "Pressure-driven flows of dense particle-liquid mixtures: a Stokesian DEM-CFD approach," 2022 JSME-II/ASME-ISPS Joint Confrence on Micromechatronics for Information and Precision Equipment (MIPE2022), Nagoya, August 28-31(31), 2022
 
 1. R. Seto, "Odd viscosity of chiral suspensions," 2022 Frontier Workshop of Centre for Theoretical Interdisciplinary Sciences, Wenzhou, July 11-13(12), 2022
 
