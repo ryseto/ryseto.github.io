@@ -7,9 +7,9 @@ permalink: /talks/
 ### Keynote/Symposium/Invited presentations
 
 1. Invited "A simulation scheme for dense suspension flows with locally
-averaged equations of motion", [The 15th Complex Fluid Rheology Symposium and Rheology Workshop, Guangzhou, China, Dec. 6--11, 2023](https://rheology2023.scimeeting.cn/cn/web/index/19983_)
+averaged equations of motion", [十五届复杂流体流变学学术研讨会暨流变学讲习班 (The 15th Complex Fluid Rheology Symposium and Rheology Workshop), Guangzhou, China, Dec. 6--11, 2023](https://rheology2023.scimeeting.cn/cn/web/index/19983_)
 
-1. Short course lecture "Rheology of Suspensions," [The 15th Complex Fluid Rheology Symposium and Rheology Workshop, Guangzhou, China, Dec. 6--11, 2023](https://rheology2023.scimeeting.cn/cn/web/index/19983_)
+1. Short course lecture "Rheology of Suspensions," [十五届复杂流体流变学学术研讨会暨流变学讲习班 (The 15th Complex Fluid Rheology Symposium and Rheology Workshop), Guangzhou, China, Dec. 6--11, 2023](https://rheology2023.scimeeting.cn/cn/web/index/19983_)
 
 1. Invited "A simulation scheme for dense suspension flows---LF-DEM with   unresolved CFD," [The Xiamen Soft Matter Forum 2023, Xiamen, Oct. 20--23, 2023.](https://rwz.xmu.edu.cn/smnep/index.htm)
 
@@ -18,6 +18,8 @@ averaged equations of motion", [The 15th Complex Fluid Rheology Symposium and Rh
 1. Invited "Pressure-driven flows of frictional dense suspensions: migration, jammed plug, and diffusion", [EUROMECH Colloquium 622 "Suspension flows and rheology: inertia, shape and roughness matter", Chateau Valrose, Nice, France, June 26--30, 2023](https://622.euromech.org)
 
 1. Invited "Migration in inhomogeneous flow of dense suspensions," 2023 Symposium on Theoretical Calculation and Simulation of Soft Matter, Chinese Chemical Society, Changchun, April 14--17, 2023.
+
+1. Invited "濃厚懸濁液の非一様流動", [第1回ソフトマテリアル工学シミュレーション討論会(Soft Materials Engineering thru Computer Simulations), Kobe, Japan, March 9--10, 2023](https://www.arai.mech.keio.ac.jp/smecs/)
 
 1. Invited "Flow and pressure of dense suspensions in pipes," 第十二届软物质与生命物质物理学术会, Wenzhou, October 28--31, 2022.
 
