@@ -6,11 +6,21 @@ permalink: /publications/
 
 [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
 
-### Papers
 
-1. [P. Angerman, S. P. Kumar, B. Sandnes, R. Seto, and Marco Ellero, Microstructural Smoothed Particle Hydrodynamics Model and Simulations of Discontinuous Shear-Thickening Fluids, arXiv:2311.13759 [physics.flu-dyn], 2023.](https://arxiv.org/abs/2311.13759) 
-1. [Z. Xiong, P. Angerman, M. Ellero, B. Sandnes, and R. Seto, Ridge instability in dense suspensions caused by the second normal stress difference, arXiv:2311.11201 [cond-mat.soft], 2023.](https://arxiv.org/abs/2311.11201)
-1. [Y. Jiang, Y. Cui, Y. Li, Z. Liu, C. Ness, and R. Seto, Filled Colloidal Gel Rheology: Strengthening, Softening, and Tuneability, arXiv:2311.08751 [cond-mat.soft], 2023.](https://arxiv.org/abs/2311.08751)
+### Submitted articles
+
+1. [P. Angerman, S. P. Kumar, B. Sandnes, R. Seto, and M. Ellero, Microstructural Smoothed Particle Hydrodynamics Model and Simulations of Discontinuous Shear-Thickening Fluids, arXiv:2311.13759 [physics.flu-dyn], 2023.](https://arxiv.org/abs/2311.13759) 
+
+1. [Y. Jiang, Y. Cui, Y. Li, Z. Liu, C. Ness, and R. Seto, Filled Colloidal Gel Rheology: Strengthening, Softening, and Tuneability, arXiv:2311.08751 [cond-mat.soft], 2023.](https://arxiv.org/abs/2311.08751) 
+
+1. S. Konidena, B. Vowinckel1, R. Seto, K. A. Reddy, A. Singh,
+Mechanism for axial pattern formation of concentrated suspension in a horizontal rotating cylinder, 2023
+
+
+### Articles in Journals
+
+1. Z. Xiong, P. Angerman, M. Ellero, B. Sandnes, and R. Seto, Ridge instability in dense suspensions caused by the second normal stress difference, Phys. Fluids, 2024 **(in press)**. [arXiv:2311.11201 [cond-mat.soft]](https://arxiv.org/abs/2311.11201)
+
 1. [M. Hamamichi, K. Nagasawa, M. Okada, R. Seto, Yonghao Yue, ACM Transactions on Graphics (TOG) 42 (6), 1--16, 2023.](https://dl.acm.org/doi/abs/10.1145/3618310)
 1. [A. N. Kato, R. Seto, Y. Jiang, W. Chen, and T. Li, Compaction of Particle-laden Interfaces: Effects of anisotropy and surface roughness of particles, Journal of the Japanese Association for Crystal Growth 50(2), 50-2-02, 2023.](https://www.jacg.jp/jacg/journal/english/2023vol50no2.html) **[in Japanese, invited, peer-reviewed]**
 1. [Y. Jiang, R. Seto, Competing Lengthscales in Colloidal Gelation with Non-Sticky Particles, Nat. Commun., 14(1):2773, 2023. **(open access)**](https://doi.org/10.1038/s41467-023-38461-1)  **[Featured in Editors' Highlights](https://www.nature.com/collections/hjhbgijcei)** 
