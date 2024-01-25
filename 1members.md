@@ -4,7 +4,7 @@ title: Members
 permalink: /Members/
 ---
 
-|[![Seto](/assets/img/Seto2.jpeg)](/aprofile/)|  [Ryohei SETO 濑户亮平](9myprofile.md) <br> PI Researcher (Professor)|
+|[![Seto](/assets/img/Seto2.png)](/aprofile/)|  [Ryohei SETO 濑户亮平](9myprofile.md) <br> PI Researcher (Professor)|
 |[![Zhiwei](/assets/img/Zhiwei.jpeg)](https://www.researchgate.net/profile/Zhiwei-Liu-49)| [Zhiwei LIU 刘志伟](https://www.researchgate.net/profile/Zhiwei-Liu-49) <br> Assistant Researcher |
 |![Yujie](/assets/img/Yujie.jpeg)  | [Yujie JIANG 蒋玉杰](https://scholar.google.com/citations?user=8d1fMNwAAAAJ) <br> Postdoc |
 |[![Zhongqiang](/assets/img/Zhongqiang.jpeg)](https://www.researchgate.net/profile/Zhongqiang-Xiong) | [Zhongqiang XIONG 熊钟强](https://www.researchgate.net/profile/Zhongqiang-Xiong) <br> Postdoc|
