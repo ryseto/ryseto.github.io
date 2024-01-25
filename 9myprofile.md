@@ -88,7 +88,7 @@ New simulation scheme for migration and clogging of dense suspensions in channel
 - New York City Marathon		3:45:50		(2014.11.2)
 - Mainz Marathon			3:52:22		(2012.5.6)
 
-### running log
+### Running log
 - 2011 --- 1,502.2km
 - 2012 --- 1,434.9km
 - 2013 --- 1,358.8km
@@ -102,6 +102,6 @@ New simulation scheme for migration and clogging of dense suspensions in channel
 - 2021 --- 723km
 - 2022 --- 774km
 - 2023 --- 808km
-
-- 15,931.7 km **(Total distance by the end of last year)**
+- **Total(--2023)** ---15,931.7 km
+- [2024 on strava.com](https://www.strava.com/athletes/33629431)
 
