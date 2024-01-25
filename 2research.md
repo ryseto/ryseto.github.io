@@ -71,5 +71,5 @@ New simulation scheme for migration and clogging of dense suspensions in channel
 掺杂颗粒凝胶的动力学研究 (Gelation dynamics in gel-granular composites)
 
 **Zhongqiang XIONG 熊钟强**
-- 国家自然科学基金理论物理专款研究项目 (National Natural Science Foundation of China for Theoretical Physics research project) 12247174 [2022--2023] \\
+- NSFC 理论物理专款研究项目 (National Natural Science Foundation of China for Theoretical Physics research project) 12247174 [2022--2023] \\
 填充高分子流变本构模型 (Rheological Constitutive Models for Particles Filled Polymer)

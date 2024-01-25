@@ -4,15 +4,13 @@ title: Ryohei Seto
 permalink: /aprofile/
 ---
 
-![Ryohei Seto](/assets/img/Seto2.jpeg)
+![Ryohei Seto](/assets/img/Seto2.png)
 
 Ryohei Seto, PI (Professor) \\
 International Excellent Young Scientist  \\
 [Wenzhou Institute, University of Chinese Academy of Sciences](http://english.wiucas.ac.cn)\\
 Oujiang Laboratory (Zhejiang Lab for Regenerative Medicine, Vision and Brain Health) \\
 Visiting Professor, [The Graduate School of Information Science, University of Hyogo](http://www.simulation-studies.org)\\
-
-
 
 
 
