@@ -23,7 +23,6 @@ Mechanism for axial pattern formation of concentrated suspension in a horizontal
     
 1. Z. Xiong, P. Angerman, M. Ellero, B. Sandnes, and R. Seto, Ridge instability in dense suspensions caused by the second normal stress difference, Phys. Fluids, 2024 **(in press)**. [arXiv:2311.11201 [cond-mat.soft]](https://arxiv.org/abs/2311.11201)
 
-
    ##### 2023
 
 1. [M. Hamamichi, K. Nagasawa, M. Okada, R. Seto, Yonghao Yue, ACM Transactions on Graphics (TOG) 42 (6), 1--16, 2023.](https://dl.acm.org/doi/abs/10.1145/3618310)
