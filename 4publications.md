@@ -9,7 +9,8 @@ permalink: /publications/
 
 ### Submitted articles
 
-1. [P. Angerman, S. P. Kumar, B. Sandnes, R. Seto, and M. Ellero, Microstructural Smoothed Particle Hydrodynamics Model and Simulations of Discontinuous Shear-Thickening Fluids, arXiv:2311.13759 [physics.flu-dyn]](https://arxiv.org/abs/2311.13759) 
+1. Z. Liu, R. Seto, H. Zhang, B. Che,4 L. Liu, and L. Deng, Highly distinctive linear and nonlinear rheological behaviors of mucin-based protein solutions as simulated normal and asthmatic human airway mucus
+
 
 1. [Y. Jiang, Y. Cui, Y. Li, Z. Liu, C. Ness, and R. Seto, Filled Colloidal Gel Rheology: Strengthening, Softening, and Tuneability, arXiv:2311.08751 [cond-mat.soft]](https://arxiv.org/abs/2311.08751) 
 
@@ -20,7 +21,10 @@ Mechanism for axial pattern formation of concentrated suspension in a horizontal
 ### Articles in Journals
 
 ##### &emsp;&emsp;&emsp;&emsp;&emsp; 2024
-    
+
+1. P. Angerman, S. P. Kumar, B. Sandnes, R. Seto, and M. Ellero, Microstructural Smoothed Particle Hydrodynamics Model and Simulations of Discontinuous Shear-Thickening Fluids, , Phys. Fluids, 2024 **(in press)**. [arXiv:2311.13759 [physics.flu-dyn]](https://arxiv.org/abs/2311.13759) 
+
+
 1. Z. Xiong, P. Angerman, M. Ellero, B. Sandnes, and R. Seto, Ridge instability in dense suspensions caused by the second normal stress difference, Phys. Fluids, 2024 **(in press)**. [arXiv:2311.11201 [cond-mat.soft]](https://arxiv.org/abs/2311.11201)
 
    ##### 2023
