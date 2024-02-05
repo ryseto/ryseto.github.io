@@ -20,7 +20,6 @@ Mechanism for axial pattern formation of concentrated suspension in a horizontal
 
 ### Articles in Journals
 
-##### &emsp;&emsp;&emsp;&emsp;&emsp; 2024 ------------------------
 
 1. P. Angerman, S. P. Kumar, B. Sandnes, R. Seto, and M. Ellero, Microstructural Smoothed Particle Hydrodynamics Model and Simulations of Discontinuous Shear-Thickening Fluids, , Phys. Fluids, 2024 **(in press)**. [arXiv:2311.13759 [physics.flu-dyn]](https://arxiv.org/abs/2311.13759) 
 
