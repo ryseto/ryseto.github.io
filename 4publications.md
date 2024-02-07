@@ -27,7 +27,7 @@ Mechanism for axial pattern formation of concentrated suspension in a horizontal
    ##### 2023 ------------------------
 
 1. [M. Hamamichi, K. Nagasawa, M. Okada, R. Seto, Yonghao Yue, ACM Transactions on Graphics (TOG), 42 (6), 1--16, 2023.](https://dl.acm.org/doi/abs/10.1145/3618310)
-1. [A. N. Kato, R. Seto, Y. Jiang, W. Chen, and T. Li, Compaction of Particle-laden Interfaces: Effects of anisotropy and surface roughness of particles, Journal of the Japanese Association for Crystal Growth 50(2), 50-2-02, 2023.](https://www.jacg.jp/jacg/journal/english/2023vol50no2.html) **[in Japanese]**
+1. [A. N. Kato, R. Seto, Y. Jiang, W. Chen, and T. Li, Compaction of Particle-laden Interfaces: Effects of anisotropy and surface roughness of particles, J. Jap. Assoc. Crystal Growth, 50(2), 50-2-02, 2023.](https://www.jacg.jp/jacg/journal/english/2023vol50no2.html) **[in Japanese]**
 1. [Y. Jiang, R. Seto, Competing Lengthscales in Colloidal Gelation with Non-Sticky Particles, Nat. Commun., 14(1):2773, 2023.](https://doi.org/10.1038/s41467-023-38461-1) **Editors' Highlights** [(arXiv:2211.12978)](https://arxiv.org/abs/2211.12978)
 1. [A. N. Kato, Y. Jiang, W. Chen, R. Seto, T. Li, How Surface Roughness Affects the Interparticle Interactions at a Liquid Interface, J. Colloid Interface Sci., 641:492–498, 2023.](https://doi.org/10.1016/j.jcis.2023.03.041) [(arXiv:2209.02922)](https://arxiv.org/abs/2209.02922)
 
