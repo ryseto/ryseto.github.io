@@ -27,7 +27,6 @@ Mechanism for axial pattern formation of concentrated suspension in a horizontal
    ##### 2023 ------------------------
 
 1. [M. Hamamichi, K. Nagasawa, M. Okada, R. Seto, and Y. Yue, ACM Transactions on Graphics (TOG), 42 (6), 1--16, 2023.](https://dl.acm.org/doi/abs/10.1145/3618310)
-1. [A. N. Kato, R. Seto, Y. Jiang, W. Chen, and T. Li, Compaction of Particle-laden Interfaces: Effects of anisotropy and surface roughness of particles, J. Jap. Assoc. Crystal Growth, 50(2), 50-2-02, 2023.](https://www.jacg.jp/jacg/journal/english/2023vol50no2.html) **[in Japanese]**
 1. [Y. Jiang and R. Seto, Competing Lengthscales in Colloidal Gelation with Non-Sticky Particles, Nat. Commun., 14(1):2773, 2023.](https://doi.org/10.1038/s41467-023-38461-1) **Editors' Highlights** [(arXiv:2211.12978)](https://arxiv.org/abs/2211.12978)
 1. [A. N. Kato, Y. Jiang, W. Chen, R. Seto, and T. Li, How Surface Roughness Affects the Interparticle Interactions at a Liquid Interface, J. Colloid Interface Sci., 641:492–498, 2023.](https://doi.org/10.1016/j.jcis.2023.03.041) [(arXiv:2209.02922)](https://arxiv.org/abs/2209.02922)
 
@@ -72,7 +71,7 @@ Mechanism for axial pattern formation of concentrated suspension in a horizontal
 
    ##### 2014 ------------------------
 
-1. [R. Seto, R. Mari, J. F. Morris, and M. M. Denn. The essential role of frictional contact in shear thickening, Japanese J. Multiphase Flow, Vol. 28, No. 3, 296–303, 2014.](http://dx.doi.org/10.3811/jjmf.28.296) **[in Japanese]** 
+
 1. [R. Mari, R. Seto, J. F. Morris, and M. M. Denn. Shear thickening, frictionless and frictional rheologies. J. Rheol., 58(6):1693–1724, 2014.](http://scitation.aip.org/content/sor/journal/jor2/58/6/10.1122/1.4890747) [**Society of Rheology Publication Award**](http://www-levich.engr.ccny.cuny.edu/sor2015.htm) [(arXiv:1403.6793)](https://arxiv.org/abs/1403.6793)
 
    ##### 2013 ------------------------
@@ -120,6 +119,11 @@ Vol.71, No.5, 751–756, 2005.](http://www.iop.org/EJ/abstract/0295-5075/71/5/75
    ##### 2004 ------------------------
 
 1. [T. Hyouguchi, R. Seto, M. Ueda, and S. Adachi, Divergence-free WKB method, Ann. Phys., 312, 177–267, 2004.](http://dx.doi.org/10.1016/j.aop.2004.01.005)
+
+### Article in Japanese 
+
+1. [A. N. Kato, R. Seto, Y. Jiang, W. Chen, and T. Li, Compaction of Particle-laden Interfaces: Effects of anisotropy and surface roughness of particles, J. Jap. Assoc. Crystal Growth, 50(2), 50-2-02, 2023.](https://www.jacg.jp/jacg/journal/english/2023vol50no2.html) **[in Japanese]**
+1. [R. Seto, R. Mari, J. F. Morris, and M. M. Denn. The essential role of frictional contact in shear thickening, Japanese J. Multiphase Flow, Vol. 28, No. 3, 296–303, 2014.](http://dx.doi.org/10.3811/jjmf.28.296) **[in Japanese]** 
 
 ### Book chapter
 
