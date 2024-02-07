@@ -120,12 +120,15 @@ Vol.71, No.5, 751–756, 2005.](http://www.iop.org/EJ/abstract/0295-5075/71/5/75
 
 1. [T. Hyouguchi, R. Seto, M. Ueda, and S. Adachi, Divergence-free WKB method, Ann. Phys., 312, 177–267, 2004.](http://dx.doi.org/10.1016/j.aop.2004.01.005)
 
-### Article in Japanese 
-
-1. [A. N. Kato, R. Seto, Y. Jiang, W. Chen, and T. Li, Compaction of Particle-laden Interfaces: Effects of anisotropy and surface roughness of particles, J. Jap. Assoc. Crystal Growth, 50(2), 50-2-02, 2023.](https://www.jacg.jp/jacg/journal/english/2023vol50no2.html) **[in Japanese]**
-1. [R. Seto, R. Mari, J. F. Morris, and M. M. Denn. The essential role of frictional contact in shear thickening, Japanese J. Multiphase Flow, Vol. 28, No. 3, 296–303, 2014.](http://dx.doi.org/10.3811/jjmf.28.296) **[in Japanese]** 
-
 ### Book chapter
 
 1. V. Bürger, E. Schlauch, V. Becker, R. Seto, M. Behr, and H. Briesen. Simulating the restructuring of colloidal aggregates. M. Kind, W. Peukert, H. Rehage, and H. P. Schuchmann, editors, Colloid Process Engineering, 145–173. Springer International Publishing, 2015.
+
+
+
+### Article in Japanese 
+
+1. [A. N. Kato, R. Seto, Y. Jiang, W. Chen, and T. Li, Compaction of Particle-laden Interfaces: Effects of anisotropy and surface roughness of particles, J. Jap. Assoc. Crystal Growth, 50(2), 50-2-02, 2023.](https://www.jacg.jp/jacg/journal/english/2023vol50no2.html) 
+1. [R. Seto, R. Mari, J. F. Morris, and M. M. Denn. The essential role of frictional contact in shear thickening, Japanese J. Multiphase Flow, Vol. 28, No. 3, 296–303, 2014.](http://dx.doi.org/10.3811/jjmf.28.296) 
+
 
