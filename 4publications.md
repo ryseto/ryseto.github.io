@@ -22,15 +22,13 @@ Mechanism for axial pattern formation of concentrated suspension in a horizontal
 
 
 1. P. Angerman, S. P. Kumar, B. Sandnes, R. Seto, and M. Ellero, Microstructural Smoothed Particle Hydrodynamics Model and Simulations of Discontinuous Shear-Thickening Fluids,  Phys. Fluids, 2024 **(in press)**. [(arXiv:2311.13759)](https://arxiv.org/abs/2311.13759) 
-
-
-1. [Z. Xiong, P. Angerman, M. Ellero, B. Sandnes, and R. Seto, Ridge instability in dense suspensions caused by the second normal stress difference, Phys. Fluids, 2024.](https://doi.org/10.1063/5.0188004) **Editor's Picks** [(arXiv:2311.11201)](https://arxiv.org/abs/2311.11201) 
+1. [Z. Xiong, P. Angerman, M. Ellero, B. Sandnes, and R. Seto, Ridge instability in dense suspensions caused by the second normal stress difference, Phys. Fluids, 36(2), 2024.](https://doi.org/10.1063/5.0188004) **Editor's Picks** [(arXiv:2311.11201)](https://arxiv.org/abs/2311.11201) 
 
    ##### 2023 ------------------------
 
-1. [M. Hamamichi, K. Nagasawa, M. Okada, R. Seto, Yonghao Yue, ACM Transactions on Graphics (TOG) 42 (6), 1--16, 2023.](https://dl.acm.org/doi/abs/10.1145/3618310)
+1. [M. Hamamichi, K. Nagasawa, M. Okada, R. Seto, Yonghao Yue, ACM Transactions on Graphics (TOG), 42 (6), 1--16, 2023.](https://dl.acm.org/doi/abs/10.1145/3618310)
 1. [A. N. Kato, R. Seto, Y. Jiang, W. Chen, and T. Li, Compaction of Particle-laden Interfaces: Effects of anisotropy and surface roughness of particles, Journal of the Japanese Association for Crystal Growth 50(2), 50-2-02, 2023.](https://www.jacg.jp/jacg/journal/english/2023vol50no2.html) **[in Japanese]**
-1. [Y. Jiang, R. Seto, Competing Lengthscales in Colloidal Gelation with Non-Sticky Particles, Nat. Commun., 14(1):2773, 2023.](https://doi.org/10.1038/s41467-023-38461-1) **Featured in** [**Editors' Highlights**](https://www.nature.com/collections/hjhbgijcei) [(arXiv:2211.12978)](https://arxiv.org/abs/2211.12978)
+1. [Y. Jiang, R. Seto, Competing Lengthscales in Colloidal Gelation with Non-Sticky Particles, Nat. Commun., 14(1):2773, 2023.](https://doi.org/10.1038/s41467-023-38461-1) **Editors' Highlights** [(arXiv:2211.12978)](https://arxiv.org/abs/2211.12978)
 1. [A. N. Kato, Y. Jiang, W. Chen, R. Seto, T. Li, How Surface Roughness Affects the Interparticle Interactions at a Liquid Interface, J. Colloid Interface Sci., 641:492–498, 2023.](https://doi.org/10.1016/j.jcis.2023.03.041) [(arXiv:2209.02922)](https://arxiv.org/abs/2209.02922)
 
    ##### 2022 ------------------------
@@ -42,11 +40,11 @@ Mechanism for axial pattern formation of concentrated suspension in a horizontal
    ##### 2021 ------------------------
 
 1. [G. G. Giusteri, R. Seto, Shear jamming and fragility of suspensions in a continuum model with elastic constraints, Phys. Rev. Lett., 127:138001, 2021.](https://doi.org/10.1103/PhysRevLett.127.138001) [(arXiv:2102.01923)](https://arxiv.org/abs/2102.01923)
-1. [J. T. Jenkins, R. Seto, L. L. Ragione, Predictions of microstructure and stress in two-dimensional pure shearing of a dense viscous suspension, J. Fluid Mech., 912:A27, 2021.](https://doi.org/10.1017/jfm.2020.1111) [(arXiv:2006.05590)](https://arxiv.org/abs/2006.05590) [(arXiv:2006.05590)](https://arxiv.org/abs/2006.05590)
+1. [J. T. Jenkins, R. Seto, L. L. Ragione, Predictions of microstructure and stress in two-dimensional pure shearing of a dense viscous suspension, J. Fluid Mech., 912:A27, 2021.](https://doi.org/10.1017/jfm.2020.1111) [(arXiv:2006.05590)](https://arxiv.org/abs/2006.05590) 
 
    ##### 2020 ------------------------
 
-1. [A. Singh, C. Ness, R. Seto, J. J. de Pablo, H. M. Jaeger, Shear thickening and jamming of dense suspensions: the roll of friction, Phys. Rev. Lett. 124, 248005, 2020.](https://journals.aps.org/prl/accepted/6a071YaaC7012d6786e11908e97c58d6265f0e9a3) [(arXiv:2002.10996)](https://arxiv.org/abs/2002.10996) [(arXiv:2002.10996)](https://arxiv.org/abs/2002.10996)
+1. [A. Singh, C. Ness, R. Seto, J. J. de Pablo, H. M. Jaeger, Shear thickening and jamming of dense suspensions: the roll of friction, Phys. Rev. Lett. 124, 248005, 2020.](https://journals.aps.org/prl/accepted/6a071YaaC7012d6786e11908e97c58d6265f0e9a3) [(arXiv:2002.10996)](https://arxiv.org/abs/2002.10996)
 
    ##### 2019 ------------------------
     
@@ -57,11 +55,11 @@ Mechanism for axial pattern formation of concentrated suspension in a horizontal
    ##### 2018 ------------------------
 
 1. [R. Seto and G. G. Giusteri. Normal stress differences in dense suspensions. J. Fluid Mech., 857:200–215, 2018.](https://doi.org/10.1017/jfm.2018.743) **(open access)** [(arXiv:1806.09423)](https://arxiv.org/abs/1806.09423)
-1. [G. G. Giusteri and R. Seto. A theoretical framework for steady-state rheometry in generic flow conditions. J. Rheol., 62(3):713–723, 2018.](https://doi.org/10.1122/1.4986840) [PDF file](https://ryseto.github.io/assets/pdf/Giusteri_2018.pdf) [(arXiv:1702.02745)](https://arxiv.org/abs/1702.02745)
+1. [G. G. Giusteri and R. Seto. A theoretical framework for steady-state rheometry in generic flow conditions. J. Rheol., 62(3):713–723, 2018.](https://doi.org/10.1122/1.4986840) [(arXiv:1702.02745)](https://arxiv.org/abs/1702.02745)
 
    ##### 2017 ------------------------
 
-1. [R. Seto, G. G. Giusteri, and A. Martiniello, Microstructure and thickening of dense suspensions under extensional and shear flows. J. Fluid Mech., 825, R3, 2017.](https://doi.org/10.1017/jfm.2017.469) **Featured in a commentary article ["`Shear thickening' in non-shear flows: the effect of microstructure"](https://doi.org/10.1017/jfm.2017.744) by [Prof. Helen J. Wilson](https://www.ucl.ac.uk/~ucahhwi/) to appear in Focus on Fluids of the Journal of Fluid Mechanics** [(arXiv:1706.01745)](https://arxiv.org/abs/1706.01745)
+1. [R. Seto, G. G. Giusteri, and A. Martiniello, Microstructure and thickening of dense suspensions under extensional and shear flows. J. Fluid Mech., 825, R3, 2017.](https://doi.org/10.1017/jfm.2017.469) [**Focus on Fluids**](https://doi.org/10.1017/jfm.2017.744) [(arXiv:1706.01745)](https://arxiv.org/abs/1706.01745)
 
    ##### 2016 ------------------------
 
@@ -75,13 +73,13 @@ Mechanism for axial pattern formation of concentrated suspension in a horizontal
    ##### 2014 ------------------------
 
 1. [R. Seto, R. Mari, J. F. Morris, and M. M. Denn. The essential role of frictional contact in shear thickening, Japanese J. Multiphase Flow, Vol. 28, No. 3, 296–303, 2014.](http://dx.doi.org/10.3811/jjmf.28.296) **[in Japanese]** 
-1. [R. Mari, R. Seto, J. F. Morris, and M. M. Denn. Shear thickening, frictionless and frictional rheologies. J. Rheol., 58(6):1693–1724, 2014.](http://scitation.aip.org/content/sor/journal/jor2/58/6/10.1122/1.4890747) [**Received the 2015 Society of Rheology Publication Award**](http://www-levich.engr.ccny.cuny.edu/sor2015.htm) [(arXiv:1403.6793)](https://arxiv.org/abs/1403.6793)
+1. [R. Mari, R. Seto, J. F. Morris, and M. M. Denn. Shear thickening, frictionless and frictional rheologies. J. Rheol., 58(6):1693–1724, 2014.](http://scitation.aip.org/content/sor/journal/jor2/58/6/10.1122/1.4890747) [**Society of Rheology Publication Award**](http://www-levich.engr.ccny.cuny.edu/sor2015.htm) [(arXiv:1403.6793)](https://arxiv.org/abs/1403.6793)
 
    ##### 2013 ------------------------
 
 1. [R. Seto, R. Mari, J. F. Morris, and M. M. Denn. Discontinuous shear thickening of frictional hard-sphere suspensions. Phys. Rev. Lett., 111:218301, 2013.](http://prl.aps.org/abstract/PRL/v111/i21/e218301)
- **Featured as Editors’ Suggestion** and [**highlighted in Physics Viewpoint "Friction’s Role in Shear Thickening"**](https://physics.aps.org/articles/v6/125) --- [arXiv:1306.5985](https://arxiv.org/abs/1306.5985)
-1. [R. Seto, R. Botet, M. Meireles, G. K. Auernhammer, and B. Cabane. Compressive consolidation of strongly aggregated particle gels. J. Rheol., 57(5):1347–1366, 2013.](http://journalofrheology.org/resource/1/jorhd2/v57/i5/p1347_s1) --- [arXiv:1301.4464](https://arxiv.org/abs/1301.4464)
+ **Editors’ Suggestion** and [**Physics Viewpoint "Friction’s Role in Shear Thickening"**](https://physics.aps.org/articles/v6/125) [(arXiv:1306.5985)](https://arxiv.org/abs/1306.5985)
+1. [R. Seto, R. Botet, M. Meireles, G. K. Auernhammer, and B. Cabane. Compressive consolidation of strongly aggregated particle gels. J. Rheol., 57(5):1347–1366, 2013.](http://journalofrheology.org/resource/1/jorhd2/v57/i5/p1347_s1) [(arXiv:1301.4464)](https://arxiv.org/abs/1301.4464)
 1. [E. Schlauch, M. Ernst, R. Seto, H. Briesen, M. Sommerfeld, and M. Behr. Comparison of three simulation methods for colloidal aggregates in stokes flow: Finite Elements, Lattice Boltzmann and Stokesian Dynamics. Computers & Fluids, 86:199–209, 2013.](http://www.sciencedirect.com/science/article/pii/S0045793013002764)
 1. [J. Wenzl, R. Seto, M. Roth, H.-J. Butt, and G. K. Auernhammer, Measurement of rotation of cohesive spherical granulates, Granul. Matter, 15(4):391–400, 2013.](http://link.springer.com/article/10.1007/s10035-012-0383-7)
 
