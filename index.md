@@ -19,7 +19,7 @@ Welcome to the Rheophysics of Soft Matter group at **UCAS International Soft Mat
 
 
 #### What's New
-- 2024.2 [**Our work on a ridge instability was published in Physics of Fluids and featured in Editors' Picks.**](https://doi.org/10.1063/5.0188004)
+- 2024.2 [**Our work on a ridge instability was published in Physics of Fluids and featured in Editors' Picks.**](https://pubs.aip.org/aip/pof/article/36/2/024111/3262480/Ridge-instability-in-dense-suspensions-caused-by?searchresult=1)
 - 2023.10 Our lab got ARES-G2 (rheometor)
 - 2023.5 - [**Our paper about colloidal gelation with non-sticky particles is out in Nature Communications.**](https://doi.org/10.1038/s41467-023-38461-1)  **[Featured in Editors' Highlights](https://www.nature.com/collections/hjhbgijcei)**
 - 2022.10 - [Our odd viscosity paper is out now on Frontiers in Physics.](https://www.frontiersin.org/articles/10.3389/fphy.2022.951465/abstract)
