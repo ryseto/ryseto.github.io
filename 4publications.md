@@ -114,7 +114,6 @@ Mechanism for axial pattern formation of concentrated suspension in a horizontal
    ##### 2005 ------------------------
 
 1. [R. Seto, R. Botet, and H. Kuratsuji, Excess conductivity of high-Tc superconductor thin ﬁlms: Role of smooth doping disorder, Phys. Rev. B 73, 012508, 2006.](http://link.aps.org/doi/10.1103/PhysRevB.73.012508)
-1. [R. Seto, H. Kuratsuji, and R. Botet, Nonlinear oscillation of the Stokes parameters in birefringent media. Topology in ordered phases: Proceedings of the first international symposium, Sapporo, Japan, 327–331, 2005.](http://www.worldscientific.com/doi/abs/10.1142/9789812772879_0053)
 1. [R. Seto, H. Kuratsuji, and R. Botet, Resonant oscillations of the Stokes parameters in non-linear twisted birefringent media, Europhys. Letters.
 Vol.71, No.5, 751–756, 2005.](http://www.iop.org/EJ/abstract/0295-5075/71/5/751)
 
