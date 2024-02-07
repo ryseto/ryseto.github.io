@@ -78,7 +78,7 @@ Mechanism for axial pattern formation of concentrated suspension in a horizontal
    ##### 2013 ------------------------
 
 1. [R. Seto, R. Mari, J. F. Morris, and M. M. Denn. Discontinuous shear thickening of frictional hard-sphere suspensions. Phys. Rev. Lett., 111:218301, 2013.](http://prl.aps.org/abstract/PRL/v111/i21/e218301)
- **Editors’ Suggestion** and [**Physics Viewpoint "Friction’s Role in Shear Thickening"**](https://physics.aps.org/articles/v6/125) [(arXiv:1306.5985)](https://arxiv.org/abs/1306.5985)
+ **Editors’ Suggestion** and [**Physics Viewpoint**](https://physics.aps.org/articles/v6/125) [(arXiv:1306.5985)](https://arxiv.org/abs/1306.5985)
 1. [R. Seto, R. Botet, M. Meireles, G. K. Auernhammer, and B. Cabane. Compressive consolidation of strongly aggregated particle gels. J. Rheol., 57(5):1347–1366, 2013.](http://journalofrheology.org/resource/1/jorhd2/v57/i5/p1347_s1) [(arXiv:1301.4464)](https://arxiv.org/abs/1301.4464)
 1. [E. Schlauch, M. Ernst, R. Seto, H. Briesen, M. Sommerfeld, and M. Behr. Comparison of three simulation methods for colloidal aggregates in stokes flow: Finite Elements, Lattice Boltzmann and Stokesian Dynamics. Computers & Fluids, 86:199–209, 2013.](http://www.sciencedirect.com/science/article/pii/S0045793013002764)
 1. [J. Wenzl, R. Seto, M. Roth, H.-J. Butt, and G. K. Auernhammer, Measurement of rotation of cohesive spherical granulates, Granul. Matter, 15(4):391–400, 2013.](http://link.springer.com/article/10.1007/s10035-012-0383-7)
