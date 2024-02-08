@@ -15,6 +15,14 @@ Welcome to the Rheophysics of Soft Matter group at **UCAS International Soft Mat
      src="/assets/img/sticky-nonsticky-gel.jpg"
      alt="Sticky particles with non-sticky granular fillers">
 </a>
+
+&emsp;&emsp;&emsp;
+
+<a href="https://pubs.aip.org/aip/pof/article/36/2/024111/3262480/Ridge-instability-in-dense-suspensions-caused-by?searchresult=1">	
+     <img class="fit-picture"
+     src="/assets/img/ridge_instability.jpg"
+     alt="Ridge instability in dense suspensions">
+</a>
 </center>
 
 
