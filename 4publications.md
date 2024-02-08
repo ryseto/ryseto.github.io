@@ -152,5 +152,5 @@ Vol.71, No.5, 751–756, 2005.](http://www.iop.org/EJ/abstract/0295-5075/71/5/75
 
 1. [Dynamic Zero-COVID Strategy in China, Kagaku (Iwanami Shoten, Publishers), 2022](/assets/pdf/Kagaku_202201_Seto_etal.pdf)
 
-1. [To a principal investigator of the Chinese institute, 24(1), 77--81, 2022](https://www.jstage.jst.go.jp/article/mssj/24/1/24_77/_article/-char/ja/)
+1. [To a principal investigator of the Chinese institute, Ensemble,  24(1), 77--81, 2022](https://www.jstage.jst.go.jp/article/mssj/24/1/24_77/_article/-char/ja/)
 
