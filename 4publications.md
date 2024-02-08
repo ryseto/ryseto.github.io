@@ -125,7 +125,7 @@ Vol.71, No.5, 751–756, 2005.](http://www.iop.org/EJ/abstract/0295-5075/71/5/75
 1. [V. Bürger, E. Schlauch, V. Becker, R. Seto, M. Behr, and H. Briesen. Simulating the restructuring of colloidal aggregates, 145–173. In: M. Kind, W. Peukert, H. Rehage, and H. P. Schuchmann, (eds), Colloid Process Engineering, Springer, Cham., 2015.](https://doi.org/10.1007/978-3-319-15129-8_7)
 
 
-### Article in Japanese 
+### Articles in Japanese Journals
 
 1. [A. N. Kato, R. Seto, Y. Jiang, W. Chen, and T. Li, Compaction of Particle-laden Interfaces: Effects of anisotropy and surface roughness of particles, J. Jap. Assoc. Crystal Growth, 50(2), 50-2-02, 2023.](https://www.jacg.jp/jacg/journal/english/2023vol50no2.html) 
 1. [R. Seto, R. Mari, J. F. Morris, and M. M. Denn. The essential role of frictional contact in shear thickening, Japanese J. Multiphase Flow, Vol. 28, No. 3, 296–303, 2014.](http://dx.doi.org/10.3811/jjmf.28.296) 
