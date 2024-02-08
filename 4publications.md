@@ -21,25 +21,25 @@ Mechanism for axial pattern formation of concentrated suspension in a horizontal
 ### Refereed articles in journals
 
 
-1. P. Angerman, S. P. Kumar, B. Sandnes, R. Seto, and M. Ellero, Microstructural Smoothed Particle Hydrodynamics Model and Simulations of Discontinuous Shear-Thickening Fluids,  Phys. Fluids, 2024 **(in press)**. [(arXiv:2311.13759)](https://arxiv.org/abs/2311.13759)
+1. P. Angerman, S. P. Kumar, B. Sandnes, R. Seto, and M. Ellero, Microstructural smoothed particle hydrodynamics model and simulations of discontinuous shear-thickening fluids,  Phys. Fluids, 2024 **(in press)**. [(arXiv:2311.13759)](https://arxiv.org/abs/2311.13759)
 
 1. [Z. Xiong, P. Angerman, M. Ellero, B. Sandnes, and R. Seto, Ridge instability in dense suspensions caused by the second normal stress difference, Phys. Fluids, 36(2), 2024.](https://pubs.aip.org/aip/pof/article/36/2/024111/3262480/Ridge-instability-in-dense-suspensions-caused-by?searchresult=1) **Editor's Picks** [(arXiv:2311.11201)](https://arxiv.org/abs/2311.11201) 
 
    ##### 2023 ------------------------
 
-1. [M. Hamamichi, K. Nagasawa, M. Okada, R. Seto, and Y. Yue, ACM Transactions on Graphics (TOG), 42 (6), 1--16, 2023.](https://dl.acm.org/doi/abs/10.1145/3618310)
+1. [M. Hamamichi, K. Nagasawa, M. Okada, R. Seto, and Y. Yue, Non-Newtonian ViRheometry via similarity analysis, ACM Transactions on Graphics (TOG), 42 (6), 1--16, 2023.](https://dl.acm.org/doi/abs/10.1145/3618310)
 
-1. [Y. Jiang and R. Seto, Competing Lengthscales in Colloidal Gelation with Non-Sticky Particles, Nat. Commun., 14(1):2773, 2023.](https://doi.org/10.1038/s41467-023-38461-1) **Editors' Highlights** [(arXiv:2211.12978)](https://arxiv.org/abs/2211.12978)
+1. [Y. Jiang and R. Seto, Competing lengthscales in colloidal gelation with non-sticky particles, Nat. Commun., 14(1):2773, 2023.](https://doi.org/10.1038/s41467-023-38461-1) **Editors' Highlights** [(arXiv:2211.12978)](https://arxiv.org/abs/2211.12978)
 
-1. [A. N. Kato, Y. Jiang, W. Chen, R. Seto, and T. Li, How Surface Roughness Affects the Interparticle Interactions at a Liquid Interface, J. Colloid Interface Sci., 641:492–498, 2023.](https://doi.org/10.1016/j.jcis.2023.03.041) [(arXiv:2209.02922)](https://arxiv.org/abs/2209.02922)
+1. [A. N. Kato, Y. Jiang, W. Chen, R. Seto, and T. Li, How surface roughness affects the interparticle interactions at a liquid interface, J. Colloid Interface Sci., 641:492–498, 2023.](https://doi.org/10.1016/j.jcis.2023.03.041) [(arXiv:2209.02922)](https://arxiv.org/abs/2209.02922)
 
    ##### 2022 ------------------------
 
-1. [Z. Zhao, M. Yang, S. Komura, and R. Seto, Odd Viscosity in Chiral Passive Suspensions, Front. Phys. (Lausanne), 10, 2022.](https://www.frontiersin.org/articles/10.3389/fphy.2022.951465/abstract) **(open access)** [(arXiv:2205.11881)](https://arxiv.org/abs/2205.11881)
+1. [Z. Zhao, M. Yang, S. Komura, and R. Seto, Odd viscosity in chiral passive suspensions, Front. Phys. (Lausanne), 10, 2022.](https://www.frontiersin.org/articles/10.3389/fphy.2022.951465/abstract) **(open access)** [(arXiv:2205.11881)](https://arxiv.org/abs/2205.11881)
 
 1. [C. Ness, R. Seto, and R. Mari, The physics of dense suspensions, Annu. Rev. Condens. Matter Phys., 13(1):97–117, 2022.](https://doi.org/10.1146/annurev-conmatphys-031620-105938) [(arXiv:2105.04162)](https://arxiv.org/abs/2105.04162) 
 
-1. [Z. Zhao, B. Wang, S. Komura, M. Yang, F. Ye, and R. Seto, Emergent Stripes of Active Rotors in Shear Flows, Phys. Rev. Research, 3:043229, 2021.](https://doi.org/10.1103/PhysRevResearch.3.043229) **(open access)** [(arXiv:2106.15871)](https://arxiv.org/abs/2106.15871)
+1. [Z. Zhao, B. Wang, S. Komura, M. Yang, F. Ye, and R. Seto, Emergent stripes of active rotors in shear flows, Phys. Rev. Research, 3:043229, 2021.](https://doi.org/10.1103/PhysRevResearch.3.043229) **(open access)** [(arXiv:2106.15871)](https://arxiv.org/abs/2106.15871)
 
    ##### 2021 ------------------------
 
