@@ -99,7 +99,6 @@ Mechanism for axial pattern formation of concentrated suspension in a horizontal
 
 1. [R. Seto, R. Botet, G. K. Auernhammer, and H. Briesen, Restructuring of colloidal aggregates in shear flow: Coupling interparticle contact models with Stokesian Dynamics, Eur. Phys. J. E, 35: 128, 2012.](http://dx.doi.org/10.1140/epje/i2012-12128-4) [(arXiv:1204.5680)](https://arxiv.org/abs/1204.5680)
 
-1. [R. Seto, R. Botet, and H. Briesen, Viscosity of rigid and breakable aggregate suspensions —Stokesian dynamics for rigid aggregates, Prog. Colloid Polym. Sci., Vol. 139, 2012.](http://www.springerlink.com/content/d1280r5288457934/)
 
    ##### 2011 ------------------------
 
@@ -141,11 +140,11 @@ Vol.71, No.5, 751–756, 2005.](http://www.iop.org/EJ/abstract/0295-5075/71/5/75
 
 ### Conference proceedings
 
-1.  [R. Botet, B. Cabane, M. Clifton, M. Meireles, and R. Seto. How a colloidal paste flows--scaling behaviors in dispersions of aggregated particles under mechanical stress. 5th Int. Workshop on Complex Systems, AIP Conf. Proc., 982, 320--325, 2008.](http://doi.org/10.1063/1.2897806)
+1. [R. Seto, R. Botet, and H. Briesen, Viscosity of rigid and breakable aggregate suspensions---Stokesian dynamics for rigid aggregates, Colloid Polym. Sci., Vol. 139, 2012.](http://doi.org/10.1007/978-3-642-28974-3_15)
 
+1.  [R. Botet, B. Cabane, M. Clifton, M. Meireles, and R. Seto. How a colloidal paste flows--scaling behaviors in dispersions of aggregated particles under mechanical stress. 5th Int. Workshop on Complex Systems, AIP Conf. Proc., 982, 320--325, 2008.](http://doi.org/10.1063/1.2897806)
   
 1. [R. Seto, H. Kuratsuji, and R. Botet, Nonlinear oscillation of the Stokes parameters in birefringent media, Topology in ordered phases: Proc. 1st Int. Symposium on Top 2005, World Scientific, 327--331, 2006.](http://doi.org/10.1142/9789812772879_0053)
-
 
 ### Articles in Japanese journals
 
