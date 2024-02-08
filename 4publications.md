@@ -115,8 +115,6 @@ Mechanism for axial pattern formation of concentrated suspension in a horizontal
 
    ##### 2008 ------------------------
 
-1. [R. Botet, B. Cabane, M. Clifton, M. Meireles, and R. Seto, How a Colloidal Paste Flows --- Scaling Behaviors in Dispersions of Aggregated Particles under Mechanical Stress—, 5th International Workshop on Complex Systems, AIP Conf. Proc. 982, 320–325, 2008.](https://dx.doi.org/10.1063/1.2897806)
-
    ##### 2007 ------------------------
 
 1. [H. Kuratsuji, R. Botet, and R. Seto, Electromagnetic Gyration: Hamiltonian Dynamics of the Stokes Parameters, Prog. Theor. Phys, 117, 195, 2007.](https://doi.org/10.1143/PTP.117.195)
@@ -136,9 +134,18 @@ Vol.71, No.5, 751–756, 2005.](http://www.iop.org/EJ/abstract/0295-5075/71/5/75
 
 1. [T. Hyouguchi, R. Seto, M. Ueda, and S. Adachi, Divergence-free WKB method, Ann. Phys., 312, 177–267, 2004.](http://dx.doi.org/10.1016/j.aop.2004.01.005)
 
+
 ### Book chapter
 
 1. [V. Bürger, E. Schlauch, V. Becker, R. Seto, M. Behr, and H. Briesen. Simulating the restructuring of colloidal aggregates, 145–173. In: M. Kind, W. Peukert, H. Rehage, and H. P. Schuchmann, (eds), Colloid Process Engineering, Springer, Cham., 2015.](https://doi.org/10.1007/978-3-319-15129-8_7)
+
+### Conference Proceedings
+
+
+1.  [R. Botet, B. Cabane, M. Clifton, M. Meireles, and R. Seto. How a colloidal paste flows--scaling behaviors in dispersions of aggregated particles under mechanical stress. 5th Int. Workshop on Complex Systems, AIP Conf. Proc., 982, 320--325, 2008.](http://doi.org/10.1063/1.2897806)
+
+  
+1. [R. Seto, H. Kuratsuji, and R. Botet, Nonlinear oscillation of the Stokes parameters in birefringent media, Topology in ordered phases: Proc. 1st Int. Symposium on Top 2005, World Scientific, 327--331, 2006.](http://doi.org/10.1142/9789812772879_0053)
 
 
 ### Articles in Japanese journals
