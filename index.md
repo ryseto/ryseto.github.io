@@ -7,8 +7,6 @@ layout: page
 
 Welcome to the Rheophysics of Soft Matter group at **UCAS International Soft Matter Center** and [**Wenzhou Institute**](http://english.wiucas.ac.cn)!
 
-[Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
-
 <center>
 <a href="https://www.nature.com/articles/s41467-023-38461-1">	
      <img class="fit-picture"
