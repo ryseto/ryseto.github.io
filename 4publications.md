@@ -140,7 +140,7 @@ Vol.71, No.5, 751–756, 2005.](http://www.iop.org/EJ/abstract/0295-5075/71/5/75
 
 ### Conference proceedings
 
-1. [R. Seto, R. Botet, and H. Briesen, Viscosity of rigid and breakable aggregate suspensions---Stokesian dynamics for rigid aggregates, Colloid Polym. Sci., Vol. 139, 2012.](http://doi.org/10.1007/978-3-642-28974-3_15)
+1. [R. Seto, R. Botet, and H. Briesen, Viscosity of rigid and breakable aggregate suspensions---Stokesian dynamics for rigid aggregates, In: Starov, V., Griffiths, P. (eds) UK Colloids 2011. Prog. Colloid Polym. Sci., 139. Springer, Berlin, Heidelberg.](http://doi.org/10.1007/978-3-642-28974-3_15)
 
 1.  [R. Botet, B. Cabane, M. Clifton, M. Meireles, and R. Seto. How a colloidal paste flows--scaling behaviors in dispersions of aggregated particles under mechanical stress. 5th Int. Workshop on Complex Systems, AIP Conf. Proc., 982, 320--325, 2008.](http://doi.org/10.1063/1.2897806)
   
