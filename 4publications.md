@@ -139,8 +139,7 @@ Vol.71, No.5, 751–756, 2005.](http://www.iop.org/EJ/abstract/0295-5075/71/5/75
 
 1. [V. Bürger, E. Schlauch, V. Becker, R. Seto, M. Behr, and H. Briesen. Simulating the restructuring of colloidal aggregates, 145–173. In: M. Kind, W. Peukert, H. Rehage, and H. P. Schuchmann, (eds), Colloid Process Engineering, Springer, Cham., 2015.](https://doi.org/10.1007/978-3-319-15129-8_7)
 
-### Conference Proceedings
-
+### Conference proceedings
 
 1.  [R. Botet, B. Cabane, M. Clifton, M. Meireles, and R. Seto. How a colloidal paste flows--scaling behaviors in dispersions of aggregated particles under mechanical stress. 5th Int. Workshop on Complex Systems, AIP Conf. Proc., 982, 320--325, 2008.](http://doi.org/10.1063/1.2897806)
 
