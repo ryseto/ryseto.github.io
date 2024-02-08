@@ -18,7 +18,7 @@ permalink: /publications/
 Mechanism for axial pattern formation of concentrated suspension in a horizontal rotating cylinder
 
 
-### Articles in Journals
+### Refereed Articles in Journals
 
 
 1. P. Angerman, S. P. Kumar, B. Sandnes, R. Seto, and M. Ellero, Microstructural Smoothed Particle Hydrodynamics Model and Simulations of Discontinuous Shear-Thickening Fluids,  Phys. Fluids, 2024 **(in press)**. [(arXiv:2311.13759)](https://arxiv.org/abs/2311.13759) 
@@ -130,4 +130,9 @@ Vol.71, No.5, 751–756, 2005.](http://www.iop.org/EJ/abstract/0295-5075/71/5/75
 1. [A. N. Kato, R. Seto, Y. Jiang, W. Chen, and T. Li, Compaction of Particle-laden Interfaces: Effects of anisotropy and surface roughness of particles, J. Jap. Assoc. Crystal Growth, 50(2), 50-2-02, 2023.](https://www.jacg.jp/jacg/journal/english/2023vol50no2.html) 
 1. [R. Seto, R. Mari, J. F. Morris, and M. M. Denn. The essential role of frictional contact in shear thickening, Japanese J. Multiphase Flow, Vol. 28, No. 3, 296–303, 2014.](http://dx.doi.org/10.3811/jjmf.28.296) 
 
+
+### Non-Scientific Articles in Japanese
+
+1. [Dynamic Zero-COVID Strategy in China, Kagaku (Iwanami Shoten, Publishers), 2022](/assets/pdf/Kagaku_202201_Seto_etal.pdf)
+1. [To a principal investigator of the Chinese institute, 24(1), 77--81, 2022](https://www.jstage.jst.go.jp/article/mssj/24/1/24_77/_article/-char/ja/)
 
