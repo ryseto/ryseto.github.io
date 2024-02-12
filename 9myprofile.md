@@ -42,12 +42,12 @@ Dr. Ryohei Seto is a computational physicist with broad experience in soft mater
 濑户博士积极活跃在软物质理论领域，被多个国际会议和研讨会邀请并作邀请报告。
 
 ### Academic ID
+- [ORCID: 0000-0002-4099-034X](http://orcid.org/0000-0002-4099-034X)
 - [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
-- [ResearcherID](http://www.researcherid.com/rid/E-3275-2014)
-- [ORCID](http://orcid.org/0000-0002-4099-034X)
-- [researchmap](https://researchmap.jp/ryseto)
+- [ResearcherID: E-3275-2014](http://www.researcherid.com/rid/E-3275-2014)
+- [researchmap: R000009305](https://researchmap.jp/ryseto)
+- [KAKEN: 90791575](https://nrid.nii.ac.jp/nrid/1000090791575/)
 - [ResearchGate](https://www.researchgate.net/profile/Ryohei_Seto)
-
 
 ### Work
 - 2020-present Visiting Professor, Graduate School of Simulation Studies, University of Hyogo

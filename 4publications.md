@@ -4,7 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
-[Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
+- [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
+- [ResearcherID](http://www.researcherid.com/rid/E-3275-2014)
+- [ORCID](http://orcid.org/0000-0002-4099-034X)
+- [researchmap](https://researchmap.jp/ryseto)
+- [ResearchGate](https://www.researchgate.net/profile/Ryohei_Seto)
 
 
 ### Submitted articles
@@ -12,7 +16,7 @@ permalink: /publications/
 1. Z. Liu, R. Seto, H. Zhang, B. Che, L. Liu, and L. Deng, Highly distinctive linear and nonlinear rheological behaviors of mucin-based protein solutions as simulated normal and asthmatic human airway mucus
 
 
-1. Y. Jiang, Y. Cui, Y. Li, Z. Liu, C. Ness, and R. Seto, Filled Colloidal Gel Rheology: Strengthening, Softening, and Tuneability, [(arXiv:2311.08751)](https://arxiv.org/abs/2311.08751) 
+1. Y. Jiang, Y. Cui, Y. Li, Z. Liu, C. Ness, and R. Seto, Filled colloidal gel Rheology: strengthening, softening, and tuneability, [(arXiv:2311.08751)](https://arxiv.org/abs/2311.08751) 
 
 1. S. Konidena, B. Vowinckel, R. Seto, K. A. Reddy, and A. Singh,
 Mechanism for axial pattern formation of concentrated suspension in a horizontal rotating cylinder
