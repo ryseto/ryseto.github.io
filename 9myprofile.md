@@ -13,8 +13,7 @@ Oujiang Laboratory (Zhejiang Lab for Regenerative Medicine, Vision and Brain Hea
 Visiting Professor, [The Graduate School of Information Science, University of Hyogo](http://www.simulation-studies.org)\\
 
 
-
-瀬戸亮平 課題組長（研究员，教授）\\
+瀬戸亮平 課題組長（研究员/教授）\\
 外国优秀青年学者 \\
 温州市海外精英引進計画 \\
 [国科温州研究院](http://www.wiucas.ac.cn) \\
@@ -30,8 +29,6 @@ Visiting Professor, [The Graduate School of Information Science, University of H
 
 No.1 Jinlian Road, Longwan District, Wenzhou, Zhejiang, 325001, China\\
 浙江省温州市龙湾区金联路1号 (邮编 325001)
-
-
 
 Dr. Ryohei Seto is a computational physicist with broad experience in soft materials science, including colloidal dynamics, suspension rheology, and granular systems. His current research focuses are fluid mechanics of suspensions, biomechanics, and transport phenomena in biological systems. After his Ph. D in condensed matter physics in 2006, he got a postdoctoral fellowship from the French Government to work on soft matter physics at the Solid States Physics Laboratory (Orsay). He also worked as postdoctoral researchers at the Technical University of Munich, the Max Planck Institute for Polymer Research (Mainz), and the City College of New York. He joined the Okinawa Institute of Science and Technology as a Group Leader (Senior Staff Scientists) in 2015. He is now a PI researcher at the Wenzhou Institute of UCAS since October 2019. He is also a Visiting Professor at the Graduate School of Simulation Studies of the University of Hyogo since April 2020. He is particularly known for his study of shear thickening, a phenomenon in which fluid becomes more viscous under higher stresses. His work is highly cited and has had an enormous impact on the field; one paper was the recipient of the Publication Award of The Society of Rheology in 2015, and he gave invited talks in many international conferences and workshops.
 
@@ -80,15 +77,10 @@ New simulation scheme for migration and clogging of dense suspensions in channel
 - [Dynamic Zero-COVID Strategy in China, Kagaku (Iwanami Shoten, Publishers)](/assets/pdf/Kagaku_202201_Seto_etal.pdf)
 - [Article about my career history (in Japanese)](https://www.jstage.jst.go.jp/article/mssj/24/1/24_77/_article/-char/ja/)
 
-### Marathon
-- Kanazawa Marathon			**3:39:11**	(2017.10.29)
-- Naha Marathon				4:00:45		(2016.12.4)
-- Okinawa Marathon			3:43:12		(2016.2.21)
-- Ishigaki-island Marathon		4:08:41		(2016.1.24)
-- New York City Marathon		3:45:50		(2014.11.2)
-- Mainz Marathon			3:52:22		(2012.5.6)
 
 ### Running log
+
+Total(2011--2023) --- 15,931.7 km 
 - 2011 --- 1,502.2km 
 - 2012 --- 1,434.9km 
 - 2013 --- 1,358.8km 
@@ -102,6 +94,13 @@ New simulation scheme for migration and clogging of dense suspensions in channel
 - 2021 --- 723km      
 - 2022 --- 774km      
 - 2023 --- 808km      
-- **Total(--2023)** ---15,931.7 km
+
 - [2024 on strava.com](https://www.strava.com/athletes/33629431)
 
+### Marathon
+- Kanazawa Marathon			**3:39:11**	(2017.10.29)
+- Naha Marathon				4:00:45		(2016.12.4)
+- Okinawa Marathon			3:43:12		(2016.2.21)
+- Ishigaki-island Marathon		4:08:41		(2016.1.24)
+- New York City Marathon		3:45:50		(2014.11.2)
+- Mainz Marathon			3:52:22		(2012.5.6)
