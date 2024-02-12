@@ -43,10 +43,10 @@ Dr. Ryohei Seto is a computational physicist with broad experience in soft mater
 
 ### Academic ID
 - [ORCID: 0000-0002-4099-034X](http://orcid.org/0000-0002-4099-034X)
-- [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
 - [ResearcherID: E-3275-2014](http://www.researcherid.com/rid/E-3275-2014)
 - [researchmap: R000009305](https://researchmap.jp/ryseto)
 - [KAKEN: 90791575](https://nrid.nii.ac.jp/nrid/1000090791575/)
+- [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
 - [ResearchGate](https://www.researchgate.net/profile/Ryohei_Seto)
 
 ### Work
