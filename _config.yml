@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Seto group
-email: seto@ucas.ac.cn
+email: seto@wiucas.ac.cn
 address: No.1 Jinlian Road, Longwan District, Wenzhou, Zhejiang 325000, China
 description: Our group studies soft matter physics. We study rheology and flow of soft materials by simulation and experiment.
 

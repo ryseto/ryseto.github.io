@@ -35,6 +35,7 @@ Welcome to the Rheophysics of Soft Matter group at [Wenzhou Institute](https://w
 - 2021.12 [New paper with Zhiyuan (open access)](https://doi.org/10.1103/PhysRevResearch.3.043229)
 - 2021.9 [New paper on shear jamming fluid model was published in Phys. Rev. Lett.](https://doi.org/10.1103/PhysRevLett.127.138001) 
 
-[Wenzhou Institute, University of Chinese Academy of Sciences](http://english.wiucas.ac.cn) ([国科温州研究院](http://www.wiucas.ac.cn)) 
 
-[Ryohei Seto](9myprofile.md) [seto@wiucas.ac.cn](mailto:seto@wiucas.ac.cn)
+[Wenzhou Institute, University of Chinese Academy of Sciences](https://wiucas.ac.cn/en/) ([国科温州研究院](http://www.wiucas.ac.cn)) 
+
+[Ryohei Seto](9myprofile.md) [email](mailto:seto@wiucas.ac.cn)
