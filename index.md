@@ -5,7 +5,9 @@ title: Seto group
 layout: page
 ---
 
-Welcome to the **Rheophysics of Soft Matter group** at [**Wenzhou Institute**](http://english.wiucas.ac.cn)
+Welcome to the Rheophysics of Soft Matter group at [Wenzhou Institute](https://wiucas.ac.cn/en/)
+
+*Several Associate Researcher and Postdoc Positions are available in the Rheophysics of Soft Matter group at Wenzhou Institute, University of Chinese Academy of Sciences. [Please see here](/JoinUs/)*
 
 <center>
 <a href="https://www.nature.com/articles/s41467-023-38461-1">	
