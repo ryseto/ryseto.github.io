@@ -5,13 +5,16 @@ permalink: /publications/
 ---
 
 - Summary 
-  - Refereed articles in journals: **34** + **3** (under review)
-  - Conference proceedings: **3**, Book chapter: **1**, Journal articles in Japanese: **2**
+  - Refereed articles in journals: **34** 
+  - Submitted articles (under review): **3**
+  - Conference proceedings: **3**
+  - Book chapter: **1**
+  - Journal articles in Japanese: **2**
 - External publication profiles
   - [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
   - [researchmap](https://researchmap.jp/ryseto)
 
-### Submitted articles
+### Submitted articles (under review)
 
 1. Z. Liu, R. Seto, H. Zhang, B. Che, L. Liu, and L. Deng, Highly distinctive linear and nonlinear rheological behaviors of mucin-based protein solutions as simulated normal and asthmatic human airway mucus
 
