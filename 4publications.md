@@ -11,8 +11,8 @@ permalink: /publications/
 
 ### Summary 
 
-- Refereed articles in journals: **34** + 3 (under review)
-- Conference proceedings: 3, Book chapter: 1, Journal articles in Japanese: 2
+- Refereed articles in journals: **34** + **3** (under review)
+- Conference proceedings: **3**, Book chapter: **1**, Journal articles in Japanese: **2**
 
 ### Submitted articles
 
