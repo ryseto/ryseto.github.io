@@ -20,7 +20,7 @@ permalink: /profile/
   -  [兵庫県立大学大学院シミュレーション学研究科](http://www.simulation-studies.org)
 - [Publication list](4publications.md)
 - [CV (PDF file)](https://ryseto.github.io/assets/pdf/CV_Seto.pdf)
-- [email: seto[at]wiucas.ac.cn](mailto:seto@wiucas.ac.cn)
+- [email address](mailto:seto@wiucas.ac.cn)
 - Address 
   - No.1 Jinlian Road, Longwan District, Wenzhou, Zhejiang, 325001, China
   - 浙江省温州市龙湾区金联路1号 (邮编 325001)
