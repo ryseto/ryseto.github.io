@@ -38,4 +38,6 @@ Welcome to the Rheophysics of Soft Matter group at [Wenzhou Institute](https://w
 
 [Wenzhou Institute, University of Chinese Academy of Sciences](https://wiucas.ac.cn/en/) ([国科温州研究院](http://www.wiucas.ac.cn)) 
 
-[Ryohei Seto](9myprofile.md) [email](mailto:seto@wiucas.ac.cn)
+[Ryohei Seto](9myprofile.md)
+
+[seto@wiucas.ac.cn](mailto:seto@wiucas.ac.cn)
