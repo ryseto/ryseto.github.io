@@ -4,12 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
-- [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
-- [ResearcherID](http://www.researcherid.com/rid/E-3275-2014)
-- [ORCID](http://orcid.org/0000-0002-4099-034X)
-- [researchmap](https://researchmap.jp/ryseto)
-- [ResearchGate](https://www.researchgate.net/profile/Ryohei_Seto)
+### External publication profile
 
+- [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
+- [researchmap](https://researchmap.jp/ryseto)
+
+### Summary 
+
+- Refereed articles in journals: **34** + 3 (under review)
+- Conference proceedings: 3, Book chapter: 1, Journal articles in Japanese: 2
 
 ### Submitted articles
 
@@ -23,7 +26,6 @@ Mechanism for axial pattern formation of concentrated suspension in a horizontal
 
 
 ### Refereed articles in journals
-
 
 1. P. Angerman, S. P. Kumar, B. Sandnes, R. Seto, and M. Ellero, Microstructural smoothed particle hydrodynamics model and simulations of discontinuous shear-thickening fluids,  Phys. Fluids, 2024 **(in press)**. [(arXiv:2311.13759)](https://arxiv.org/abs/2311.13759)
 
@@ -150,7 +152,7 @@ Vol.71, No.5, 751–756, 2005.](http://www.iop.org/EJ/abstract/0295-5075/71/5/75
   
 1. [R. Seto, H. Kuratsuji, and R. Botet, Nonlinear oscillation of the Stokes parameters in birefringent media, Topology in ordered phases: Proc. 1st Int. Symposium on Top 2005, World Scientific, 327--331, 2006.](http://doi.org/10.1142/9789812772879_0053)
 
-### Articles in Japanese journals
+### Journals articles in Japanese
 
 1. [A. N. Kato, R. Seto, Y. Jiang, W. Chen, and T. Li, Compaction of Particle-laden Interfaces: Effects of anisotropy and surface roughness of particles, J. Jap. Assoc. Crystal Growth, 50(2), 50-2-02, 2023.](https://www.jacg.jp/jacg/journal/english/2023vol50no2.html) 
 
