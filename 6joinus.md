@@ -12,11 +12,10 @@ Postdoc positions are available in the Computational Soft Matter group at [the W
 - Salary: see [here](http://www.wiucas.ac.cn/hr/2021/272.html)
 - Term: 2 years (needs to be more than 21 months, and possible to extend)
 1. Requirements
-- Doctoral degree in soft matter, statistical physics, fluid mechanics, and biophysics, etc.
+- Doctoral degree in soft matter, statistical physics, fluid mechanics, rheology and biophysics, etc.
 - Experience with numerical simulations
 - Programming skills (C++, Python, etc.)
 1. Please send the following items to [me](mailto:seto@wiucas.ac.cn) 
 - CV 
 - List of publications
-- Summary of your research accomplishments and your research interests
-- Contact information of references
+

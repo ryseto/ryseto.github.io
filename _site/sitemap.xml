@@ -19,6 +19,9 @@
 <loc>http://localhost:4000/COVID19/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/running/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/aprofile/</loc>
 </url>
 <url>

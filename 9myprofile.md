@@ -24,6 +24,7 @@ permalink: /aprofile/
 - Address 
   - No.1 Jinlian Road, Longwan District, Wenzhou, Zhejiang, 325001, China
   - 浙江省温州市龙湾区金联路1号 (邮编 325001)
+- [Running](8running.md)
 - Academic ID
   - [ORCID: 0000-0002-4099-034X](http://orcid.org/0000-0002-4099-034X)
   - [ResearcherID: E-3275-2014](http://www.researcherid.com/rid/E-3275-2014)
@@ -46,8 +47,6 @@ Onna, Japan
 Orsay, France
   - 2006      Dr. of Science in Physics  Ritsumeikan University, Japan (Prof. Hiroshi Kuratsuji)
 
-
-
 Dr. Ryohei Seto is a computational physicist with broad experience in soft materials science, including colloidal dynamics, suspension rheology, and granular systems. His current research focuses on fluid mechanics of suspensions, biomechanics, and transport phenomena in biological systems. After receiving his Ph.D. in Condensed Matter Physics in 2006, he received a postdoctoral fellowship from the French government to work on soft matter physics at the Solid States Physics Laboratory (Orsay) and the Chemical Engineering Laboratory (Toulouse). He also worked as a postdoctoral researcher at the Technical University of Munich, the Max Planck Institute for Polymer Research (Mainz), and the City College of New York. He joined the Okinawa Institute of Science and Technology as a group leader (senior staff scientist) in 2015. He is now a PI researcher at the Wenzhou Institute, University of Chinese Academy of Sciences, since October 2019. He is also a visiting professor at the Graduate School of Simulation Studies, University of Hyogo since April 2020. He is particularly known for his study of shear thickening, a phenomenon in which a fluid becomes more viscous at higher stresses. His work is highly cited and has had a tremendous impact on the field, with one paper winning the 2015 Publication Award of The Society of Rheology, and he has given invited talks at many international conferences and workshops.
 
 濑户亮平博士 课题组长 : 
@@ -55,8 +54,6 @@ Dr. Ryohei Seto is a computational physicist with broad experience in soft mater
 研究领域主要为软材料科学领域的计算物理学，内容涉及胶体动力学、悬浮流变学、颗粒系统。课题组目前的研究重点是悬浮液的流体力学、生物力学、生物系统中的传输现象。
 濑户博士在剪切增稠的研究领域成就突出（剪切增稠现象为在较高的应力下流体变得更粘稠），论文被广泛引用，对该领域有巨大影响。其中，一篇论文获得2015年流变学会奖。
 濑户博士积极活跃在软物质理论领域，被多个国际会议和研讨会邀请并作邀请报告。
-
-
 
 
 ### Grants
@@ -77,29 +74,3 @@ Dr. Ryohei Seto is a computational physicist with broad experience in soft mater
 - [Article about my career history (in Japanese)](https://www.jstage.jst.go.jp/article/mssj/24/1/24_77/_article/-char/ja/)
 
 
-### Running log
-
-Total(2011--2023) --- 15,931.7 km 
-- 2011 --- 1,502.2km 
-- 2012 --- 1,434.9km 
-- 2013 --- 1,358.8km 
-- 2014 --- 1,447.8km 
-- 2015 --- 1,657.1km 
-- 2016 --- 1,536.4km 
-- 2017 --- 1,539.9km 
-- 2018 --- 1,225.0km 
-- 2019 --- 1,012.6km 
-- 2020 --- 912km      
-- 2021 --- 723km      
-- 2022 --- 774km      
-- 2023 --- 808km      
-
-- [2024 on strava.com](https://www.strava.com/athletes/33629431)
-
-- Marathon
-  - Kanazawa Marathon			**3:39:11**	(2017.10.29)
-  - Naha Marathon				4:00:45		(2016.12.4)
-  - Okinawa Marathon			3:43:12		(2016.2.21)
-  - Ishigaki-island Marathon		4:08:41		(2016.1.24)
-  - New York City Marathon		3:45:50		(2014.11.2)
-  - Mainz Marathon			3:52:22		(2012.5.6)
