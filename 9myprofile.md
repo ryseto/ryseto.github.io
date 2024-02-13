@@ -11,8 +11,6 @@ permalink: /aprofile/
   - [Wenzhou Institute, University of Chinese Academy of Sciences](http://english.wiucas.ac.cn)\\
   - Oujiang Laboratory (Zhejiang Lab for Regenerative Medicine, Vision and Brain Health) \\
   - Visiting Professor, [The Graduate School of Information Science, University of Hyogo](http://www.simulation-studies.org)\\
-  - [Publication list](4publications.md)
-
 
 - 瀬戸亮平 課題組長（研究员/教授）
   - 外国优秀青年学者 
@@ -20,15 +18,12 @@ permalink: /aprofile/
   - [国科温州研究院](http://www.wiucas.ac.cn)
   - 瓯江実験室瓯江实验室（再生调控与眼脑健康浙江省实验室）
   -  [兵庫県立大学大学院シミュレーション学研究科](http://www.simulation-studies.org)
-
+- [Publication list](4publications.md)
 - [CV (PDF file)](https://ryseto.github.io/assets/pdf/CV_Seto.pdf)
-
-- [email: seto@wiucas.ac.cn](mailto:seto@wiucas.ac.cn)
-
+- [email: seto[at]wiucas.ac.cn](mailto:seto@wiucas.ac.cn)
 - Address 
   - No.1 Jinlian Road, Longwan District, Wenzhou, Zhejiang, 325001, China
   - 浙江省温州市龙湾区金联路1号 (邮编 325001)
-
 - Academic ID
   - [ORCID: 0000-0002-4099-034X](http://orcid.org/0000-0002-4099-034X)
   - [ResearcherID: E-3275-2014](http://www.researcherid.com/rid/E-3275-2014)
@@ -36,7 +31,6 @@ permalink: /aprofile/
   - [KAKEN: 90791575](https://nrid.nii.ac.jp/nrid/1000090791575/)
   - [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
   - [ResearchGate](https://www.researchgate.net/profile/Ryohei_Seto)
-
 - Work history
   - 2020-present Visiting Professor, Graduate School of Simulation Studies, University of Hyogo
   - 2019-present PI Researcher(Professor), Wenzhou Institute, University of Chinese Academy of Sciences, China
