@@ -8,9 +8,9 @@ permalink: /profile/
 
 - Ryohei Seto, PI (Professor) 
   - International Excellent Young Scientist  
-  - [Wenzhou Institute, University of Chinese Academy of Sciences](http://english.wiucas.ac.cn)\\
-  - Oujiang Laboratory (Zhejiang Lab for Regenerative Medicine, Vision and Brain Health) \\
-  - Visiting Professor, [The Graduate School of Information Science, University of Hyogo](http://www.simulation-studies.org)\\
+  - [Wenzhou Institute, University of Chinese Academy of Sciences](http://english.wiucas.ac.cn)
+  - Oujiang Laboratory (Zhejiang Lab for Regenerative Medicine, Vision and Brain Health) 
+  - Visiting Professor, [The Graduate School of Information Science, University of Hyogo](http://www.simulation-studies.org)
 
 - 瀬戸亮平 課題組長（研究员/教授）
   - 外国优秀青年学者 
