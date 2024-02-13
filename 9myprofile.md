@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ryohei Seto
-permalink: /aprofile/
+permalink: /profile/
 ---
 
 ![Ryohei Seto](/assets/img/Seto2.png)
@@ -72,5 +72,3 @@ Dr. Ryohei Seto is a computational physicist with broad experience in soft mater
 - [2015 Society of Rheology Publication Award](http://www-levich.engr.ccny.cuny.edu/sor2015.htm)
 - [Dynamic Zero-COVID Strategy in China, Kagaku (Iwanami Shoten, Publishers)](/assets/pdf/Kagaku_202201_Seto_etal.pdf)
 - [Article about my career history (in Japanese)](https://www.jstage.jst.go.jp/article/mssj/24/1/24_77/_article/-char/ja/)
-
-
