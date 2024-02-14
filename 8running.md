@@ -29,4 +29,10 @@ Total(2011--2023) --- 15,931.7 km
   - New York City Marathon		3:45:50		(2014.11.2)
   - Mainz Marathon			3:52:22		(2012.5.6)
 
+{: align="center"}
 ![Running heatmap](/assets/img/heatmap.png)
+
+I started running in the summer of 2010 in Freising, Germany for exercise and started tracking on January 1, 2011.
+
+{: align="center"}
+![Isar](/assets/img/Freising.jpeg)
