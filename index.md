@@ -9,21 +9,12 @@ Welcome to the Rheophysics of Soft Matter group at [Wenzhou Institute, Universit
 
 *Several Associate Researcher and Postdoc Positions are available in the Rheophysics of Soft Matter group at Wenzhou Institute, University of Chinese Academy of Sciences. [Please see here](/JoinUs/)*
 
-<center>
-<a href="https://www.nature.com/articles/s41467-023-38461-1">	
-     <img class="fit-picture"
-     src="/assets/img/sticky-nonsticky-gel.jpg"
-     alt="Sticky particles with non-sticky granular fillers">
-</a>
 
+{: align="center"}
+[![Sticky particles with non-sticky granular fillers](/assets/img/sticky-nonsticky-gel.jpg)](https://www.nature.com/articles/s41467-023-38461-1)
 &emsp;&emsp;&emsp;
+[![Ridge instability in dense suspensions](/assets/img/ridge_instability.jpg)](https://pubs.aip.org/aip/pof/article/36/2/024111/3262480/Ridge-instability-in-dense-suspensions-caused-by?searchresult=1)
 
-<a href="https://pubs.aip.org/aip/pof/article/36/2/024111/3262480/Ridge-instability-in-dense-suspensions-caused-by?searchresult=1">	
-     <img class="fit-picture"
-     src="/assets/img/ridge_instability.jpg"
-     alt="Ridge instability in dense suspensions">
-</a>
-</center>
 
 #### News
 - 2024.2 [**Our work on a ridge instability was published in Physics of Fluids and featured in Editors' Picks.**](https://pubs.aip.org/aip/pof/article/36/2/024111/3262480/Ridge-instability-in-dense-suspensions-caused-by?searchresult=1)
