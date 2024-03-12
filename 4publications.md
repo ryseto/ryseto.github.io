@@ -27,7 +27,7 @@ Mechanism for axial pattern formation of concentrated suspension in a horizontal
 
 ### Refereed articles in journals
 
-1. P. Angerman, S. P. Kumar, B. Sandnes, R. Seto, and M. Ellero, Microstructural smoothed particle hydrodynamics model and simulations of discontinuous shear-thickening fluids,  Phys. Fluids, 36(3):033103, 2024. **Featured Articles** [(arXiv:2311.13759)](https://arxiv.org/abs/2311.13759)
+1. [P. Angerman, S. P. Kumar, B. Sandnes, R. Seto, and M. Ellero, Microstructural smoothed particle hydrodynamics model and simulations of discontinuous shear-thickening fluids,  Phys. Fluids, 36(3):033103, 2024.](https://doi.org/10.1063/5.0188444) **Featured Articles** [(arXiv:2311.13759)](https://arxiv.org/abs/2311.13759)
 
 1. [Z. Xiong, P. Angerman, M. Ellero, B. Sandnes, and R. Seto, Ridge instability in dense suspensions caused by the second normal stress difference, Phys. Fluids, 36(2), 2024.](https://pubs.aip.org/aip/pof/article/36/2/024111/3262480/Ridge-instability-in-dense-suspensions-caused-by?searchresult=1) **Editor's Picks** [(arXiv:2311.11201)](https://arxiv.org/abs/2311.11201) 
 
