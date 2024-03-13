@@ -32,13 +32,27 @@ Total(2011--2023) --- 15838.7 km
   - New York City Marathon		3:45:50		(2014.11.2)
   - Mainz Marathon			3:52:22		(2012.5.6)
 
+
+- Half marathon
+  - 2014 Staten Island Half             **1:36:40**         (2014.10.12)
+  - 2013 Grete's Great Gallop           1:44:11         (2013.10.6)
+  - 2013 Brooklyn Half Marathon         1:44:29         (2013.5.18)
+
+
+  
+
+[New York Road Runners records](https://results.nyrr.org/runner/15289676/races)
+
+
+NewYork 
+
 {: align="center"}
 ![Wenzhou](/assets/img/wenzhou_run.jpeg)
 
 {: align="center"}
 ![Running heatmap](/assets/img/heatmap.png)
 
-I started running in the summer of 2010 in Freising, Germany for exercise and started tracking on January 1, 2011.
+I started running for 8 km once a week in the summer of 2010 in Freising, Germany. In 2011, I increased the frequency and started keeping records.
 
 {: align="center"}
 ![Isar](/assets/img/Freising.jpeg)
