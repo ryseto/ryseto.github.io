@@ -52,7 +52,7 @@ NewYork
 {: align="center"}
 ![Running heatmap](/assets/img/heatmap.png)
 
-I started running for 8 km once a week in the summer of 2010 in Freising, Germany. In 2011, I increased the frequency and started keeping records.
+I started running for 8km once a week in the summer of 2010 in Freising, Germany. In 2011, I increased the frequency and started keeping records.
 
 {: align="center"}
 ![Isar](/assets/img/Freising.jpeg)
