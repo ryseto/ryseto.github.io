@@ -39,8 +39,6 @@ Total(2011--2023) --- 15838.7 km
   - 2013 Brooklyn Half Marathon         1:44:29         (2013.5.18)
 
 
-[New York Road Runners records](https://results.nyrr.org/runner/15289676/races)
-
 
 Wenzhou
 
@@ -54,3 +52,11 @@ I started running about 8km once a week in the summer of 2010 in Freising, Germa
 
 {: align="center"}
 ![Isar](/assets/img/Freising.jpeg)
+
+
+Running when I lived in New York City is an irreplaceable memory for me.
+
+- [New York Road Runners records](https://results.nyrr.org/runner/15289676/races)
+
+
+
