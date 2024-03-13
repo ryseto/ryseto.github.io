@@ -5,8 +5,8 @@ permalink: /publications/
 ---
 
 - Summary
-  - Submitted articles (under review): **4**
-  - Refereed articles in journals: **34** 
+  - Submitted articles (under review): **3**
+  - Refereed articles in journals: **35** 
   - Conference proceedings: **3**
   - Book chapter: **1**
   - Journal articles in Japanese: **2**
