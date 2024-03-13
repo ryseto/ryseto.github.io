@@ -39,8 +39,6 @@ Total(2011--2023) --- 15838.7 km
   - 2013 Brooklyn Half Marathon         1:44:29         (2013.5.18)
 
 
-  
-
 [New York Road Runners records](https://results.nyrr.org/runner/15289676/races)
 
 
