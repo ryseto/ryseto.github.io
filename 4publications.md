@@ -22,10 +22,12 @@ permalink: /publications/
 
 1. Y. Jiang, Y. Cui, Y. Li, Z. Liu, C. Ness, and R. Seto, Filled colloidal gel Rheology: strengthening, softening, and tuneability, [(arXiv:2311.08751)](https://arxiv.org/abs/2311.08751) 
 
-1. S. Konidena, B. Vowinckel, R. Seto, K. A. Reddy, and A. Singh,
-Mechanism for axial pattern formation of concentrated suspension in a horizontal rotating cylinder
 
 ### Refereed articles in journals
+
+
+1. S. Konidena, B. Vowinckel, R. Seto, K. A. Reddy, and A. Singh,
+Mechanism for axial pattern formation of concentrated suspension in a horizontal rotating cylinder
 
 1. [P. Angerman, S. P. Kumar, B. Sandnes, R. Seto, and M. Ellero, Microstructural smoothed particle hydrodynamics model and simulations of discontinuous shear-thickening fluids,  Phys. Fluids, 36(3):033103, 2024.](https://doi.org/10.1063/5.0188444) **Featured Articles** [(arXiv:2311.13759)](https://arxiv.org/abs/2311.13759)
 
