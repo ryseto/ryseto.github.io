@@ -57,6 +57,3 @@ I started running about 8km once a week in the summer of 2010 in Freising, Germa
 Running when I lived in New York City is an irreplaceable memory for me.
 
 - [New York Road Runners records](https://results.nyrr.org/runner/15289676/races)
-
-
-
