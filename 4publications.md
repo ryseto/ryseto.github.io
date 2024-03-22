@@ -4,15 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
-- Summary
-  - Submitted articles (under review): **3**
-  - Refereed articles in journals: **35** 
-  - Conference proceedings: **3**
-  - Book chapter: **1**
-  - Journal articles in Japanese: **2**
-- External publication profiles
-  - [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
-  - [researchmap](https://researchmap.jp/ryseto)
+Summary: Article **35(+3)**; Proceedings **3**; Book chapter **1**; Article(Japanese) **2**.
+- [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
+- [researchmap](https://researchmap.jp/ryseto)
 
 ### Submitted articles (under review)
 
