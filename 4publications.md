@@ -7,7 +7,7 @@ permalink: /publications/
 - [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
 - [researchmap](https://researchmap.jp/ryseto)
 
-Refereed articles: **36**, Under review: **2**, Proceedings: **3**, Book chapter: **1**, and Article(Japanese): **2**.
+Refereed articles: **36**, Under review: **2**, Proceedings: **3**, Book chapter: **1**, and Article in Japanese: **2**.
 
 ### Submitted articles (under review)
 
