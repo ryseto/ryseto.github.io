@@ -7,18 +7,17 @@ permalink: /publications/
 - [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
 - [researchmap](https://researchmap.jp/ryseto)
 
-Refereed articles: **35**, Under review: **3**, Proceedings: **3**, Book chapter: **1**, and Article(Japanese): **2**.
+Refereed articles: **36**, Under review: **2**, Proceedings: **3**, Book chapter: **1**, and Article(Japanese): **2**.
 
 ### Submitted articles (under review)
 
-1. Z. Xiong, R. Seto, and M. Doi, Bending-Rotation coupling in the viscoelasticity of semi-flexible polymers -- Rigorous perturbation analysis from the rod limit [(arXiv:2403.05173)](http://arxiv.org/abs/2403.05173)
-
-1. Z. Liu, R. Seto, H. Zhang, B. Che, L. Liu, and L. Deng, Highly distinctive linear and nonlinear rheological behaviors of mucin-based protein solutions as simulated normal and asthmatic human airway mucus
+1. Z. Xiong, R. Seto, and M. Doi, Bending-Rotation coupling in the viscoelasticity of semi-flexible polymers --- Rigorous perturbation analysis from the rod limit [(arXiv:2403.05173)](http://arxiv.org/abs/2403.05173)
 
 1. Y. Jiang, Y. Cui, Y. Li, Z. Liu, C. Ness, and R. Seto, Filled colloidal gel Rheology: strengthening, softening, and tuneability, [(arXiv:2311.08751)](https://arxiv.org/abs/2311.08751) 
 
-
 ### Refereed articles in journals
+
+1. Z. Liu, R. Seto, H. Zhang, B. Che, L. Liu, and L. Deng, Highly distinctive linear and nonlinear rheological behaviors of mucin-based protein solutions as simulated normal and asthmatic human airway mucus, Phys. Fluids, 2024. **(accepted)**
 
 1. S. Konidena, B. Vowinckel, R. Seto, K. A. Reddy, and A. Singh,
 Mechanism for axial pattern formation of concentrated suspension in a horizontal rotating cylinder, J. Fluid Mech. 2024. **(accepted)**
