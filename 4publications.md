@@ -17,6 +17,8 @@ Refereed articles: **36**, Under review: **2**, Proceedings: **3**, Book chapter
 
 ### Refereed articles in journals
 
+1. [Y. Ding, B. Wang, Q. Yang, Z. Zhao, S. Komura, R. Seto, M. Yang, and F. Ye. Odd response-induced phase separation of active spinners. Research, 2024.](https://doi.org/10.34133/research.0356) **(accepted)**
+
 1. Z. Liu, R. Seto, H. Zhang, B. Che, L. Liu, and L. Deng, Highly distinctive linear and nonlinear rheological behaviors of mucin-based protein solutions as simulated normal and asthmatic human airway mucus, Phys. Fluids, 2024. **(accepted)**
 
 1. S. Konidena, B. Vowinckel, R. Seto, K. A. Reddy, and A. Singh,
