@@ -6,10 +6,11 @@ permalink: /running/
 
 ### Running log
 
-Total(2011--2023) --- 15838.7 km
-- 2024 --- 224km
-   - Feb --- 102km
-   - Jan --- 122km
+- This year --- 353km
+   - Mar. --- 129km
+   - Feb. --- 102km
+   - Jan. --- 122km
+- Total distance from 2011 to last year --- 15838.7 km   
 - 2023 --- 715km
 - 2022 --- 774km      
 - 2021 --- 723km
