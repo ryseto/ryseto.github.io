@@ -8,16 +8,17 @@ permalink: /profile/
 
 - Ryohei Seto, PI (Professor) 
   - International Excellent Young Scientist  
-  - [Wenzhou Institute, University of Chinese Academy of Sciences](http://english.wiucas.ac.cn)
-  - Oujiang Laboratory (Zhejiang Lab for Regenerative Medicine, Vision and Brain Health) 
-  - Visiting Professor, [The Graduate School of Information Science, University of Hyogo](http://www.simulation-studies.org)
+  - [Wenzhou Institute, University of Chinese Academy of Sciences](http://english.wiucas.ac.cn) [2019--]
+  - Oujiang Laboratory (Zhejiang Lab for Regenerative Medicine, Vision and Brain Health) [2022--]
+  - Research Fellow, Institute of industrial Science, University of Tokyo [2024--]
+  - Visiting Professor, [The Graduate School of Information Science, University of Hyogo](http://www.simulation-studies.org) [2020--]
 
-- 瀬戸亮平 課題組長（研究员/教授）
-  - 外国优秀青年学者 
-  - 温州市海外精英引進計画 
-  - [国科温州研究院](http://www.wiucas.ac.cn)
-  - 瓯江実験室瓯江实验室（再生调控与眼脑健康浙江省实验室）
-  -  [兵庫県立大学大学院シミュレーション学研究科](http://www.simulation-studies.org)
+- 瀬戸亮平 課題組長（研究员/教授） 外国优秀青年学者, 温州市海外精英引進計画
+  - [国科温州研究院](http://www.wiucas.ac.cn) [2019--]
+  - 瓯江実験室瓯江实验室（再生调控与眼脑健康浙江省实验室）[2022--]
+  - 東京大学 生産技術研究所 リサーチフェロー [2024--]
+  - [兵庫県立大学大学院 シミュレーション学研究科](http://www.simulation-studies.org) 客員教授 [2020--]
+
 - [Publication list](4publications.md)
 - [CV (PDF file)](https://ryseto.github.io/assets/pdf/CV_Seto.pdf)
 - [email address](mailto:seto@wiucas.ac.cn)
@@ -33,6 +34,7 @@ permalink: /profile/
   - [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
   - [ResearchGate](https://www.researchgate.net/profile/Ryohei_Seto)
 - Work history
+  - 2024-present Research Fellow, Institute of industrial Science, University of Tokyo
   - 2020-present Visiting Professor, Graduate School of Simulation Studies, University of Hyogo
   - 2019-present PI Researcher(Professor), Wenzhou Institute, University of Chinese Academy of Sciences, China
   - 2021 BCAM visiting fellow, [Basque Center for Applied Mathematics](http://www.bcamath.org/en/research/lines/CFDMS) .
