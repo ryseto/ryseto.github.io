@@ -9,11 +9,11 @@ permalink: /publications/
 
 ### Submitted articles (under review)
 
-1. Z. Xiong, R. Seto, and M. Doi, Bending-Rotation coupling in the viscoelasticity of semi-flexible polymers --- Rigorous perturbation analysis from the rod limit [(arXiv:2403.05173)](http://arxiv.org/abs/2403.05173)
-
 1. Y. Jiang, Y. Cui, Y. Li, Z. Liu, C. Ness, and R. Seto, Filled colloidal gel Rheology: strengthening, softening, and tuneability, [(arXiv:2311.08751)](https://arxiv.org/abs/2311.08751) 
 
 ### Refereed articles in journals
+
+1. Z. Xiong, R. Seto, and M. Doi, Bending-Rotation coupling in the viscoelasticity of semi-flexible polymers --- Rigorous perturbation analysis from the rod limit [(arXiv:2403.05173)](http://arxiv.org/abs/2403.05173) **(accepted)**
 
 1. [Y. Ding, B. Wang, Q. Yang, Z. Zhao, S. Komura, R. Seto, M. Yang, and F. Ye. Odd response-induced phase separation of active spinners. Research, 2024.](https://doi.org/10.34133/research.0356) **(accepted)**
 
