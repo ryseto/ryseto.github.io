@@ -33,18 +33,18 @@ permalink: /profile/
   - [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
   - [ResearchGate](https://www.researchgate.net/profile/Ryohei_Seto)
 - Work history
-  - 2024-present Research Fellow, Institute of industrial Science, University of Tokyo
-  - 2020-present Visiting Professor, Graduate School of Simulation Studies, University of Hyogo
-  - 2019-present PI Researcher(Professor), Wenzhou Institute, University of Chinese Academy of Sciences, China
+  - 2024--present Research Fellow, Institute of industrial Science, University of Tokyo
+  - 2020--present Visiting Professor, Graduate School of Simulation Studies, University of Hyogo
+  - 2019--present PI Researcher(Professor), Wenzhou Institute, University of Chinese Academy of Sciences, China
   - 2021 BCAM visiting fellow, [Basque Center for Applied Mathematics](http://www.bcamath.org/en/research/lines/CFDMS) .
-  - 2018-2019 Program-Specific Researcher, Transport Phenomena Group, Department of Chemical Engineering, Kyoto University, Kyoto, Japan
-  - 2015–2018 Group Leader, Okinawa Institute of Science and Technology Graduate University,
+  - 2018--2019 Program-Specific Researcher, Transport Phenomena Group, Department of Chemical Engineering, Kyoto University, Kyoto, Japan
+  - 2015--2018 Group Leader, Okinawa Institute of Science and Technology Graduate University,
 Onna, Japan
-  - 2012–2014 Research Associate, the Levich Institute, City College of New York, New York, USA
-  - 2012-2012 Postdoctoral Researcher, Max Plank Institute for Polymer Research, Mainz, Germany.  
-  - 2009–2011 Postdoctoral Researcher, Technical University of Munich, Freising, Germany
-  - 2008-2009 Postdoctoral Researcher, Laboratoire de Genie Chimique, Université Paul Sabatier, Toulouse, France
-  - 2006-2008 Postdoctoral Researcher, Laboratoire de Physique des Solides, Université Paris-Sud 11, Orsay, France
+  - 2012--2014 Research Associate, the Levich Institute, City College of New York, New York, USA
+  - 2012--2012 Postdoctoral Researcher, Max Plank Institute for Polymer Research, Mainz, Germany.  
+  - 2009--2011 Postdoctoral Researcher, Technical University of Munich, Freising, Germany
+  - 2008--2009 Postdoctoral Researcher, Laboratoire de Genie Chimique, Université Paul Sabatier, Toulouse, France
+  - 2006--2008 Postdoctoral Researcher, Laboratoire de Physique des Solides, Université Paris-Sud 11, Orsay, France
   - 2006      Dr. of Science in Physics  Ritsumeikan University, Japan (Prof. Hiroshi Kuratsuji)
 
 Dr. Ryohei Seto is a computational physicist with broad experience in soft materials science, including colloidal dynamics, suspension rheology, and granular systems. His current research focuses on fluid mechanics of suspensions, biomechanics, and transport phenomena in biological systems. After receiving his Ph.D. in Condensed Matter Physics in 2006, he received a postdoctoral fellowship from the French government to work on soft matter physics at the Solid States Physics Laboratory (Orsay) and the Chemical Engineering Laboratory (Toulouse). He also worked as a postdoctoral researcher at the Technical University of Munich, the Max Planck Institute for Polymer Research (Mainz), and the City College of New York. He joined the Okinawa Institute of Science and Technology as a group leader (senior staff scientist) in 2015. He is now a PI researcher at the Wenzhou Institute, University of Chinese Academy of Sciences, since October 2019. He is also a visiting professor at the Graduate School of Simulation Studies, University of Hyogo since April 2020. He is particularly known for his study of shear thickening, a phenomenon in which a fluid becomes more viscous at higher stresses. His work is highly cited and has had a tremendous impact on the field, with one paper winning the 2015 Publication Award of The Society of Rheology, and he has given invited talks at many international conferences and workshops.
