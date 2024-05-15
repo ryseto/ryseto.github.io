@@ -6,17 +6,16 @@ permalink: /Members/
 
 |[![Seto](/assets/img/Seto2.png)](/profile/)| [Ryohei SETO 濑户亮平](/profile/) <br> PI Researcher (Professor) <br> [seto@wiucas.ac.cn](mailto:seto@wiucas.ac.cn) |
 |[![Zhiwei](/assets/img/Zhiwei.jpeg)](https://www.researchgate.net/profile/Zhiwei-Liu-49)| [Zhiwei LIU 刘志伟](https://www.researchgate.net/profile/Zhiwei-Liu-49) <br> Assistant Researcher  <br> [zhiweiliu@ucas.ac.cn](mailto:zhiweiliu@ucas.ac.cn) |
-|![Yujie](/assets/img/Yujie.jpeg)  | [Yujie JIANG 蒋玉杰](https://scholar.google.com/citations?user=8d1fMNwAAAAJ) <br> Postdoc <br> [jiangyujie@ucas.ac.cn](mailto:jiangyujie@ucas.ac.cn)|
 |[![Zhongqiang](/assets/img/Zhongqiang.jpeg)](https://www.researchgate.net/profile/Zhongqiang-Xiong) | [Zhongqiang XIONG 熊钟强](https://www.researchgate.net/profile/Zhongqiang-Xiong) <br> Postdoc <br> [zhongqiangxiong@ucas.ac.cn](mailto:zhongqiangxiong@ucas.ac.cn) |
 |[![Boyi](/assets/img/Boyi.jpeg)](https://www.researchgate.net/profile/Boyi-Wang-4) | [Boyi WANG](https://www.researchgate.net/profile/Boyi-Wang-4) <br> Ph. D student <br> Institute of Physics, CAS |
-| | 袁翔 <br> Undergraduate Student  <br> Wenzhou Medical University |
-| | 杨岚 <br> Undergraduate Student <br> Wenzhou Medical University |
+
 
 ### Group Alumni
 
-|[![Yankai Li](/assets/img/Yankai.jpeg)](https://scholar.google.com/citations?user=zYSDLm4AAAAJ&hl=en) | [Yankai LI 李彦凯<br> Visiting Fellow, University of Edinburgh](https://scholar.google.com/citations?user=zYSDLm4AAAAJ&hl=en)  <br> [(Ness group)](https://christopherjness.github.io/group.html) |
-|![Yang](/assets/img/YangCui.jpeg) | Yang CUI 崔阳<br> Visiting Fellow, University of Edinburgh|
-|[![Zhiyuan](/assets/img/Zhiyuan.jpeg)](https://www.researchgate.net/profile/Zhiyuan_Zhao11)| [Zhiyuan ZHAO 赵志远](https://scholar.google.com/citations?hl=fr&user=e4Z56nQAAAAJ&view_op=list_works&sortby=pubdate) <br> Postdoc (2020--2022) <br> Associate Researcher, Doi group (2022--) |
+|![Yujie](/assets/img/Yujie.jpeg)  | [Yujie JIANG 蒋玉杰](https://scholar.google.com/citations?user=8d1fMNwAAAAJ) <br> Postdoc (2022--2024) <br> Current position: <br> Lecturer at School of Mathematics and Physics, University of Science and Technology Beijing (USTB) |
+|[![Yankai Li](/assets/img/Yankai.jpeg)](https://scholar.google.com/citations?user=zYSDLm4AAAAJ&hl=en) | [Yankai LI 李彦凯<br> Visiting Fellow, University of Edinburgh](https://scholar.google.com/citations?user=zYSDLm4AAAAJ&hl=en) <br> Current position: <br> ...    |
+|![Yang](/assets/img/YangCui.jpeg) | Yang CUI 崔阳 <br> Visiting Fellow, University of Edinburgh <br> Current position: <br> ... |
+|[![Zhiyuan](/assets/img/Zhiyuan.jpeg)](https://www.researchgate.net/profile/Zhiyuan_Zhao11)| [Zhiyuan ZHAO 赵志远](https://scholar.google.com/citations?hl=fr&user=e4Z56nQAAAAJ&view_op=list_works&sortby=pubdate) <br> Postdoc (2020--2022) <br> Current position: <br> Associate Researcher, Doi group |
 
 
 ### Collaborators
