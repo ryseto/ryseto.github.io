@@ -36,7 +36,9 @@ url: "https://ryseto.github.io" # the base hostname & protocol for your site, e.
 # theme: minima
 
 #theme: bulma-clean-theme
-remote_theme: chrisrhymes/bulma-clean-theme
+#remote_theme: chrisrhymes/bulma-clean-theme
+#remote_theme: chrisrhymes/bulma-clean-theme@v1.0.0
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 
 plugins:
   - jekyll-feed
@@ -58,3 +60,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
