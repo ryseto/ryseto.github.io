@@ -12,7 +12,7 @@ permalink: /Members/
 
 ### Group Alumni
 
-|![Yujie](/assets/img/Yujie.jpeg)  | [Yujie JIANG 蒋玉杰](https://scholar.google.com/citations?user=8d1fMNwAAAAJ) <br> Postdoc (2022--2024) <br> Current position: <br> Lecturer at School of Mathematics and Physics, University of Science and Technology Beijing (USTB) |
+|![Yujie](/assets/img/Yujie.jpeg)  | [Yujie JIANG 蒋玉杰](https://scholar.google.com/citations?user=8d1fMNwAAAAJ) <br> Postdoc (2022--2024) <br> Current position: <br> Lecturer at School of Mathematics and Physics, University of Science and Technology Beijing <br> (讲师 数理学院，北京科技大学)|
 |[![Yankai Li](/assets/img/Yankai.jpeg)](https://scholar.google.com/citations?user=zYSDLm4AAAAJ&hl=en) | [Yankai LI 李彦凯<br> Visiting Fellow (2023), University of Edinburgh](https://scholar.google.com/citations?user=zYSDLm4AAAAJ&hl=en) <br> Current position: <br> ...    |
 |![Yang](/assets/img/YangCui.jpeg) | Yang CUI 崔阳 <br> Visiting Fellow (2023), University of Edinburgh <br> Current position: <br> senior simulation engineer, CATL (高级仿真工程师, 宁德时代) |
 |[![Zhiyuan](/assets/img/Zhiyuan.jpeg)](https://www.researchgate.net/profile/Zhiyuan_Zhao11)| [Zhiyuan ZHAO 赵志远](https://scholar.google.com/citations?hl=fr&user=e4Z56nQAAAAJ&view_op=list_works&sortby=pubdate) <br> Postdoc (2020--2022) <br> Current position: <br> Associate Researcher, Doi group at Wenzhou Institute UCAS|
