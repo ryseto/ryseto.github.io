@@ -17,6 +17,7 @@ Welcome to the Rheophysics of Soft Matter group at [Wenzhou Institute, Universit
 
 
 #### News
+- 2024.5 [**Our semiflexible rod rheology paper has been published by Macromolecules.**](https://doi.org/10.1021/acs.macromol.4c00532)
 - 2024.4 Joint Research and Exchange Arrangement between [**Laboratoire Interdisciplinaire de Physique (Université Grenoble Alpes & CNRS)**](https://liphy.univ-grenoble-alpes.fr/en) and WIUCAS.
 - 2024.3 [**SPH simulation work with a DST model was published as Featured Articles in Physics of Fluids**](https://doi.org/10.1063/5.0188444)
 - 2024.2 [**Our work on a ridge instability was published in Physics of Fluids and featured in Editors' Picks.**](https://pubs.aip.org/aip/pof/article/36/2/024111/3262480/Ridge-instability-in-dense-suspensions-caused-by?searchresult=1)
