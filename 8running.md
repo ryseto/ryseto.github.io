@@ -6,7 +6,8 @@ permalink: /running/
 
 ### Running log
 
-- This year 
+- This year
+   - May  --- 113km
    - Apr. --- 94km
    - Mar. --- 129km
    - Feb. --- 102km
