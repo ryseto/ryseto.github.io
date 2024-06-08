@@ -6,7 +6,7 @@ layout: page
 ---
 
 
-[**### One postdoctoral position avaiable###**](6joinus.md)
+[**Open postdoctoral positions**](6joinus.md)
 
 Welcome to the Rheophysics of Soft Matter group at [Wenzhou Institute, University of Chinese Academy of Sciences](https://wiucas.ac.cn/en/)
 
