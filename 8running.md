@@ -6,7 +6,7 @@ permalink: /running/
 
 ### Running log
 
-- This year 701km(J:122km; F:102km; M:129km; A:94km; M:113km, J:143km)
+- [2024 in progress] **701km** (J:122km; F:102km; M:129km; A:94km; M:113km, J:143km)
 - Total distance from 2011 to last year --- 15838.7 km   
 - 2023 --- 715km
 - 2022 --- 774km      
