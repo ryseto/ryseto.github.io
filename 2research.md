@@ -66,12 +66,12 @@ Computational rheology to investigate aging effects of composite materials
 - NSFC 面上项目 12174390 [2022--2025] \\
 New simulation scheme for migration and clogging of dense suspensions in channel flow
 
-**Yujie JIANG 蒋玉杰**
-- 博士后面上基金 2022M723114  [2022--2023]\\
-掺杂颗粒凝胶的动力学研究 (Gelation dynamics in gel-granular composites)
-
 **Zhongqiang XIONG 熊钟强**
 - NSFC 理论物理专款研究项目 (National Natural Science Foundation of China for Theoretical Physics research project) 12247174 [2022--2023] \\
 填充高分子流变本构模型 (Rheological Constitutive Models for Particles Filled Polymer)
 - NSFC 青年科学基金 (National Natural Science Foundation of China Youth Science Fund) [2024--2027] \\
 滑环高分子耦合滑动动力学模型
+
+**Yujie JIANG 蒋玉杰**
+- 博士后面上基金 2022M723114  [2022--2023]\\
+掺杂颗粒凝胶的动力学研究 (Gelation dynamics in gel-granular composites)
