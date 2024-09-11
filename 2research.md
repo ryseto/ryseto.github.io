@@ -69,7 +69,7 @@ New simulation scheme for migration and clogging of dense suspensions in channel
 **Zhongqiang XIONG 熊钟强**
 - NSFC 理论物理专款研究项目 (National Natural Science Foundation of China for Theoretical Physics research project) 12247174 [2022--2023] \\
 填充高分子流变本构模型 (Rheological Constitutive Models for Particles Filled Polymer)
-- NSFC 青年科学基金 (National Natural Science Foundation of China Youth Science Fund) [2024--2027] \\
+- NSFC 青年科学基金 (National Natural Science Foundation of China Youth Science Fund), 22403021 [2025--2027] \\
 滑环高分子耦合滑动动力学模型
 
 **Yujie JIANG 蒋玉杰**
