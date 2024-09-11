@@ -6,7 +6,6 @@ permalink: /talks/
 
 ### Invited Talks and Keynotes at International Meetings
 
-
 1. Invited "Constitutive modeling of dense suspensions", [Frontiers in Non-equilibrium Physics 2024, Kyoto, Japan, July 1st--August 2nd, 2024.](https://www2.yukawa.kyoto-u.ac.jp/~frontier24/)
 
 1. Invited "On constitutive models of dense particle suspensions", International Symposium on Soft Matter Science and Engineering, Guanzhou, June 15--18, 2024
@@ -21,9 +20,6 @@ permalink: /talks/
 
 1. [Invited "Shear jamming and rheology of dense suspensions," IUTAM Symposium on Dynamics of Complex Fluids and Interfaces, IIT Kanpur, India, December 2018](http://www.iitk.ac.in/iutam/speaker.html)
 
-1. Invited "Simulation method of dense suspensions—Overdamped discrete element method with hydrodynamic lubrication," 2018 International Symposium on Multiple Scale Modelling of Complex Fluids---Fundamental Challenge and Industrial Applications Guangzhou University, Guangzhou, China, September 2018
-
-1. Invited "Shear Thickening suspensions in a wide gap Couette cell," 2018 International Symposium on Multiple Scale Modelling of Complex Fluids---Fundamental Challenge and Industrial Applications Guangzhou University, Guangzhou, China, September 2018
 
 1. Invited "Simulation method of dense suspensions—Overdamped discrete element method with hydrodynamic lubrication," 2018 International Symposium on Multiple Scale Modelling of Complex Fluids---Fundamental Challenge and Industrial Applications Guangzhou University, Guangzhou, China, September 2018
 
@@ -120,6 +116,9 @@ MinJiang University, Fuzhou, China, March 24, 2021.
 
 1. [Invited "Emergence of rigidity in suspension fluid mechanics," CoMFoS19:Mathematical Aspects of Continuum Mechanics, Kanazawa, Japan, July 2019](https://sites.google.com/view/comfos19/)
 
+1. Invited "Simulation method of dense suspensions—Overdamped discrete element method with hydrodynamic lubrication," 2018 International Symposium on Multiple Scale Modelling of Complex Fluids---Fundamental Challenge and Industrial Applications Guangzhou University, Guangzhou, China, September 2018
+
+1. Invited "Shear Thickening suspensions in a wide gap Couette cell," 2018 International Symposium on Multiple Scale Modelling of Complex Fluids---Fundamental Challenge and Industrial Applications Guangzhou University, Guangzhou, China, September 2018
 
 1. [Invited: "Anisotropy of sheared dense suspensions: normal stress differences and microstructure," Rheology of disordered particles—suspensions, glassy and granular materials, Kyoto University, Japan, June 2018](https://www2.yukawa.kyoto-u.ac.jp/~jam2018/)
 
