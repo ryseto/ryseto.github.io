@@ -5,6 +5,11 @@ permalink: /talks/
 ---
 
 ### Keynote/Symposium/Invited presentations
+1. Invited "On fluid mechanics of dense suspensions", M3Rheo2024 国际研讨会, Hangzhou, Aug. 31--Sept 1, 2024
+
+1. Invited "Constitutive modeling of dense suspensions", [Frontiers in Non-equilibrium Physics 2024, Kyoto, July 1st — August 2nd, 2024.](https://www2.yukawa.kyoto-u.ac.jp/~frontier24/)
+
+1. Invited "On constitutive models of dense particle suspensions", International Symposium on Soft Matter Science and Engineering, Guanzhou, June 15--18, 2024
 
 1. Invited "A simulation scheme for dense suspension flows with locally
 averaged equations of motion", [十五届复杂流体流变学学术研讨会暨流变学讲习班 (The 15th Complex Fluid Rheology Symposium and Rheology Workshop), Guangzhou, China, Dec. 6--11, 2023](https://rheology2023.scimeeting.cn/cn/web/index/19983_)
