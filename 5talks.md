@@ -6,29 +6,24 @@ permalink: /talks/
 
 ### Invited Talks and Keynotes at International Meetings
 
-1. "Constitutive modeling of dense suspensions", [Frontiers in Non-equilibrium Physics 2024, Kyoto, Japan, July 1st--August 2nd, 2024.](https://www2.yukawa.kyoto-u.ac.jp/~frontier24/)
+1. "Constitutive modeling of dense suspensions", [Frontiers in Non-equilibrium Physics 2024, Kyoto, Japan, Jul. 1--Aug. 2, 2024.](https://www2.yukawa.kyoto-u.ac.jp/~frontier24/)
 
-1. "On constitutive models of dense particle suspensions", International Symposium on Soft Matter Science and Engineering, Guanzhou, June 15--18, 2024
+1. "On constitutive models of dense particle suspensions", International Symposium on Soft Matter Science and Engineering, Guanzhou, Jun. 15--18, 2024
 
-1. "Normal stress and migration in pressure driven Àow of dense suspensions," [The 9th International Discussion Meeting on Relaxations in Complex Systems, Makuhari, Chiba, Japan, Aug. 12--18](https://9idmrcs.jp)
+1. "Normal stress and migration in pressure driven Àow of dense suspensions," [The 9th International Discussion Meeting on Relaxations in Complex Systems, Makuhari, Chiba, Japan, Aug. 12--18, 2023](https://9idmrcs.jp)
 
-1. "Pressure-driven flows of frictional dense suspensions: migration, jammed plug, and diffusion", [EUROMECH Colloquium 622 "Suspension flows and rheology: inertia, shape and roughness matter", Chateau Valrose, Nice, France, June 26--30, 2023](https://622.euromech.org)
+1. "Pressure-driven flows of frictional dense suspensions: migration, jammed plug, and diffusion", [EUROMECH Colloquium 622 "Suspension flows and rheology: inertia, shape and roughness matter", Chateau Valrose, Nice, France, Jun. 26--30, 2023](https://622.euromech.org)
 
-1. ["The physics and fluid mechanics of dense suspensions," 2020 International Workshop on "Soft Matter and Biophysics Theories"](https://indico.itp.ac.cn/event/35/overview), Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing, China, 5th Nov 2020
+1. ["The physics and fluid mechanics of dense suspensions," 2020 International Workshop on "Soft Matter and Biophysics Theories"](https://indico.itp.ac.cn/event/35/overview), Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing, China, Nov. 5, 2020
 
-1. ["Pressure-driven flow and jamming of dense suspensions in channels," Virtual Symposium on "Physics of Dense Suspensions", Boston, USA, July 2020](https://pdssymposium.sites.northeastern.edu) **Online Talk**
+1. ["Pressure-driven flow and jamming of dense suspensions in channels," Virtual Symposium on "Physics of Dense Suspensions", Boston, USA, Jul. 2020](https://pdssymposium.sites.northeastern.edu) **Online Talk**
 
-1. ["Shear jamming and rheology of dense suspensions," IUTAM Symposium on Dynamics of Complex Fluids and Interfaces, IIT Kanpur, India, December 2018](http://www.iitk.ac.in/iutam/speaker.html)
-
-
-1. "Simulation method of dense suspensions—Overdamped discrete element method with hydrodynamic lubrication," 2018 International Symposium on Multiple Scale Modelling of Complex Fluids---Fundamental Challenge and Industrial Applications Guangzhou University, Guangzhou, China, September 2018
-
-1. "Extensional and shear flow material functions of dense suspensions---microstructure, particle pressure, and N1," 
-**KITP Program: Physics of Dense Suspensions**, University of California, Santa Barbara, USA 2018,
+1. ["Shear jamming and rheology of dense suspensions," IUTAM Symposium on Dynamics of Complex Fluids and Interfaces, IIT Kanpur, India, Dec. 2018](http://www.iitk.ac.in/iutam/speaker.html)
 
 
-1. ["Constitutive characterization of concentrated particle suspensions," IUTAM/AMERIMECH SYMPOSIUM Computational Mechanics of Particle-Functionalized Fluid and Solid Materials for Additive Manufacturing and 3D Printing Processes, UC Berkeley, May 2017](http://iutam-amerimech-manufacturing-symposium.berkeley.edu)
+1. "Extensional and shear flow material functions of dense suspensions---microstructure, particle pressure, and N1," **KITP Program: Physics of Dense Suspensions**, University of California, Santa Barbara, USA, Feb. 2018
 
+1. ["Constitutive characterization of concentrated particle suspensions," IUTAM/AMERIMECH SYMPOSIUM Computational Mechanics of Particle-Functionalized Fluid and Solid Materials for Additive Manufacturing and 3D Printing Processes, UC Berkeley, USA, May 2017](http://iutam-amerimech-manufacturing-symposium.berkeley.edu)
 
 1. [**Keynote** "How do Discontinuous Shear Thickening Suspensions Flow in a Wide Gap Couette Cell?,"
 **International Congress on Rheology**, Kyoto, August 2016](http://icr2016.com)
