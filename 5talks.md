@@ -4,40 +4,20 @@ title: Talks
 permalink: /talks/
 ---
 
-### Keynote/Symposium/Invited presentations
-1. Invited "On fluid mechanics of dense suspensions", M3Rheo2024 国际研讨会, Hangzhou, Aug. 31--Sept 1, 2024
+### Invited Talks and Keynotes at International Meetings
 
-1. Invited "Constitutive modeling of dense suspensions", [Frontiers in Non-equilibrium Physics 2024, Kyoto, July 1st — August 2nd, 2024.](https://www2.yukawa.kyoto-u.ac.jp/~frontier24/)
+
+1. Invited "Constitutive modeling of dense suspensions", [Frontiers in Non-equilibrium Physics 2024, Kyoto, Japan, July 1st--August 2nd, 2024.](https://www2.yukawa.kyoto-u.ac.jp/~frontier24/)
 
 1. Invited "On constitutive models of dense particle suspensions", International Symposium on Soft Matter Science and Engineering, Guanzhou, June 15--18, 2024
-
-1. Invited "A simulation scheme for dense suspension flows with locally
-averaged equations of motion", [十五届复杂流体流变学学术研讨会暨流变学讲习班 (The 15th Complex Fluid Rheology Symposium and Rheology Workshop), Guangzhou, China, Dec. 6--11, 2023](https://rheology2023.scimeeting.cn/cn/web/index/19983_)
-
-1. Short course lecture "Rheology of Suspensions," [十五届复杂流体流变学学术研讨会暨流变学讲习班 (The 15th Complex Fluid Rheology Symposium and Rheology Workshop), Guangzhou, China, Dec. 6--11, 2023](https://rheology2023.scimeeting.cn/cn/web/index/19983_)
-
-1. Invited "A simulation scheme for dense suspension flows---LF-DEM with   unresolved CFD," [The Xiamen Soft Matter Forum 2023, Xiamen, Oct. 20--23, 2023.](https://rwz.xmu.edu.cn/smnep/index.htm)
 
 1. Invited "Normal stress and migration in pressure driven Àow of dense suspensions," [The 9th International Discussion Meeting on Relaxations in Complex Systems, Makuhari, Chiba, Japan, Aug. 12--18](https://9idmrcs.jp)
 
 1. Invited "Pressure-driven flows of frictional dense suspensions: migration, jammed plug, and diffusion", [EUROMECH Colloquium 622 "Suspension flows and rheology: inertia, shape and roughness matter", Chateau Valrose, Nice, France, June 26--30, 2023](https://622.euromech.org)
 
-1. Invited "Migration in inhomogeneous flow of dense suspensions," 2023 Symposium on Theoretical Calculation and Simulation of Soft Matter, Chinese Chemical Society, Changchun, April 14--17, 2023.
+1. [Invited "The physics and fluid mechanics of dense suspensions," 2020 International Workshop on "Soft Matter and Biophysics Theories"](https://indico.itp.ac.cn/event/35/overview), Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing, China, 5th Nov 2020
 
-1. Invited "濃厚懸濁液の非一様流動", [第1回ソフトマテリアル工学シミュレーション討論会(Soft Materials Engineering thru Computer Simulations), Kobe, Japan, March 9--10, 2023](https://www.arai.mech.keio.ac.jp/smecs/)
-
-1. Invited "Flow and pressure of dense suspensions in pipes," 第十二届软物质与生命物质物理学术会, Wenzhou, October 28--31, 2022.
-
-1. Invited "Dense suspension flows in channels," 2021 International Workshop on Soft Matter and Biophysics Theories–Youth Forum,
-MinJiang University, Fuzhou City, March 24, 2021.
-
-1. Invited "濃厚懸濁液のレオロジーと流路内の流動", 第16回希薄溶液の流動学講演会 第23回複雑流体研究会, Japan, Nov 20, 2020
-
-1. [Invited "The physics and fluid mechanics of dense suspensions," 2020 International Workshop on “Soft Matter and Biophysics Theories”](https://indico.itp.ac.cn/event/35/overview), Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing, 5th Nov 2020
-
-1. [Invited "Pressure-driven flow and jamming of dense suspensions in channels," Virtual Symposium on "Physics of Dense Suspensions", July 2020](https://pdssymposium.sites.northeastern.edu)
-
-1. [Invited "Emergence of rigidity in suspension fluid mechanics," CoMFoS19:Mathematical Aspects of Continuum Mechanics, Kanazawa, Japan, July 2019](https://sites.google.com/view/comfos19/)
+1. [Invited "Pressure-driven flow and jamming of dense suspensions in channels," Virtual Symposium on "Physics of Dense Suspensions", Boston, USA, July 2020](https://pdssymposium.sites.northeastern.edu) **Online Talk**
 
 1. [Invited "Shear jamming and rheology of dense suspensions," IUTAM Symposium on Dynamics of Complex Fluids and Interfaces, IIT Kanpur, India, December 2018](http://www.iitk.ac.in/iutam/speaker.html)
 
@@ -45,11 +25,103 @@ MinJiang University, Fuzhou City, March 24, 2021.
 
 1. Invited "Shear Thickening suspensions in a wide gap Couette cell," 2018 International Symposium on Multiple Scale Modelling of Complex Fluids---Fundamental Challenge and Industrial Applications Guangzhou University, Guangzhou, China, September 2018
 
-1. [Invited: "Anisotropy of sheared dense suspensions: normal stress differences and microstructure," Rheology of disordered particles—suspensions, glassy and granular materials, Kyoto University, Japan, June 2018](https://www2.yukawa.kyoto-u.ac.jp/~jam2018/)
+1. Invited "Simulation method of dense suspensions—Overdamped discrete element method with hydrodynamic lubrication," 2018 International Symposium on Multiple Scale Modelling of Complex Fluids---Fundamental Challenge and Industrial Applications Guangzhou University, Guangzhou, China, September 2018
 
-1. [Invited "Extensional and shear flow material functions of dense suspensions---microstructure, particle pressure, and N1," KITP Program: Physics of Dense Suspensions, University of California, Santa Barbara, February 2018](http://online.kitp.ucsb.edu/online/suspensions18/seto/)
+1. Invited "Extensional and shear flow material functions of dense suspensions---microstructure, particle pressure, and N1," 
+**KITP Program: Physics of Dense Suspensions**, University of California, Santa Barbara, USA 2018,
+
 
 1. [Invited "Constitutive characterization of concentrated particle suspensions," IUTAM/AMERIMECH SYMPOSIUM Computational Mechanics of Particle-Functionalized Fluid and Solid Materials for Additive Manufacturing and 3D Printing Processes, UC Berkeley, May 2017](http://iutam-amerimech-manufacturing-symposium.berkeley.edu)
+
+
+1. [**Keynote** "How do Discontinuous Shear Thickening Suspensions Flow in a Wide Gap Couette Cell?,"
+**International Congress on Rheology**, Kyoto, August 2016](http://icr2016.com)
+
+1. Invited "Shear thickening: SD-DEM model for dense suspensions," WCCM--APCOM 2016 Congress, Soul, South Korea, July 2016
+
+1. Symposium "Granular contacts in colloidal suspensions," Engineering Mechanics Institute Conference 2015, Dr. Masao Satake Memorial Symposium on Granular Mechanics, Stanford, USA, June 2015
+
+
+1. **Keynote** "Particle-scale modeling of colloidal suspension rheology," **Australasian Colloid and Interface**, Hobart, Tasmania, February 2015
+
+
+### Contributed Talks at International Meetings
+
+1. R. Seto, Z. Zhao, J. Morris, M. Doi, "Migration and diffusion in pressure-driven flow of dense suspensions," [International Congress on Rheology, Athens, Greece, July 29--Aug 4, 2023](http://icr2023.com)
+
+1. R. Seto, Z. Zhao, J. Morris, M. Doi, "Pressure-driven flows of dense particle-liquid mixtures: a Stokesian DEM-CFD approach," 2022 JSME-II/ASME-ISPS Joint Confrence on Micromechatronics for Information and Precision Equipment (MIPE2022), Nagoya, August 28-31(31), 2022 **Online Talk**
+
+1. R. Seto, M. Doi "Migration in dense suspension flowsm," the Annual European Rheology Conference, Norway, April 14, 2021 **Online Talk**
+
+1. R. Seto, M. Doi, "Migration and jamming in pressure-driven flow of dense non-Brownian suspensions," International Congress on Rheology, Brazil, Dec 17, 2020 **Online Talk**
+
+1. G. Giusteri, R. Seto, "Shear jamming and fragility in a continuum model with unilateral constraints," the International Congress on Rheology, Brazil, Dec 17, 2020 **Online Talk**
+
+1. Z. Zhao, R. Seto, "Computational Predictions of Magnetorheology and Magnetization Dynamics of Frictional Magnetic Nanoparticle Suspension," the International Congress on Rheology, Brazil, Dec 14, 2020 **Online Talk**
+
+1. "Macroscopic flows of dense suspensions in wide-gap Couette cells---Migration and Shear Thickening," The 7th Pacific Rim Conference on Rheology, Jefu, Korea, June 2018 
+
+1. "Extensional versus shear rheologies for dense suspensions," Annual European Rheology Conference 2018, Sorrento, Italy, April 2018
+
+1. "A theoretical framework for steady-state rheometry in generic flow conditions," The Society of Rheology 89th Annual Meeting, Denver, USA, October 2017
+
+1. "Non-Newtonian fluid behavior of dense suspensions in simple shear and extensional flows," The Society of Rheology 89th Annual Meeting, Denver, USA, October 2017
+
+1. "Beyond friction: cohesion and interlocking in shear thickening of suspensions," Arrested Gels: Dynamics, Structure and Applications, Cambridge, UK, March 2015.
+
+1. "Particle-scale simulation of shear thickening in dense colloidal suspensions," Society of Rheology meeting, Philadelphia, Pennsylvania, USA, October 2014.
+
+1. "Dense suspension modeling and discontinuous shear thickening," 6th Pacific Rim Conference on Rheology, Melbourne, Australia, July 2014.
+
+1. "Shear thickening and friction in Brownian suspensions," 2nd Northeast Complex Fluids and Soft Matter Workshop, New York, USA, June 2014.
+
+1. "Discontinuous shear thickening as a dynamic jamming transition of frictional particles," GDR CNRS AMC2 Approches Multiphysiques pour les Colloïdes Concentrés, Séte, France, October 2013.
+
+1. "Discontinuous shear thickening—fluid dynamics or granular physics?," ASME Summer Meeting}, Brown University, USA, July 2013.
+
+1. "Compressive consolidation of strongly aggregated colloidal gels," Suspension Processing & Suspension Engineering Rheology, Cambridge, UK, September 2012.
+
+1. "Modeling of colloidal gels: rheology and contact forces," The 2nd Suspension Engineering Rheology workshop, Melbourne, Australia, November 2011.
+
+1. "Modeling of colloidal gels: rheology and contact forces," GDR CNRS AMC2 Approches Multiphysiques pour les Colloïdes Concentrés, Toulouse, France, October 2011.
+
+1. "Hydrodynamic stresses in colloidal aggregates under shear flow," UK Colloids, London, UK, July 2011.
+
+1. "Restructuring of colloidal aggregates in shear flow: Contact model and Stokesian Dynamics," GDR CNRS AMC2 Approches Multiphysiques pour les Colloïdes Concentrés, Annecy, France, December 2010.
+
+1. "Compaction of colloidal aggregates: modeling and simulation," Journées scientifiques du GDR 2980, Sorreze, France, July 2009.
+
+1. "Understanding the plastic deformation under uniform compression in 2D system," Journées scientifiques du GDR 2980, Carry le Rouet, France, June 2008.
+
+
+
+### Invited Talks at Domestic Meetings
+
+1. Invited "On fluid mechanics of dense suspensions", M3Rheo2024 国际研讨会, Hangzhou, China, Aug. 31--Sept 1, 2024
+
+1. Invited "A simulation scheme for dense suspension flows with locally
+averaged equations of motion", [十五届复杂流体流变学学术研讨会暨流变学讲习班 (The 15th Complex Fluid Rheology Symposium and Rheology Workshop), Guangzhou, China, Dec. 6--11, 2023](https://rheology2023.scimeeting.cn/cn/web/index/19983_)
+
+1. Short course lecture "Rheology of Suspensions," [十五届复杂流体流变学学术研讨会暨流变学讲习班 (The 15th Complex Fluid Rheology Symposium and Rheology Workshop), Guangzhou, China, Dec. 6--11, 2023](https://rheology2023.scimeeting.cn/cn/web/index/19983_)
+
+1. Invited "A simulation scheme for dense suspension flows---LF-DEM with unresolved CFD," [The Xiamen Soft Matter Forum 2023, Xiamen, China, Oct. 20--23, 2023.](https://rwz.xmu.edu.cn/smnep/index.htm)
+
+1. Invited "Migration in inhomogeneous flow of dense suspensions," 2023 Symposium on Theoretical Calculation and Simulation of Soft Matter, Chinese Chemical Society, Changchun, China, April 14--17, 2023.
+
+1. Invited "濃厚懸濁液の非一様流動", [第1回ソフトマテリアル工学シミュレーション討論会(Soft Materials Engineering thru Computer Simulations), Kobe, Japan, March 9--10, 2023](https://www.arai.mech.keio.ac.jp/smecs/)
+
+1. Invited "Flow and pressure of dense suspensions in pipes," 第十二届软物质与生命物质物理学术会, Wenzhou, China, October 28--31, 2022.
+
+1. Invited "Dense suspension flows in channels," 2021 International Workshop on Soft Matter and Biophysics Theories–Youth Forum,
+MinJiang University, Fuzhou, China, March 24, 2021.
+
+1. Invited "濃厚懸濁液のレオロジーと流路内の流動", 第16回希薄溶液の流動学講演会 第23回複雑流体研究会, Kobe, Japan, Nov 20, 2020 **Online Talk**
+
+
+1. [Invited "Emergence of rigidity in suspension fluid mechanics," CoMFoS19:Mathematical Aspects of Continuum Mechanics, Kanazawa, Japan, July 2019](https://sites.google.com/view/comfos19/)
+
+
+1. [Invited: "Anisotropy of sheared dense suspensions: normal stress differences and microstructure," Rheology of disordered particles—suspensions, glassy and granular materials, Kyoto University, Japan, June 2018](https://www2.yukawa.kyoto-u.ac.jp/~jam2018/)
 
 1. [Invited "Thickening in extensional flow–Toward non-Newtonian fluid model for dense suspensions," Non-Gaussian fluctuation and Rheology of Jammed Matter, Kyoto, March 2017](https://www2.yukawa.kyoto-u.ac.jp/~jam/index.php)
 
@@ -59,20 +131,69 @@ MinJiang University, Fuzhou City, March 24, 2021.
 
 1. [Invited "Nonuniform flow of shear thickening suspensions in widegap rotary Couette geometry," CoMFoS16: Mathematical Analysis of Continuum Mechanics and Industrial Applications II, Fukuoka, October 2016](https://sites.google.com/site/comfos16/)
 
-1. [Keynote "How do Discontinuous Shear Thickening Suspensions Flow in a Wide Gap Couette Cell?,"
-The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016](http://icr2016.com)
-
-1. Invited "Shear thickening: SD-DEM model for dense suspensions," WCCM – APCOM 2016 Congress, July 2016
 
 1. Symposium "Flow of shear thickening suspensions," The Physical Society of Japan, Division 11, 6, 12 Symposium, Dynamics of Plastic Solids: Nonlinear response, avalanche, and rheology, Osaka, September 2015
 
 1. Invited "Shear thickening of colloidal dispersions," University of Tokyo ISSP Workshop, Glass transition and related science, Chiba, July 2015
 
-1. Symposium "Granular contacts in colloidal suspensions," Engineering Mechanics Institute Conference 2015, Dr. Masao Satake Memorial Symposium on Granular Mechanics, Stanford, June 2015
-
-1. Keynote "Particle-scale modeling of colloidal suspension rheology," Australasian Colloid and Interface 2015, Hobart, Tasmania, February 2015
-
 1. Invited "S-shaped rheology curves of shear thickening suspension," Soft Matter Workshop, Nagoya, January 2015
+
+
+### Contributed Talks at Domestic Meetings
+
+1. R. Seto, "Simulation model to combine locally-averaged flow field and colloidal dynamics," [11th Soft Matter Workshop, Tokyo, Dec 18--20, 2023](https://softmatter.xsrv.jp/event/meeting11.html)
+
+1. R. Seto, "Migration and jamming in pressure-driven dense suspension flows", CoMFoS22 Mathematical Aspects of Continuum Mechanics 2022 December 6-7, 2022
+
+1. R. Seto, "Odd viscosity of chiral suspensions," 2022 Frontier Workshop of Centre for Theoretical Interdisciplinary Sciences, Wenzhou, July 11-13(12), 2022
+
+1. Z. Zhao, J. Morris, M. Doi, R. Seto, "Jamming and migration in channel flows of dense suspensions," Complex fluid and rheology workshop (Chinese Society of Chemistry), Songjiang, Shanghai, January 8, 2022
+
+1. Z. Zhao, J. Morris, M. Doi, R. Seto, "Jamming and migration in channel flows of dense suspensions," Xiamen Soft Matter Forum 2021, Xiamen, December 13, 2021
+
+1. Z. Zhao, B. Wang, S. Komura, M. Yang, F. Ye, R. Seto, "Emergent Stripes of Active Rotors in Shear Flows", Annual meeting of The Physical Society of Japan, September 23, 2021 **Online Talk**
+
+1. [R. Seto, M. Doi, "Jamming in pressure-driven flows," ISSP workshop: Frontier research on glasses and related complex systems](https://yamamuro.issp.u-tokyo.ac.jp/glass2021/index.html), Kashiwa, Japan, May 11, 2021 **Online Talk**
+
+1. R. Seto, M. Doi "Toward a fluid mechanics simulation of dense suspensions," International Workshop on Machine Learning for Soft Matter," International Workshop on Machine Learning for Soft Matter 2021, Kyoto, Japan, Feburary 10, 2021 **Online Talk**
+
+1. "Flowing and jammed dense suspensions", Annual meeting of The Physical Society of Japan, Kumamoto University, Kumamoto, Japan, September 2020 **Online Talk**
+
+1. "Channel flows of colloidal suspensions with a Lubrication DEM-CFD method,"
+   Annual meeting of The Physical Society of Japan, Nagoya University, 
+   Nagoya, Japan, March 2020. cancelled to due COVID19
+
+1. "Migration and jamming in pressure-driven flow of dense non-Brownian suspensions,"
+Grand Views of Soft and Liquid Matter Physics, Tokyo, Japan, March 2020.
+   cancelled to due COVID19 
+
+1. "Channel-flow clogging of colloidal suspensions", 33th Molecular Simulation Discussion Meeting, Nagoya, Japan, December 11, 2019.
+
+1. "Normal stress differences in dense suspensions," Annual Meeting of the Japanese Society of Rheolgy, Fukuoka, Japan, October 2018 
+
+1. "On normal stress differences of dense suspensions," Annual meeting of The Physical Society of Japan, Doshisha University, Tanabe, Japan, September 2018.
+
+1. "Introduction of the General Rheology functions via stress decompositions with orthogonal tensor basis," Tottori Nonlinear Workshop, Tottori, Japan, December 2017
+
+1. "Extensional rheology of colloidal dispersions," Meeting of The Molecular Simulation Society of Japan, Kanajawa, Japan, October 2017
+
+1. "Toward fluid-mechanical approach for shear thickening dense suspensions," Annual Meeting of the Japanese Society of Rheolgy, Niigata, Japan, October 2017
+
+1. "Shear thickening and jamming transition under extensional flows," Annual meeting of The Physical Society of Japan, Iwate University, Morioka, Japan, September 2016.
+
+1. "Simulation model for dense suspension rheology: Stokesian-DEM," Mini-symposium on Rheology, Kashiwa, Japan, July 2017.
+
+1. "Particle dynamics of crystallization of magnetic colloids," Annual meeting of The Physical Society of Japan, Kanazawa University, Kanazawa, Japan, September 2016.
+
+1. "Grain boundary kinetics during crystallization in magnetic colloid monolayers," New Aspects of Micro- and Macroscopic Flows in Soft Matters, Onna, 
+Japan, August 2016.
+
+1. "Quasistatic Particle Simulations of Crystalization in Colloidal Monolayer Systems," Physically-Based Modeling of Polyatomic Gases and Phase Transitions, Onna, Japan, July 2016.
+
+1. "Magnetic binary colloidal monolayer subject to a cyclic external magnetic field and oscillatory shear," International Symposium on Rheology, Kobe, Japan, September 2015.
+
+
+1. "Does shear thickening go with structural transitions?," Geometric Structure in Anisotropic Materials, Ritsumeikan University, Japan, February 2014.
 
 
 ### Seminars
@@ -148,107 +269,3 @@ The XVIIth International Congress on Rheology (ICR2016), Kyoto, August 2016](htt
 1. "Restructuring of colloidal aggregates---modeling and simulation," Institute for Building Materials, ETH Zurich, Zurich, Switzerland, January 11, 2012.
 
 1. "Modeling of colloidal gels---rheology and contact forces," Saint-Gobain Recherche, Paris, France, September 8, 2011.
-
-### Oral presentations
-
-1. R. Seto, "Simulation model to combine locally-averaged flow field and colloidal dynamics," [11th Soft Matter Workshop, Tokyo, Dec 18--20, 2023](https://softmatter.xsrv.jp/event/meeting11.html)
-
-
-1. R. Seto, Z. Zhao, J. Morris, M. Doi, "Migration and diffusion in pressure-driven flow of dense suspensions," [International Congress on Rheology, Athens, Greece, July 29--Aug 4, 2023](http://icr2023.com)
-
-1. R. Seto, "Migration and jamming in pressure-driven dense suspension flows", CoMFoS22 Mathematical Aspects of Continuum Mechanics 2022 December 6-7, 2022
-
-1. R. Seto, Z. Zhao, J. Morris, M. Doi, "Pressure-driven flows of dense particle-liquid mixtures: a Stokesian DEM-CFD approach," 2022 JSME-II/ASME-ISPS Joint Confrence on Micromechatronics for Information and Precision Equipment (MIPE2022), Nagoya, August 28-31(31), 2022
-
-1. R. Seto, "Odd viscosity of chiral suspensions," 2022 Frontier Workshop of Centre for Theoretical Interdisciplinary Sciences, Wenzhou, July 11-13(12), 2022
-
-1. Z. Zhao, J. Morris, M. Doi, R. Seto, "Jamming and migration in channel flows of dense suspensions," Complex fluid and rheology workshop (Chinese Society of Chemistry), Songjiang, Shanghai, January 8, 2022
-
-1. Z. Zhao, J. Morris, M. Doi, R. Seto, "Jamming and migration in channel flows of dense suspensions," Xiamen Soft Matter Forum 2021, Xiamen, December 13, 2021
-
-1. Z. Zhao, B. Wang, S. Komura, M. Yang, F. Ye, R. Seto, "Emergent Stripes of Active Rotors in Shear Flows", Annual meeting of The Physical Society of Japan, September 23, 2021
-
-1. [R. Seto, M. Doi, "Jamming in pressure-driven flows," ISSP workshop: Frontier research on glasses and related complex systems](https://yamamuro.issp.u-tokyo.ac.jp/glass2021/index.html), May 11, 2021
-
-1. R. Seto, M. Doi "Migration in dense suspension flowsm," the Annual European Rheology Conference, Norway (Online), April 14, 2021
-
-1. R. Seto, M. Doi "Toward a fluid mechanics simulation of dense suspensions," International Workshop on Machine Learning for Soft Matter," International Workshop on Machine Learning for Soft Matter 2021, Feburary 10, 2021
-
-1. R. Seto, M. Doi, "Migration and jamming in pressure-driven flow of dense non-Brownian suspensions," International Congress on Rheology, Brazil (online), Dec 17, 2020
-
-1. G. Giusteri, R. Seto, "Shear jamming and fragility in a continuum model with unilateral constraints," the International Congress on Rheology, Brazil (online), Dec 17, 2020
-
-1. Z. Zhao, R. Seto, "Computational Predictions of Magnetorheology and Magnetization Dynamics of Frictional Magnetic Nanoparticle Suspension," the International Congress on Rheology, Brazil (online), Dec 14, 2020
-
-1. "Flowing and jammed dense suspensions", Annual meeting of The Physical Society of Japan, Kumamoto University, Kumamoto (Online), Japan, September 2020
-
-1. "Channel flows of colloidal suspensions with a Lubrication DEM-CFD method,"
-   Annual meeting of The Physical Society of Japan, Nagoya University, 
-   Nagoya, Japan, March 2020. cancelled to due COVID19
-
-1. "Migration and jamming in pressure-driven flow of dense non-Brownian suspensions,"
-Grand Views of Soft and Liquid Matter Physics, Tokyo, Japan, March 2020.
-   cancelled to due COVID19 
-
-1. "Channel-flow clogging of colloidal suspensions", 33th Molecular Simulation Discussion Meeting, Nagoya, Japan, December 11, 2019.
-
-1. "Normal stress differences in dense suspensions," Annual Meeting of the Japanese Society of Rheolgy, Fukuoka, Japan, October 2018 
-
-1. "On normal stress differences of dense suspensions," Annual meeting of The Physical Society of Japan, Doshisha University, Tanabe, Japan, September 2018.
-
-1. "Macroscopic flows of dense suspensions in wide-gap Couette cells---Migration and Shear Thickening," The 7th Pacific Rim Conference on Rheology, Jefu, Korea, June 2018 
-
-1. "Extensional versus shear rheologies for dense suspensions," Annual European Rheology Conference 2018, Sorrento, Italy, April 2018
-
-1. "Introduction of the General Rheology functions via stress decompositions with orthogonal tensor basis," Tottori Nonlinear Workshop, Tottori, Japan, December 2017
-
-1. "Extensional rheology of colloidal dispersions," Meeting of The Molecular Simulation Society of Japan, Kanajawa, Japan, October 2017
-
-1. "Toward fluid-mechanical approach for shear thickening dense suspensions," Annual Meeting of the Japanese Society of Rheolgy, Niigata, Japan, October 2017
-
-1. "A theoretical framework for steady-state rheometry in generic flow conditions," The Society of Rheology 89th Annual Meeting, Denver, USA, October 2017
-
-1. "Non-Newtonian fluid behavior of dense suspensions in simple shear and extensional flows," The Society of Rheology 89th Annual Meeting, Denver, USA, October 2017
-
-1. "Shear thickening and jamming transition under extensional flows," Annual meeting of The Physical Society of Japan, Iwate University, Morioka, Japan, September 2016.
-
-1. "Simulation model for dense suspension rheology: Stokesian-DEM," Mini-symposium on Rheology, Kashiwa, Japan, July 2017.
-
-1. "Particle dynamics of crystallization of magnetic colloids," Annual meeting of The Physical Society of Japan, Kanazawa University, Kanazawa, Japan, September 2016.
-
-1. "Grain boundary kinetics during crystallization in magnetic colloid monolayers," New Aspects of Micro- and Macroscopic Flows in Soft Matters, Onna, 
-Japan, August 2016.
-
-1. "Quasistatic Particle Simulations of Crystalization in Colloidal Monolayer Systems," Physically-Based Modeling of Polyatomic Gases and Phase Transitions, Onna, Japan, July 2016.
-
-1. "Magnetic binary colloidal monolayer subject to a cyclic external magnetic field and oscillatory shear," International Symposium on Rheology, Kobe, Japan, September 2015.
- 
-1. "Beyond friction: cohesion and interlocking in shear thickening of suspensions," Arrested Gels: Dynamics, Structure and Applications, Cambridge, UK, March 2015.
-
-1. "Particle-scale simulation of shear thickening in dense colloidal suspensions," Society of Rheology meeting, Philadelphia, Pennsylvania, USA, October 2014.
-
-1. "Dense suspension modeling and discontinuous shear thickening," 6th Pacific Rim Conference on Rheology, Melbourne, Australia, July 2014.
-
-1. "Shear thickening and friction in Brownian suspensions," 2nd Northeast Complex Fluids and Soft Matter Workshop, New York, USA, June 2014.
-
-1. "Does shear thickening go with structural transitions?," Geometric Structure in Anisotropic Materials, Ritsumeikan University, Japan, February 2014.
-
-1. "Discontinuous shear thickening as a dynamic jamming transition of frictional particles," GDR CNRS AMC2 Approches Multiphysiques pour les Colloïdes Concentrés, Séte, France, October 2013.
-
-1. "Discontinuous shear thickening—fluid dynamics or granular physics?," ASME Summer Meeting}, Brown University, USA, July 2013.
-
-1. "Compressive consolidation of strongly aggregated colloidal gels," Suspension Processing & Suspension Engineering Rheology, Cambridge, UK, September 2012.
-
-1. "Modeling of colloidal gels: rheology and contact forces," The 2nd Suspension Engineering Rheology workshop, Melbourne, Australia, November 2011.
-
-1. "Modeling of colloidal gels: rheology and contact forces," GDR CNRS AMC2 Approches Multiphysiques pour les Colloïdes Concentrés, Toulouse, France, October 2011.
-
-1. "Hydrodynamic stresses in colloidal aggregates under shear flow," UK Colloids, London, UK, July 2011.
-
-1. "Restructuring of colloidal aggregates in shear flow: Contact model and Stokesian Dynamics," GDR CNRS AMC2 Approches Multiphysiques pour les Colloïdes Concentrés, Annecy, France, December 2010.
-
-1. "Compaction of colloidal aggregates: modeling and simulation," Journées scientifiques du GDR 2980, Sorreze, France, July 2009.
-
-1. "Understanding the plastic deformation under uniform compression in 2D system," Journées scientifiques du GDR 2980, Carry le Rouet, France, June 2008.
-
-
