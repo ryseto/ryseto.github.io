@@ -30,7 +30,7 @@ permalink: /publications/
 
 1. [M. Hamamichi, K. Nagasawa, M. Okada, R. Seto, and Y. Yue, Non-Newtonian ViRheometry via similarity analysis, ACM Transactions on Graphics (TOG), 42 (6), 1--16, 2023.](https://dl.acm.org/doi/abs/10.1145/3618310)
 
-1. [Y. Jiang and R. Seto, Competing lengthscales in colloidal gelation with non-sticky particles, Nat. Commun., 14(1):2773, 2023.](https://doi.org/10.1038/s41467-023-38461-1) **Editors' Highlights** [(arXiv:2211.12978)](https://arxiv.org/abs/2211.12978)
+1. [Y. Jiang and R. Seto, Colloidal gelation with non-sticky particles, Nat. Commun., 14(1):2773, 2023.](https://doi.org/10.1038/s41467-023-38461-1) **Editors' Highlights** [(arXiv:2211.12978)](https://arxiv.org/abs/2211.12978)
 
 1. [A. N. Kato, Y. Jiang, W. Chen, R. Seto, and T. Li, How surface roughness affects the interparticle interactions at a liquid interface, J. Colloid Interface Sci., 641:492–498, 2023.](https://doi.org/10.1016/j.jcis.2023.03.041) [(arXiv:2209.02922)](https://arxiv.org/abs/2209.02922)
 
@@ -72,7 +72,7 @@ permalink: /publications/
 
    ##### 2016 ------------------------
 
-1. [A. T. Pham, R. Seto, J. Schönke, D. Y. Joh, A. Chilkoti, E. Fried, and B. B. Yellen. Crystallization kinetics of binary colloidal monolayers, Soft Matter, 12:7735–7746, 2016.](http://dx.doi.org/10.1039/C6SM01072E) [(arXiv:1605.05389)](https://arxiv.org/abs/1605.05389)
+1. [A. T. Pham, R. Seto, J. Schönke, D. Y. Joh, A. Chilkoti, E. Fried, and B. B. Yellen. Crystallization kinetics of binary colloidal monolayers. Soft Matter, 12:7735–7746, 2016.](http://dx.doi.org/10.1039/C6SM01072E) [(arXiv:1605.05389)](https://arxiv.org/abs/1605.05389)
 
    ##### 2015 ------------------------
 
@@ -83,7 +83,7 @@ permalink: /publications/
    ##### 2014 ------------------------
 
 
-1. [R. Mari, R. Seto, J. F. Morris, and M. M. Denn. Shear thickening, frictionless and frictional rheologies. J. Rheol., 58(6):1693–1724, 2014.](http://scitation.aip.org/content/sor/journal/jor2/58/6/10.1122/1.4890747) [**Society of Rheology Publication Award**](http://www-levich.engr.ccny.cuny.edu/sor2015.htm) [(arXiv:1403.6793)](https://arxiv.org/abs/1403.6793)
+1. [R. Mari, R. Seto, J. F. Morris, and M. M. Denn. Shear thickening, frictionless and frictional rheologies in non-Brownian suspensions. J. Rheol., 58(6):1693–1724, 2014.](http://scitation.aip.org/content/sor/journal/jor2/58/6/10.1122/1.4890747) [**Society of Rheology Publication Award**](http://www-levich.engr.ccny.cuny.edu/sor2015.htm) [(arXiv:1403.6793)](https://arxiv.org/abs/1403.6793)
 
    ##### 2013 ------------------------
 
