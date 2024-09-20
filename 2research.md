@@ -4,9 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-
-
-
 ### **Simulation and experiment for soft matter systems**
 
 We study the mechanical properties of functional soft materials using computer simulation. Our research focuses on the rheology of complex fluids. We develop simulations to capture mesoscale dynamics and microstructures in out-of-equilibrium conditions, such as flowing soft-matter or biological systems. One of our goals is to bring insights from soft matter physics to biomaterials sciences and living phenomena. We are also interested in investigating colloidal phenomena for medical applications.
@@ -54,9 +51,6 @@ We are working with ARES-G2 rheometor.
      alt="ARES-G2">
 </center>
 
-
-
-
 ## **Grants**
 
 **Ryohei SETO**
@@ -66,10 +60,12 @@ Computational rheology to investigate aging effects of composite materials
 - NSFC 面上项目 12174390 [2022--2025] \\
 New simulation scheme for migration and clogging of dense suspensions in channel flow
 
-**Yujie JIANG 蒋玉杰**
-- 博士后面上基金 2022M723114  [2022--2023]\\
-掺杂颗粒凝胶的动力学研究 (Gelation dynamics in gel-granular composites)
-
 **Zhongqiang XIONG 熊钟强**
 - NSFC 理论物理专款研究项目 (National Natural Science Foundation of China for Theoretical Physics research project) 12247174 [2022--2023] \\
 填充高分子流变本构模型 (Rheological Constitutive Models for Particles Filled Polymer)
+- NSFC 青年科学基金 (National Natural Science Foundation of China Youth Science Fund), 22403021 [2025--2027] \\
+滑环高分子耦合滑动动力学模型 (Sliding Coupling Dynamics model of Slide-Ring Polymers)
+
+**Yujie JIANG 蒋玉杰**
+- 博士后面上基金 2022M723114 [2022--2023]\\
+掺杂颗粒凝胶的动力学研究 (Gelation dynamics in gel-granular composites)
