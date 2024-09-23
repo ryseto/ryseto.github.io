@@ -13,8 +13,8 @@ permalink: /publications/
 
 ### Refereed articles in journals
 
-1. [Z. Xiong, R. Seto, and M. Doi, Bending-Rotation coupling in the viscoelasticity of semi-flexible polymers --- Rigorous perturbation analysis from the rod limit, Macromolecules, 2024.](https://doi.org/10.1021/acs.macromol.4c00532)
-[(arXiv:2403.05173)](http://arxiv.org/abs/2403.05173)
+1. [Z. Xiong, R. Seto, and M. Doi, Bending-Rotation coupling in the viscoelasticity of semi-flexible polymers --- Rigorous perturbation analysis from the rod limit, Macromolecules, 57(11):5289–5299, 2024](https://doi.org/10.1021/acs.macromol.4c00532)
+
 
 1. [Y. Ding, B. Wang, Q. Yang, Z. Zhao, S. Komura, R. Seto, M. Yang, and F. Ye. Odd response-induced phase separation of active spinners. Research, 7:0356, 2024.](https://doi.org/10.34133/research.0356) 
 
