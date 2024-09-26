@@ -94,7 +94,7 @@ averaged equations of motion", [十五届复杂流体流变学学术研讨会暨
 
 1. "濃厚懸濁液の非一様流動", [第1回ソフトマテリアル工学シミュレーション討論会(Soft Materials Engineering thru Computer Simulations), Kobe, Japan, March 9--10, 2023](https://www.arai.mech.keio.ac.jp/smecs/)
 
-1. "Migration and jamming in pressure-driven dense suspension flows", [CoMFoS22 Mathematical Aspects of Continuum Mechanics 2022 December 6-7, 2022](https://sites.google.com/view/comfos22/home) **Online Talk**
+1. "Migration and jamming in pressure-driven dense suspension flows", [CoMFoS22 Mathematical Aspects of Continuum Mechanics 2022, Japan, December 6-7, 2022](https://sites.google.com/view/comfos22/home) **Online Talk**
 
 1. "Flow and pressure of dense suspensions in pipes," 第十二届软物质与生命物质物理学术会, Wenzhou, China, October 28--31, 2022.
 
