@@ -18,6 +18,7 @@ permalink: /publications/
 
 1. [Y. Ding, B. Wang, Q. Yang, Z. Zhao, S. Komura, R. Seto, M. Yang, and F. Ye. Odd response-induced phase separation of active spinners. Research, 7:0356, 2024.](https://doi.org/10.34133/research.0356) 
 
+
 1. [S. Konidena, B. Vowinckel, R. Seto, K. A. Reddy, and A. Singh, Mechanism for axial pattern formation of concentrated suspension in a horizontal rotating cylinder, J. Fluid Mech. 985:A8, 2024.](https://doi.org/10.1017/jfm.2024.286)
 
 1. [Z. Liu, R. Seto, H. Zhang, B. Che, L. Liu, and L. Deng, Highly distinctive linear and nonlinear rheological behaviors of mucin-based protein solutions as simulated normal and asthmatic human airway mucus, Phys. Fluids, 2024.](https://doi.org/10.1063/5.0202508)
