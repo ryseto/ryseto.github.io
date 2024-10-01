@@ -6,17 +6,17 @@ permalink: /talks/
 
 ### Invited Talks and Keynotes at International Meetings
 
-1. "Constitutive modeling of dense suspensions", [Frontiers in Non-equilibrium Physics 2024, Kyoto, Japan, Jul. 1--Aug. 2, 2024.](https://www2.yukawa.kyoto-u.ac.jp/~frontier24/)
+1. "Constitutive modeling of dense suspensions," [Frontiers in Non-equilibrium Physics 2024, Kyoto, Japan, Jul. 1--Aug. 2, 2024.](https://www2.yukawa.kyoto-u.ac.jp/~frontier24/)
 
-1. "On constitutive models of dense particle suspensions", International Symposium on Soft Matter Science and Engineering, Guanzhou, Jun. 15--18, 2024
+1. "On constitutive models of dense particle suspensions," International Symposium on Soft Matter Science and Engineering, Guanzhou, Jun. 15--18, 2024
 
-1. "Normal stress and migration in pressure driven Àow of dense suspensions," [The 9th International Discussion Meeting on Relaxations in Complex Systems, Makuhari, Chiba, Japan, Aug. 12--18, 2023](https://9idmrcs.jp)
+1. "Normal stress and migration in pressure driven flow of dense suspensions," [The 9th International Discussion Meeting on Relaxations in Complex Systems, Makuhari, Chiba, Japan, Aug. 12--18, 2023](https://9idmrcs.jp)
 
-1. "Pressure-driven flows of frictional dense suspensions: migration, jammed plug, and diffusion", [EUROMECH Colloquium 622 "Suspension flows and rheology: inertia, shape and roughness matter", Chateau Valrose, Nice, France, Jun. 26--30, 2023](https://622.euromech.org)
+1. "Pressure-driven flows of frictional dense suspensions: migration, jammed plug, and diffusion," [EUROMECH Colloquium 622 "Suspension flows and rheology: inertia, shape and roughness matter," Chateau Valrose, Nice, France, Jun. 26--30, 2023](https://622.euromech.org)
 
-1. ["The physics and fluid mechanics of dense suspensions," 2020 International Workshop on "Soft Matter and Biophysics Theories"](https://indico.itp.ac.cn/event/35/overview), Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing, China, Nov. 5, 2020
+1. ["The physics and fluid mechanics of dense suspensions," 2020 International Workshop on "Soft Matter and Biophysics Theories,"](https://indico.itp.ac.cn/event/35/overview) Institute of Theoretical Physics, Chinese Academy of Sciences, Beijing, China, Nov. 5, 2020
 
-1. ["Pressure-driven flow and jamming of dense suspensions in channels," Virtual Symposium on "Physics of Dense Suspensions", Boston, USA, Jul. 2020](https://pdssymposium.sites.northeastern.edu) **Online Talk**
+1. ["Pressure-driven flow and jamming of dense suspensions in channels," Virtual Symposium on "Physics of Dense Suspensions," Boston, USA, Jul. 2020](https://pdssymposium.sites.northeastern.edu) **Online Talk**
 
 1. ["Shear jamming and rheology of dense suspensions," IUTAM Symposium on Dynamics of Complex Fluids and Interfaces, IIT Kanpur, India, Dec. 2018](http://www.iitk.ac.in/iutam/speaker.html)
 
@@ -81,10 +81,10 @@ permalink: /talks/
 
 ### Invited Talks at Domestic Meetings
 
-1. "On fluid mechanics of dense suspensions", M3Rheo2024 国际研讨会, Hangzhou, China, Aug. 31--Sept 1, 2024
+1. "On fluid mechanics of dense suspensions," M3Rheo2024 国际研讨会, Hangzhou, China, Aug. 31--Sept 1, 2024
 
 1. "A simulation scheme for dense suspension flows with locally
-averaged equations of motion", [十五届复杂流体流变学学术研讨会暨流变学讲习班 (The 15th Complex Fluid Rheology Symposium and Rheology Workshop), Guangzhou, China, Dec. 6--11, 2023](https://rheology2023.scimeeting.cn/cn/web/index/19983_)
+averaged equations of motion," [十五届复杂流体流变学学术研讨会暨流变学讲习班 (The 15th Complex Fluid Rheology Symposium and Rheology Workshop), Guangzhou, China, Dec. 6--11, 2023](https://rheology2023.scimeeting.cn/cn/web/index/19983_)
 
 1. **Short course lecture** "Rheology of Suspensions," [十五届复杂流体流变学学术研讨会暨流变学讲习班 (The 15th Complex Fluid Rheology Symposium and Rheology Workshop), Guangzhou, China, Dec. 6--11, 2023](https://rheology2023.scimeeting.cn/cn/web/index/19983_)
 
@@ -92,9 +92,9 @@ averaged equations of motion", [十五届复杂流体流变学学术研讨会暨
 
 1. "Migration in inhomogeneous flow of dense suspensions," 2023 Symposium on Theoretical Calculation and Simulation of Soft Matter, Chinese Chemical Society, Changchun, China, April 14--17, 2023.
 
-1. "濃厚懸濁液の非一様流動", [第1回ソフトマテリアル工学シミュレーション討論会(Soft Materials Engineering thru Computer Simulations), Kobe, Japan, March 9--10, 2023](https://www.arai.mech.keio.ac.jp/smecs/)
+1. "濃厚懸濁液の非一様流動," [第1回ソフトマテリアル工学シミュレーション討論会(Soft Materials Engineering thru Computer Simulations), Kobe, Japan, March 9--10, 2023](https://www.arai.mech.keio.ac.jp/smecs/)
 
-1. "Migration and jamming in pressure-driven dense suspension flows", [CoMFoS22 Mathematical Aspects of Continuum Mechanics 2022, Japan, December 6-7, 2022](https://sites.google.com/view/comfos22/home) **Online Talk**
+1. "Migration and jamming in pressure-driven dense suspension flows," [CoMFoS22 Mathematical Aspects of Continuum Mechanics 2022, Japan, December 6-7, 2022](https://sites.google.com/view/comfos22/home) **Online Talk**
 
 1. "Flow and pressure of dense suspensions in pipes," 第十二届软物质与生命物质物理学术会, Wenzhou, China, October 28--31, 2022.
 
