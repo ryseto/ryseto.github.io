@@ -6,7 +6,7 @@ permalink: /Members/
 
 |[![Seto](/assets/img/Seto2.png)](/profile/)| [Ryohei SETO 濑户亮平](/profile/) <br> PI Researcher (Professor) <br> [seto@wiucas.ac.cn](mailto:seto@wiucas.ac.cn) |
 |[![Zhiwei](/assets/img/Zhiwei.jpeg)](https://www.researchgate.net/profile/Zhiwei-Liu-49)| [Zhiwei LIU 刘志伟](https://www.researchgate.net/profile/Zhiwei-Liu-49) <br> Assistant Researcher  <br> [zhiweiliu@ucas.ac.cn](mailto:zhiweiliu@ucas.ac.cn) |
-|[![Zhongqiang](/assets/img/Zhongqiang.jpeg)](https://www.researchgate.net/profile/Zhongqiang-Xiong) | [Zhongqiang XIONG 熊钟强](https://www.researchgate.net/profile/Zhongqiang-Xiong) <br> Postdoc <br> [zhongqiangxiong@ucas.ac.cn](mailto:zhongqiangxiong@ucas.ac.cn) |
+|[![Zhongqiang](/assets/img/Zhongqiang.jpeg)](https://www.researchgate.net/profile/Zhongqiang-Xiong) | [Zhongqiang XIONG 熊钟强](https://www.researchgate.net/profile/Zhongqiang-Xiong) <br> Associate Researcher <br> [zhongqiangxiong@ucas.ac.cn](mailto:zhongqiangxiong@ucas.ac.cn) |
 |[![Boyi](/assets/img/Boyi.jpeg)](https://www.researchgate.net/profile/Boyi-Wang-4) | [Boyi WANG](https://www.researchgate.net/profile/Boyi-Wang-4) <br> Ph. D student <br> Institute of Physics, CAS |
 
 
