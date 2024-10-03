@@ -193,6 +193,8 @@ Japan, August 2016.
 
 ### Seminars
 
+1. "Pressure driven flow of dense suspensions: pressure, normal stress, and migration," Hong Kong University of Science and Technology, June 13, 2023.
+
 1. "Nonuniform flows of dense suspensions," Osaka University, February 20, 2023.
 
 1. "Channel flows of colloidal suspensions," Xiamen University, April 29, 2021.
