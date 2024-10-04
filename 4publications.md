@@ -22,9 +22,12 @@ Numerical Simulations of Spatiotemporal Instabilities in Discontinuous Shear Thi
   <li><a href="https://doi.org/10.1021/acs.macromol.4c00532">
 Z. Xiong, R. Seto, and M. Doi, Bending-Rotation coupling in the viscoelasticity of semi-flexible polymers --- Rigorous perturbation analysis from the rod limit, Macromolecules, 57(11):5289–5299, 2024</a></li>
 
-  <li><a href="https://doi.org/10.34133/research.0356">Y. Ding, B. Wang, Q. Yang, Z. Zhao, S. Komura, R. Seto, M. Yang, and F. Ye. Odd response-induced phase separation of active spinners. Research, 7:0356, 2024.</a></li>
+  <li><a href="https://doi.org/10.34133/research.0356">Y. Ding, B. Wang, Q. Yang, Z. Zhao, S. Komura, R. Seto, M. Yang, and F. Ye, Odd response-induced phase separation of active spinners. Research, 7:0356, 2024.</a></li>
+  
   <li><a href="https://doi.org/10.1017/jfm.2024.286">S. Konidena, B. Vowinckel, R. Seto, K. A. Reddy, and A. Singh, Mechanism for axial pattern formation of concentrated suspension in a horizontal rotating cylinder, J. Fluid Mech. 985:A8, 2024.</a></li>
+  
   <li><a href="https://doi.org/10.1063/5.0202508">Z. Liu, R. Seto, H. Zhang, B. Che, L. Liu, and L. Deng, Highly distinctive linear and nonlinear rheological behaviors of mucin-based protein solutions as simulated normal and asthmatic human airway mucus, Phys. Fluids, 2024.</a></li>
+  
   <li><a href="https://doi.org/10.1063/5.0188444">P. Angerman, S. P. Kumar, B. Sandnes, R. Seto, and M. Ellero, Microstructural smoothed particle hydrodynamics model and simulations of discontinuous shear-thickening fluids, Phys. Fluids, 36(3):033103, 2024.</a> <strong>Featured Articles</strong> <a href="https://arxiv.org/abs/2311.13759">(arXiv:2311.13759)</a></li>
   
   <li><a href="https://pubs.aip.org/aip/pof/article/36/2/024111/3262480/Ridge-instability-in-dense-suspensions-caused-by?searchresult=1">Z. Xiong, P. Angerman, M. Ellero, B. Sandnes, and R. Seto, Ridge instability in dense suspensions caused by the second normal stress difference, Phys. Fluids, 36(2), 2024.</a> <strong>Editor's Picks</strong> <a href="https://arxiv.org/abs/2311.11201">(arXiv:2311.11201)</a></li>
@@ -71,23 +74,23 @@ Z. Xiong, R. Seto, and M. Doi, Bending-Rotation coupling in the viscoelasticity 
   
   <li><a href="http://scitation.aip.org/content/sor/journal/jor2/58/6/10.1122/1.4890747">R. Mari, R. Seto, J. F. Morris, and M. M. Denn. Shear thickening, frictionless and frictional rheologies in non-Brownian suspensions. J. Rheol., 58(6):1693–1724, 2014.</a> <a href="http://www-levich.engr.ccny.cuny.edu/sor2015.htm"><strong>Society of Rheology Publication Award</strong></a> <a href="https://arxiv.org/abs/1403.6793">(arXiv:1403.6793)</a></li>
   
-  <li><a href="http://prl.aps.org/abstract/PRL/v111/i21/e218301">R. Seto, R. Mari, J. F. Morris, and M. M. Denn. Discontinuous shear thickening of frictional hard-sphere suspensions. Phys. Rev. Lett., 111:218301, 2013.</a> <strong>Editors’ Suggestion</strong> and <a href="https://physics.aps.org/articles/v6/125"><strong>Physics Viewpoint</strong></a> <a href="https://arxiv.org/abs/1306.5985">(arXiv:1306.5985)</a></li>
+  <li><a href="http://doi.org/10.1103/PhysRevLett.111.218301">R. Seto, R. Mari, J. F. Morris, and M. M. Denn. Discontinuous shear thickening of frictional hard-sphere suspensions. Phys. Rev. Lett., 111:218301, 2013.</a> <strong>Editors’ Suggestion</strong> and <a href="https://physics.aps.org/articles/v6/125"><strong>Physics Viewpoint</strong></a> <a href="https://arxiv.org/abs/1306.5985">(arXiv:1306.5985)</a></li>
   
-  <li><a href="http://journalofrheology.org/resource/1/jorhd2/v57/i5/p1347_s1">R. Seto, R. Botet, M. Meireles, G. K. Auernhammer, and B. Cabane. Compressive consolidation of strongly aggregated particle gels. J. Rheol., 57(5):1347–1366, 2013.</a> <a href="https://arxiv.org/abs/1301.4464">(arXiv:1301.4464)</a></li>
+  <li><a href="http://doi.org/10.1122/1.4817436">R. Seto, R. Botet, M. Meireles, G. K. Auernhammer, and B. Cabane. Compressive consolidation of strongly aggregated particle gels. J. Rheol., 57(5):1347–1366, 2013.</a> <a href="https://arxiv.org/abs/1301.4464">(arXiv:1301.4464)</a></li>
   
-  <li><a href="http://www.sciencedirect.com/science/article/pii/S0045793013002764">E. Schlauch, M. Ernst, R. Seto, H. Briesen, M. Sommerfeld, and M. Behr. Comparison of three simulation methods for colloidal aggregates in stokes flow: Finite Elements, Lattice Boltzmann and Stokesian Dynamics. Computers & Fluids, 86:199–209, 2013.</a></li>
+  <li><a href="http://doi.org/10.1016/j.compfluid.2013.07.005">E. Schlauch, M. Ernst, R. Seto, H. Briesen, M. Sommerfeld, and M. Behr. Comparison of three simulation methods for colloidal aggregates in stokes flow: Finite Elements, Lattice Boltzmann and Stokesian Dynamics. Computers & Fluids, 86:199–209, 2013.</a></li>
   
-  <li><a href="http://link.springer.com/article/10.1007/s10035-012-0383-7">J. Wenzl, R. Seto, M. Roth, H.-J. Butt, and G. K. Auernhammer, Measurement of rotation of cohesive spherical granulates, Granul. Matter, 15(4):391–400, 2013.</a></li>
+  <li><a href="http://doi.org/10.1007/s10035-012-0383-7">J. Wenzl, R. Seto, M. Roth, H.-J. Butt, and G. K. Auernhammer, Measurement of rotation of cohesive spherical granulates, Granul. Matter, 15(4):391–400, 2013.</a></li>
   
-  <li><a href="http://dx.doi.org/10.1140/epje/i2012-12128-4">R. Seto, R. Botet, G. K. Auernhammer, and H. Briesen, Restructuring of colloidal aggregates in shear flow: Coupling interparticle contact models with Stokesian Dynamics, Eur. Phys. J. E, 35: 128, 2012.</a> <a href="https://arxiv.org/abs/1204.5680">(arXiv:1204.5680)</a></li>
+  <li><a href="http://doi.org/10.1140/epje/i2012-12128-4">R. Seto, R. Botet, G. K. Auernhammer, and H. Briesen, Restructuring of colloidal aggregates in shear flow: Coupling interparticle contact models with Stokesian Dynamics, Eur. Phys. J. E, 35: 128, 2012.</a> <a href="https://arxiv.org/abs/1204.5680">(arXiv:1204.5680)</a></li>
   
   <li><a href="http://doi.org/10.1007/978-3-642-28974-3_15">R. Seto, R. Botet, and H. Briesen, Viscosity of rigid and breakable aggregate suspensions---Stokesian dynamics for rigid aggregates, In: Starov, V., Griffiths, P. (eds) UK Colloids 2011. Prog. Colloid Polym. Sci., 139. Springer, Berlin, Heidelberg.</a></li>
   
-  <li><a href="https://dx.doi.org/10.1103/PhysRevE.84.041405">R. Seto, R. Botet, and H. Briesen. Hydrodynamic stress on small colloidal aggregates in shear flow using stokesian dynamics. Phys. Rev. E, 84:041405, 2011.</a></li>
+  <li><a href="https://doi.org/10.1103/PhysRevE.84.041405">R. Seto, R. Botet, and H. Briesen. Hydrodynamic stress on small colloidal aggregates in shear flow using stokesian dynamics. Phys. Rev. E, 84:041405, 2011.</a></li>
   
-  <li><a href="https://dx.doi.org/10.1143/PTP.122.1347">T. Hyouguchi, R. Seto, and S. Adachi, Overlooked Degree of Freedom in Steepest Descent Method --- Steepest Descent Method Corresponding to Divergence-Free WKB Method, Prog. Theor. Phys., 122, 1347–1376, 2009.</a></li>
-  
-  <li><a href="https://dx.doi.org/10.1143/PTP.122.1311">T. Hyouguchi, R. Seto, and S. Adachi, Overlooked branch cut in steepest descent method --- Switching line and atomic domain, Prog. of Theor. Phys., 122, 1311–1346, 2009.</a></li>
+  <li><a href="https://doi.org/10.1143/PTP.122.1347">T. Hyouguchi, R. Seto, and S. Adachi, Overlooked Degree of Freedom in Steepest Descent Method --- Steepest Descent Method Corresponding to Divergence-Free WKB Method, Prog. Theor. Phys., 122, 1347–1376, 2009.</a></li>
+
+  <li><a href="https://doi.org/10.1143/PTP.122.1311">T. Hyouguchi, R. Seto, and S. Adachi, Overlooked branch cut in steepest descent method --- Switching line and atomic domain, Prog. of Theor. Phys., 122, 1311–1346, 2009.</a></li>
   
   <li><a href="http://doi.org/10.1063/1.2897806">R. Botet, B. Cabane, M. Clifton, M. Meireles, and R. Seto. How a colloidal paste flows--scaling behaviors in dispersions of aggregated particles under mechanical stress. 5th Int. Workshop on Complex Systems, AIP Conf. Proc., 982, 320--325, 2008.</a></li>
   
@@ -97,11 +100,11 @@ Z. Xiong, R. Seto, and M. Doi, Bending-Rotation coupling in the viscoelasticity 
   
   <li><a href="http://doi.org/10.1142/9789812772879_0053">R. Seto, H. Kuratsuji, and R. Botet, Nonlinear oscillation of the Stokes parameters in birefringent media, Topology in ordered phases: Proc. 1st Int. Symposium on Top 2005, World Scientific, 327--331, 2006.</a></li>
   
-  <li><a href="http://link.aps.org/doi/10.1103/PhysRevB.73.012508">R. Seto, R. Botet, and H. Kuratsuji, Excess conductivity of high-Tc superconductor thin ﬁlms: Role of smooth doping disorder, Phys. Rev. B 73, 012508, 2006.</a></li>
+  <li><a href="http://doi.org/10.1103/PhysRevB.73.012508">R. Seto, R. Botet, and H. Kuratsuji, Excess conductivity of high-Tc superconductor thin ﬁlms: Role of smooth doping disorder, Phys. Rev. B 73, 012508, 2006.</a></li>
   
-  <li><a href="http://www.iop.org/EJ/abstract/0295-5075/71/5/751">R. Seto, H. Kuratsuji, and R. Botet, Resonant oscillations of the Stokes parameters in non-linear twisted birefringent media, Europhys. Letters. Vol.71, No.5, 751–756, 2005.</a></li>
+  <li><a href="http://doi.org/10.1209/epl/i2005-10146-7">R. Seto, H. Kuratsuji, and R. Botet, Resonant oscillations of the Stokes parameters in non-linear twisted birefringent media, Europhys. Letters. Vol.71, No.5, 751–756, 2005.</a></li>
   
-  <li><a href="http://dx.doi.org/10.1016/j.aop.2004.01.005">T. Hyouguchi, R. Seto, M. Ueda, and S. Adachi, Divergence-free WKB method, Ann. Phys., 312, 177–267, 2004.</a></li>
+  <li><a href="http://doi.org/10.1016/j.aop.2004.01.005">T. Hyouguchi, R. Seto, M. Ueda, and S. Adachi, Divergence-free WKB method, Ann. Phys., 312, 177–267, 2004.</a></li>
   
 </ol>
 
