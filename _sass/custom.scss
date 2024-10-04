@@ -1,0 +1,23 @@
+.navbar {
+    padding-top: 0.5rem; /* 上部の余白を調整 */
+    padding-bottom: 0.5rem; /* 下部の余白を調整 */
+}
+
+.navbar-brand {
+    margin-bottom: 0.5rem; /* タイトル部分の下の余白を調整 */
+}
+
+
+
+.year-divider {
+    text-align: center;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+.year-divider hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    margin: 5px 0;
+}
