@@ -83,7 +83,7 @@ permalink: /talks/
 ### Invited Talks at Domestic Meetings
 
 
-<ol reversed start="25">
+<ol reversed start="27">
   <li>"摩擦粒子懸濁液の流体モデルについて", <a href="https://www.cis.kit.ac.jp/~phys/ISSP_glass_2024.html">東京大学物性研短期研究会—ガラスに関連する分野の最先端研究, Kashiwa, Oct. 30-Nov. 1, 2024</a></li>
 
 
