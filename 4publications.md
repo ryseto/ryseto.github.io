@@ -13,12 +13,16 @@ permalink: /publications/
 - P. Angerman, B. Sandnes, R. Seto, M. Ellero,
 Numerical Simulations of Spatiotemporal Instabilities in Discontinuous Shear Thickening Fluids [(arXiv:2408.08285)](https://arxiv.org/abs/2408.08285)
 
-- Y. Jiang, Y. Cui, Y. Li, Z. Liu, C. Ness, and R. Seto, Filled Colloidal Gel Rheology: Strengthening, Stiffening, and Tunability [(arXiv:2311.08751)](https://arxiv.org/abs/2311.08751) 
 
 
 ### Articles in journals
 
-<ol reversed start="43">
+<ol reversed start="44">
+
+<li><a href="https://arxiv.org/abs/2311.08751">
+Y. Jiang, Y. Cui, Y. Li, Z. Liu, C. Ness, and R. Seto, Filled Colloidal Gel Rheology: Strengthening, Stiffening, and Tunability, J. Rheol., accepted, 2024.</a></li>
+
+
   <li><a href="https://doi.org/10.1021/acs.macromol.4c00532">
 Z. Xiong, R. Seto, and M. Doi, Bending-Rotation coupling in the viscoelasticity of semi-flexible polymers --- Rigorous perturbation analysis from the rod limit, Macromolecules, 57(11):5289–5299, 2024</a></li>
 
