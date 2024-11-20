@@ -7,7 +7,7 @@ permalink: /profile/
 ![Ryohei Seto](/assets/img/Seto2.png)
 
 - Ryohei Seto, PI (Professor), International Excellent Young Scientist, Wenzhou Talent Program
-  - [Wenzhou Institute, University of Chinese Academy of Sciences](http://english.wiucas.ac.cn) [2019--]
+  - [Wenzhou Institute, University of Chinese Academy of Sciences](https://wiucas.ac.cn/en/) [2019--]
   - Oujiang Laboratory (Zhejiang Lab for Regenerative Medicine, Vision and Brain Health) [2022--]
   - Research Fellow, Institute of industrial Science, University of Tokyo [2024--]
   - Visiting Professor, [The Graduate School of Information Science, University of Hyogo](http://www.simulation-studies.org) [2020--]
