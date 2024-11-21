@@ -83,7 +83,7 @@ permalink: /talks/
 ### Invited Talks at Domestic Meetings
 
 
-<ol reversed start="27">
+<ol reversed start="28">
   <li>"摩擦粒子懸濁液の流体モデルについて", <a href="https://www.cis.kit.ac.jp/~phys/ISSP_glass_2024.html">東京大学物性研短期研究会—ガラスに関連する分野の最先端研究, Kashiwa, Oct. 30-Nov. 1, 2024</a></li>
 
 
@@ -91,7 +91,11 @@ permalink: /talks/
 <a href="https://www.sakurai-lab-kitakyushu.com/program-2">Cutting-Edge in Soft Matter Science 2024, Kitakyushu, Oct. 30-31, 2024</a></li>
 
   <li>"On fluid mechanics of dense suspensions," M3Rheo2024 国际研讨会, Hangzhou, China, Aug. 31–Sept 1, 2024</li>
-  
+
+
+  <li>"Simulation scheme for particle suspension flows with locally-averaged equations", Workshop on Viscoelastic Flow Dynamics: from Theory to Mechanisms, TSIMF, Sanya, China, Jan. 7-13, 2024</li>
+
+
   <li>"A simulation scheme for dense suspension flows with locally averaged equations of motion," <a href="https://rheology2023.scimeeting.cn/cn/web/index/19983_">十五届复杂流体流变学学术研讨会暨流变学讲习班 (The 15th Complex Fluid Rheology Symposium and Rheology Workshop), Guangzhou, China, Dec. 6–11, 2023</a></li>
   
   <li><strong>Short course lecture</strong> "Rheology of Suspensions," <a href="https://rheology2023.scimeeting.cn/cn/web/index/19983_">十五届复杂流体流变学学术研讨会暨流变学讲习班 (The 15th Complex Fluid Rheology Symposium and Rheology Workshop), Guangzhou, China, Dec. 6–11, 2023</a></li>
