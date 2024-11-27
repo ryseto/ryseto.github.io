@@ -44,7 +44,7 @@ Z. Xiong, R. Seto, and M. Doi, Bending-Rotation coupling in the viscoelasticity 
   
   <li><a href="https://doi.org/10.1016/j.jcis.2023.03.041">A. N. Kato, Y. Jiang, W. Chen, R. Seto, and T. Li, How surface roughness affects the interparticle interactions at a liquid interface, J. Colloid Interface Sci., 641:492–498, 2023.</a> <a href="https://arxiv.org/abs/2209.02922">(arXiv:2209.02922)</a></li>
   
-  <li><a href="https://www.frontiersin.org/articles/10.3389/fphy.2022.951465/abstract">Z. Zhao, M. Yang, S. Komura, and R. Seto, Odd viscosity in chiral passive suspensions, Front. Phys. (Lausanne), 10, 2022.</a> <a href="https://arxiv.org/abs/2205.11881">(arXiv:2205.11881)</a></li>
+  <li><a href="https://www.frontiersin.org/articles/10.3389/fphy.2022.951465/abstract">Z. Zhao, M. Yang, S. Komura, and R. Seto, Odd viscosity in chiral passive suspensions, Front. Phys. (Lausanne), 10:951465, 2022.</a> <a href="https://arxiv.org/abs/2205.11881">(arXiv:2205.11881)</a></li>
   
   <li><a href="https://doi.org/10.1146/annurev-conmatphys-031620-105938">C. Ness, R. Seto, and R. Mari, The physics of dense suspensions, Annu. Rev. Condens. Matter Phys., 13(1):97–117, 2022.</a> <a href="https://arxiv.org/abs/2105.04162">(arXiv:2105.04162)</a></li>
   
