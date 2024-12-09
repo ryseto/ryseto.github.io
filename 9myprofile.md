@@ -55,7 +55,6 @@ Dr. Ryohei Seto is a computational physicist with broad experience in soft mater
 濑户博士在剪切增稠的研究领域成就突出（剪切增稠现象为在较高的应力下流体变得更粘稠），论文被广泛引用，对该领域有巨大影响。其中，一篇论文获得2015年流变学会奖。
 濑户博士积极活跃在软物质理论领域，被多个国际会议和研讨会邀请并作邀请报告。
 
-
 ### Grants
 
 - NSFC-RFIS II (外国学者研究基金项目, 外国优秀青年学者) 12150610463 [2022--2023]
@@ -65,11 +64,6 @@ Dr. Ryohei Seto is a computational physicist with broad experience in soft mater
 - JSPS KAKENHI, Grant-in-Aid for Scientific Research (C) 17K05618 [2017--2019]
   - Discontinued (Fiscal Year 2018)
   - Rheology and flow simulation of shear thickening suspensions
-
-### Workshop
-
-- [Workshop on Soft Matter Rheology, Wenzhou, Dec 4th 2024.](/assets/img/Workshop_on_Soft_Matter_Rheology.jpg)
-
 
 
 ### Misc
