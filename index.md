@@ -22,7 +22,7 @@ Welcome to the Rheophysics of Soft Matter group at [Wenzhou Institute, Universit
 
 #### News
 
-- 2024.12 Organizing [**Workshop on Soft Matter Rheology**](/assets/img/Workshop_on_Soft_Matter_Rheology.jpg) at Wenzhou on Dec 4th 2024.
+- 2024.12 Organizing [**Workshop on Soft Matter Rheology**](/workshops/) at Wenzhou on Dec 4th 2024.
 - 2024.11 [**Our paper on Filled Colloidal Gel Rheology** has been accepted by Journal of Rheology.](https://arxiv.org/abs/2311.08751)
 - 2024.5 [**Our semiflexible rod rheology paper** has been published by Macromolecules.](https://doi.org/10.1021/acs.macromol.4c00532)
 - 2024.4 Joint Research and Exchange Arrangement between [**Laboratoire Interdisciplinaire de Physique (Grenoble)**](https://liphy.univ-grenoble-alpes.fr/en) and WIUCAS.
