@@ -66,6 +66,12 @@ Dr. Ryohei Seto is a computational physicist with broad experience in soft mater
   - Discontinued (Fiscal Year 2018)
   - Rheology and flow simulation of shear thickening suspensions
 
+### Workshop
+
+- [Workshop on Soft Matter Rheology, Wenzhou, Dec 4th 2024.](/assets/img/Workshop_on_Soft_Matter_Rheology.jpg)
+
+
+
 ### Misc
 - [Scientific American](https://www.scientificamerican.com/article/friction-makes-cornstarch-and-water-into-bizarre-oobleck/)
 - [Physics World](http://physicsworld.com/cws/article/news/2013/nov/25/model-explains-why-liquid-suspensions-suddenly-turn-solid)

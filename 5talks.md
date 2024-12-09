@@ -191,7 +191,6 @@ permalink: /talks/
 </ol>
 
 
-
 ### Seminars
 
 <ol reversed start="37">
