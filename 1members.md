@@ -7,15 +7,20 @@ permalink: /Members/
 |[![Seto](/assets/img/Seto2.png)](/profile/)| [Ryohei SETO 濑户亮平](/profile/) <br> PI Researcher (Professor) <br> [seto@wiucas.ac.cn](mailto:seto@wiucas.ac.cn) |
 |[![Zhiwei](/assets/img/Zhiwei.jpeg)](https://www.researchgate.net/profile/Zhiwei-Liu-49)| [Zhiwei LIU 刘志伟](https://www.researchgate.net/profile/Zhiwei-Liu-49) <br> Assistant Researcher  <br> [zhiweiliu@ucas.ac.cn](mailto:zhiweiliu@ucas.ac.cn) |
 |[![Zhongqiang](/assets/img/Zhongqiang.jpeg)](https://www.researchgate.net/profile/Zhongqiang-Xiong) | [Zhongqiang XIONG 熊钟强](https://www.researchgate.net/profile/Zhongqiang-Xiong) <br> Associate Researcher <br> [zhongqiangxiong@ucas.ac.cn](mailto:zhongqiangxiong@ucas.ac.cn) |
-|[![Boyi](/assets/img/Boyi.jpeg)](https://www.researchgate.net/profile/Boyi-Wang-4) | [Boyi WANG](https://www.researchgate.net/profile/Boyi-Wang-4) <br> Ph. D student <br> Institute of Physics, CAS |
+
 
 
 ### Group Alumni
 
+|[![Boyi](/assets/img/Boyi.jpeg)](https://www.researchgate.net/profile/Boyi-Wang-4) | [Boyi WANG](https://www.researchgate.net/profile/Boyi-Wang-4) <br> visiting Ph. D student (2020--2024) <br> Institute of Physics, CAS  <br> Current position: |
 |![Yujie](/assets/img/Yujie.jpeg)| [Yujie JIANG 蒋玉杰](https://scholar.google.com/citations?user=8d1fMNwAAAAJ) <br> Postdoc (2022--2024) <br> Current position: <br> Lecturer at School of Mathematics and Physics, <br> University of Science and Technology Beijing <br> (讲师 数理学院，北京科技大学) |
 |[![Yankai Li](/assets/img/Yankai.jpeg)](https://scholar.google.com/citations?user=zYSDLm4AAAAJ&hl=en) | [Yankai LI 李彦凯<br> Visiting Fellow (2023), University of Edinburgh](https://scholar.google.com/citations?user=zYSDLm4AAAAJ&hl=en) <br> Current position: <br> CFD engineer at SiCarrier (新凯来) |
 |![Yang](/assets/img/YangCui.jpeg) | Yang CUI 崔阳 <br> Visiting Fellow (2023), University of Edinburgh <br> Current position: <br> senior simulation engineer, CATL  <br> (高级仿真工程师, 宁德时代) |
 |[![Zhiyuan](/assets/img/Zhiyuan.jpeg)](https://www.researchgate.net/profile/Zhiyuan_Zhao11)| [Zhiyuan ZHAO 赵志远](https://scholar.google.com/citations?hl=fr&user=e4Z56nQAAAAJ&view_op=list_works&sortby=pubdate) <br> Postdoc (2020--2022) <br> Current position: <br> Associate Researcher, <br> Masao Doi group at WIUCS <br> (土井正男组，国科温州研究院)|
+
+
+
+
 
 
 ### Collaborators
