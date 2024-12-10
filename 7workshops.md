@@ -9,5 +9,6 @@ permalink: /workshops/
 - Location: Wenzhou institute, UCAS (Wenzhou city)
 - Date: December 4th, 2024
 - Invited speakers: Yuichi Masubuchi, Wei Yu, Jiajia Zhou, Takashi Uneyama, Takato Ishida, and Yusuke Koide.
-- [**program**](/assets/img/Workshop_on_Soft_Matter_Rheology.jpg)
-- [**group photo**](/assets/img/photo_WenzhouRheologyWorkshop.jpg)
+- [**Program website**](https://www.wiucas.ac.cn/lectures/2024/2054.html)
+  ([**image**](/assets/img/Workshop_on_Soft_Matter_Rheology.jpg))
+- [**Group photo**](/assets/img/photo_WenzhouRheologyWorkshop.jpg)
