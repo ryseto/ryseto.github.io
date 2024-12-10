@@ -32,7 +32,6 @@ Dr. Ryohei Seto is a distinguished physicist specializing in the science of soft
 - Address 
   - No.1 Jinlian Road, Longwan District, Wenzhou, Zhejiang, 325001, China
   - 浙江省温州市龙湾区金联路1号 (邮编 325001)
-- [Running](8running.md)
 - Academic ID
   - [ORCID: 0000-0002-4099-034X](http://orcid.org/0000-0002-4099-034X)
   - [ResearcherID: E-3275-2014](http://www.researcherid.com/rid/E-3275-2014)
