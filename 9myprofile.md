@@ -28,12 +28,12 @@ Dr. Ryohei Seto is a distinguished physicist specializing in the science of soft
   - 東京大学 生産技術研究所 リサーチフェロー [2024--]
   - [兵庫県立大学大学院 シミュレーション学研究科](http://www.simulation-studies.org) 客員教授 [2020--]
 
-- [Publication list](4publications.md)
 - [CV (PDF file)](https://ryseto.github.io/assets/pdf/CV_Seto.pdf)
 - [email address](mailto:seto@wiucas.ac.cn)
 - Address 
   - No.1 Jinlian Road, Longwan District, Wenzhou, Zhejiang, 325001, China
   - 浙江省温州市龙湾区金联路1号 (邮编 325001)
+- [Publication list](4publications.md)  
 - Academic ID
   - [ORCID: 0000-0002-4099-034X](http://orcid.org/0000-0002-4099-034X)
   - [ResearcherID: E-3275-2014](http://www.researcherid.com/rid/E-3275-2014)
@@ -56,7 +56,6 @@ Onna, Japan (Prof. Eliot Fried)
 - 2008--2009 Postdoctoral Researcher, Laboratoire de Genie Chimique, Université Paul Sabatier, Toulouse, France (Prof. Martine Meireles)
 - 2006--2008 Postdoctoral Researcher, Laboratoire de Physique des Solides, Université Paris-Sud 11, Orsay, France (Prof. Robert Botet)
 - 2006      Dr. of Science in Physics  Ritsumeikan University, Japan (Prof. Hiroshi Kuratsuji)
-
 
 ### Grants
 
