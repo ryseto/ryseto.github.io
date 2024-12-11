@@ -17,15 +17,15 @@ Dr. Ryohei Seto is a distinguished physicist specializing in the science of soft
 ### Profile
 
 - Ryohei Seto, PI (Professor), International Excellent Young Scientist, Wenzhou Talent Program
-  - [Wenzhou Institute, University of Chinese Academy of Sciences](https://wiucas.ac.cn/en/) [2019--]
-  - Oujiang Laboratory (Zhejiang Lab for Regenerative Medicine, Vision and Brain Health) [2022--]
-  - Research Fellow, Institute of industrial Science, University of Tokyo [2024--]
-  - Visiting Professor, [The Graduate School of Information Science, University of Hyogo](http://www.simulation-studies.org) [2020--]
+  - [Wenzhou Institute, University of Chinese Academy of Sciences](https://wiucas.ac.cn/en/)
+  - Oujiang Laboratory (Zhejiang Lab for Regenerative Medicine, Vision and Brain Health) 
+  - Research Fellow, Institute of industrial Science, University of Tokyo 
+  - Visiting Professor, [The Graduate School of Information Science, University of Hyogo](http://www.simulation-studies.org) 
 
 - 瀬戸亮平 課題組長（研究员/教授） 外国优秀青年学者, 温州市海外精英引進計画
-  - [国科温州研究院](http://www.wiucas.ac.cn) [2019--]
-  - 瓯江実験室瓯江实验室（再生调控与眼脑健康浙江省实验室）[2022--]
-  - 東京大学 生産技術研究所 リサーチフェロー [2024--]
+  - [国科温州研究院](http://www.wiucas.ac.cn) 
+  - 瓯江実験室瓯江实验室（再生调控与眼脑健康浙江省实验室）
+  - 東京大学 生産技術研究所 リサーチフェロー 
   - [兵庫県立大学大学院 シミュレーション学研究科](http://www.simulation-studies.org) 客員教授 [2020--]
 
 - [CV (PDF file)](https://ryseto.github.io/assets/pdf/CV_Seto.pdf)
