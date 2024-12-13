@@ -8,7 +8,7 @@ permalink: /running/
 
 - This year in progress  
   - Jan. 122km; Feb. 102km; Mar. 129km; Apr. 94km; May 113km; Jun. 143km;  
-  Jul. 79km; Aug. 99km; Sep. 130km; Oct. 98km; 
+  Jul. 79km; Aug. 99km; Sep. 130km; Oct. 98km; Nov. 104km
   
 - Total distance to 2023 --- 15838.7 km   
   - 2023 --- 715km
