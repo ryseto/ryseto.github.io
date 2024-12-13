@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: https://ryseto.github.io/
+    url: /
   - title: "Members"
     url: /Members/
   - title: "Research"
