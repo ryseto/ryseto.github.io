@@ -3,8 +3,7 @@ source "https://rubygems.org"
 # Minimal Mistakesテーマを使用
 gem "minimal-mistakes-jekyll"
 
-# Jekyllの基本設定
-gem "jekyll", "~> 3.9"
+gem 'github-pages', group: :jekyll_plugins
 
 # 必要なプラグイン
 gem "jekyll-feed"
