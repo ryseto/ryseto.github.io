@@ -1,17 +1,21 @@
-- name: Members
-  link: /Members/
-- name: Research
-  link: /research/
-- name: Publications
-  link: /publications/
-- name: Talks
-  link: /talks/
-- name: Workshops
-  link: /workshops/
-- name: Join Us
-  link: /JoinUs/
-- name: Run
-  link: /running/
-- name: Profile
-  link: /profile/
-  
+# main links
+main:
+  - title: "Seto group"
+    url: https://ryseto.github.io/
+  - title: "Members"
+    url: /Members/
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Talks"
+    url: /talks/
+  - title: "Workshops"
+    url: /workshops/
+  - title: "Join Us"
+    url: /JoinUs/
+  - title: "Run"
+    url: /running/
+  - title: "Profile"
+    url: /profile/
+
