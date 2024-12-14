@@ -41,6 +41,7 @@ Dr. Ryohei Seto is a distinguished physicist specializing in the science of soft
   - [KAKEN: 90791575](https://nrid.nii.ac.jp/nrid/1000090791575/)
   - [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
   - [ResearchGate](https://www.researchgate.net/profile/Ryohei_Seto)
+- [Running records](8running.md)
 
 ### Work history
 - 2024--present Research Fellow, Institute of industrial Science, University of Tokyo

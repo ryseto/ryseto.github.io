@@ -12,10 +12,6 @@ main:
     url: /talks/
   - title: "Workshops"
     url: /workshops/
-  - title: "Join Us"
-    url: /JoinUs/
-  - title: "Run"
-    url: /running/
   - title: "Profile"
     url: /profile/
 
