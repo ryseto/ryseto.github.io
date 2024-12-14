@@ -1,0 +1,12 @@
+.site-navigation {
+    background-color: #3498db; /* ナビゲーションバーの背景色 */
+    color: #ffffff;           /* ナビゲーションのテキスト色 */
+}
+
+.site-navigation a {
+    color: #ffffff;           /* リンクのテキスト色 */
+}
+
+.site-navigation a:hover {
+    color: #ffcc00;           /* ホバー時のリンク色 */
+}

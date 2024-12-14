@@ -165,6 +165,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - assets/css/custom.css
 exclude:
   - minimal-mistakes/CHANGELOG.md
   - "*.sublime-project"
