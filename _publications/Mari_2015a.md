@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "Nonmonotonic flow curves of shear thickening suspensions"
 authors: "Romain Mari, Ryohei Seto, Jeffrey F. Morris, Morton M. Denn"
 year: 2015

@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "Divergence-free WKB theory"
 authors: "Tadanori Hyouguchi, Ryohei Seto, Masahito Ueda, Satoshi Adachi"
 year: 2004

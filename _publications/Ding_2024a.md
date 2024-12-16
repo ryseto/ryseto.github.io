@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "Odd Response-Induced Phase Separation of Active Spinners"
 authors: "Yu Ding, Boyi Wang, Qing Yang, Zhiyuan Zhao, Shigeyuki Komura, Ryohei Seto, Mingcheng Yang, Fangfu Ye"
 year: 2024

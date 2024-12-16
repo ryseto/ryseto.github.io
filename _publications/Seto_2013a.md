@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "Discontinuous shear thickening of frictional hard-sphere suspensions"
 authors: "Ryohei Seto, Romain Mari, Jeffrey F. Morris, Morton M. Denn"
 year: 2013

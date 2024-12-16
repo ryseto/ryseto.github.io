@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "Overlooked Degree of Freedom in Steepest Descent Method---Steepest Descent Method Corresponding to Divergence-Free WKB Method"
 authors: "Tadanori Hyouguchi, Ryohei Seto, Satoshi Adachi"
 year: 2009

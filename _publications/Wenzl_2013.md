@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "Measurement of rotation of individual spherical particles in cohesive granulates"
 authors: "Jennifer Wenzl, Ryohei Seto, Marcel Roth, Hans-J{\"u}rgen Butt, G{\"u}nter K. Auernhammer"
 year: 2013

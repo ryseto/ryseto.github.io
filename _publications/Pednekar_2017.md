@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "Simulation of shear thickening in attractive colloidal suspensions"
 authors: "Sidhant Pednekar, Jaehun Chun, Jeffrey F. Morris"
 year: 2017

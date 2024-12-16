@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "Simulating the Restructuring of Colloidal Aggregates"
 authors: "Vincent B{\"u}rger, Eva Schlauch, Volker Becker, Ryohei Seto, Marek Behr, Heiko Briesen"
 year: 2015

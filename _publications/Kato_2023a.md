@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "How surface roughness affects the interparticle interactions at a liquid interface"
 authors: "Airi N. Kato, Yujie Jiang, Wei Chen, Ryohei Seto, Tao Li"
 year: 2023

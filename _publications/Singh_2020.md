@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "Shear Thickening and Jamming of Dense Suspensions: The ``Roll'' of Friction"
 authors: "Christopher and Ness, Ryohei Seto, Juan J. de Pablo, Heinrich M. Jaeger"
 year: 2020

@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "Electromagnetic Gyration: Hamiltonian Dynamics of the Stokes Parameters"
 authors: "Hiroshi Kuratsuji, Robert Botet, Ryohei Seto"
 year: 2007

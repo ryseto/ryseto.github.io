@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "Non-Newtonian ViRheometry via Similarity Analysis"
 authors: "Mitsuki Hamamichi, Kentaro Nagasawa, Masato Okada, Ryohei Seto, Yonghao Yue"
 year: 2023

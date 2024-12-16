@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "Novel Aspects of Evolution of the Stokes Parameters for an Electromagnetic Wave in Anisotropic Media"
 authors: "Robert Botet, Hiroshi Kuratsuji, Ryohei Seto"
 year: 2006

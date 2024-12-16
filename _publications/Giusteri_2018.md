@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "A theoretical framework for steady-state rheometry in generic flow conditions"
 authors: "Giulio G. Giusteri, Ryohei Seto"
 year: 2018

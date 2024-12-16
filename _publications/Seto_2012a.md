@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "Viscosity of rigid and breakable aggregate suspensions: Stokesian Dynamics for rigid aggregates"
 authors: "R. Seto, R. Botet, H. Briesen"
 year: 2012

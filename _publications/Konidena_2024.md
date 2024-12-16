@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "Mechanism for axial pattern formation of concentrated suspension in a horizontal rotating cylinder"
 authors: "Sudarshan Konidena, Bernhard Vowinckel, Ryohei Seto, K. Anki Reddy, Anugrah Singh"
 year: 2024

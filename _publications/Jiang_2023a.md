@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "Filled Colloidal Gel Rheology: Strengthening, Softening, and Tuneability"
 authors: "Yujie Jiang, Yang Cui, Yankai Li, Zhiwei Liu, Christopher Ness, Ryohei Seto"
 year: 2023

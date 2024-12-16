@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "Microstructural smoothed particle hydrodynamics model and simulations of discontinuous shear-thickening fluids"
 authors: "Peter Angerman, Sagaya S. Prasanna Kumar, Ryohei Seto, Bjornar Sandnes, Marco Ellero"
 year: 2024

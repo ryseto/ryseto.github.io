@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "Mixing Sauces: A Viscosity Blending Model for Shear Thinning Fluids"
 authors: "Kentaro Nagasawa, Takayuki Suzuki, Ryohei Seto, Masato Okada, Yonghao Yue"
 year: 2019

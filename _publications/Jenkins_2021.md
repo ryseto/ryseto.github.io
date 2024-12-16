@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "Predictions of microstructure and stress in planar extensional flows of a dense viscous suspension"
 authors: "James T. Jenkins, Ryohei Seto, Luigi La Ragione"
 year: 2021

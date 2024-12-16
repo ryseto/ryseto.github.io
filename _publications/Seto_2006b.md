@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "Nonlinear oscillations of the Stokes parameters in birefringent media"
 authors: "Ryohei Seto, Hiroshi Kuratsuji, Robert Botet"
 year: 2006

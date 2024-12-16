@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "Overlooked Branch Cut in Steepest Descent Method---Switching Line and Atomic Domain"
 authors: "Tadanori Hyouguchi, Ryohei Seto, Satoshi Adachi"
 year: 2009

@@ -1,4 +1,5 @@
 ---
+layout: publication
 title: "Colloidal gelation with non-sticky particles"
 authors: "Yujie Jiang, Ryohei Seto"
 year: 2023
