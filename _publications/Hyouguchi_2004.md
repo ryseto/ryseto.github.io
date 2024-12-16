@@ -6,6 +6,6 @@ year: 2004
 journal: "Ann. Phys."
 volume: 312
 issue: 1
-pages: "177--267"
+pages: "177––267"
 jurl: "http://www.sciencedirect.com/science/article/pii/S0003491604000259"
 ---

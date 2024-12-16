@@ -6,6 +6,6 @@ year: 2007
 journal: "Prog. Theor. Phys."
 volume: 117
 issue: 2
-pages: "195--217"
+pages: "195–217"
 jurl: "http://ptp.oxfordjournals.org/content/117/2/195.abstract"
 ---
