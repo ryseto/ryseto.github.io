@@ -7,5 +7,5 @@ journal: "J. Rheol."
 volume: 69
 issue: 
 pages: ""
-jurl: "https://arxiv.org/pdf/2311.08751.pdf"
+jurl: "https://arxiv.org/abs/2311.08751"
 ---
