@@ -328,5 +328,5 @@ defaults:
 
 collections:
   publications:
-    output: true
-    permalink: /:collection/:name/
+    output: false
+    permalink: /publications/:name/
