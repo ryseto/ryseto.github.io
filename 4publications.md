@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /publications/
+permalink: /publications_backup/
 ---
 
 - [Google scholar profile](https://scholar.google.co.jp/citations?hl=ja&user=0V-BankAAAAJ)
