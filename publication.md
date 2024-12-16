@@ -15,8 +15,8 @@ permalink: /publications/
     {% if pub.journal %}
       <em>{{ pub.journal }}</em>
       {% if pub.volume %}, Vol. {{ pub.volume }}{% endif %}
-      {% if pub.issue %}, ({{ pub.issue }}){% endif %}
-      {% if pub.pages %}, pp. {{ pub.pages }}{% endif %}
+      {% if pub.issue %}({{ pub.issue }}){% endif %}
+      {% if pub.pages and pub.pages != "" %}, {{ pub.pages }}{% endif %}
       , {{ pub.year }}
       {% if pub.jurl %}
         <br><a href="{{ pub.jurl }}" target="_blank" class="btn btn-primary">Journal</a>

@@ -5,7 +5,7 @@ authors: "Yu Ding, Boyi Wang, Qing Yang, Zhiyuan Zhao, Shigeyuki Komura, Ryohei 
 year: 2024
 journal: "Research"
 volume: 7
-issue: No issue
+issue: 
 pages: "0356"
 jurl: "https://doi.org/10.34133/research.0356"
 ---

@@ -5,7 +5,7 @@ authors: "Eva Schlauch, Martin Ernst, Ryohei Seto, Heiko Briesen, Martin Sommerf
 year: 2013
 journal: "Comput. Fluids"
 volume: 86
-issue: No issue
+issue: 
 pages: "199--209"
 jurl: "http://www.sciencedirect.com/science/article/pii/S0045793013002764"
 ---
