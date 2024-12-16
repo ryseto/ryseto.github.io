@@ -7,5 +7,5 @@ journal: "Macromolecules"
 volume: 57
 issue: 11
 pages: "5289--5299"
-url: "https://doi.org/10.1021/acs.macromol.4c00532"
+jurl: "https://doi.org/10.1021/acs.macromol.4c00532"
 ---

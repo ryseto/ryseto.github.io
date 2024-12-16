@@ -7,5 +7,5 @@ journal: "Ann. Phys."
 volume: 312
 issue: 1
 pages: "177--267"
-url: "http://www.sciencedirect.com/science/article/pii/S0003491604000259"
+jurl: "http://www.sciencedirect.com/science/article/pii/S0003491604000259"
 ---

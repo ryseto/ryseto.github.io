@@ -7,5 +7,5 @@ journal: "Research"
 volume: 7
 issue: No issue
 pages: "0356"
-url: "https://doi.org/10.34133/research.0356"
+jurl: "https://doi.org/10.34133/research.0356"
 ---

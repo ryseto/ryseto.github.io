@@ -7,5 +7,5 @@ journal: "J. Colloid Interface Sci."
 volume: 641
 issue: No issue
 pages: "492--498"
-url: "https://www.sciencedirect.com/science/article/pii/S0021979723004009"
+jurl: "https://www.sciencedirect.com/science/article/pii/S0021979723004009"
 ---

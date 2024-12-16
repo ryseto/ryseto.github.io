@@ -7,5 +7,5 @@ journal: "Phys. Rev. Lett."
 volume: 127
 issue: No issue
 pages: "138001"
-url: "https://link.aps.org/doi/10.1103/PhysRevLett.127.138001"
+jurl: "https://link.aps.org/doi/10.1103/PhysRevLett.127.138001"
 ---

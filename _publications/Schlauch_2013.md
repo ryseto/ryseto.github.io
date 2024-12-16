@@ -7,5 +7,5 @@ journal: "Comput. Fluids"
 volume: 86
 issue: No issue
 pages: "199--209"
-url: "http://www.sciencedirect.com/science/article/pii/S0045793013002764"
+jurl: "http://www.sciencedirect.com/science/article/pii/S0045793013002764"
 ---

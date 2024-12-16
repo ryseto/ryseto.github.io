@@ -7,5 +7,5 @@ journal: "Soft Matter"
 volume: 13
 issue: No issue
 pages: "1773-1779"
-url: "http://dx.doi.org/10.1039/C6SM02553F"
+jurl: "http://dx.doi.org/10.1039/C6SM02553F"
 ---

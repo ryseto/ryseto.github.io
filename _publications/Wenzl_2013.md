@@ -7,5 +7,5 @@ journal: "Granul. Matter"
 volume: 15
 issue: 4
 pages: "391--400"
-url: "http://dx.doi.org/10.1007/s10035-012-0383-7"
+jurl: "http://dx.doi.org/10.1007/s10035-012-0383-7"
 ---

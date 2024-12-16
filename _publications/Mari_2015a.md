@@ -7,5 +7,5 @@ journal: "Phys. Rev. E"
 volume: 91
 issue: No issue
 pages: "052302"
-url: "http://link.aps.org/doi/10.1103/PhysRevE.91.052302"
+jurl: "http://link.aps.org/doi/10.1103/PhysRevE.91.052302"
 ---

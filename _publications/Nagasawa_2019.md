@@ -7,5 +7,5 @@ journal: "ACM Trans. Graph."
 volume: 38
 issue: 4
 pages: "95"
-url: "http://doi.acm.org/10.1145/3306346.3322947"
+jurl: "http://doi.acm.org/10.1145/3306346.3322947"
 ---

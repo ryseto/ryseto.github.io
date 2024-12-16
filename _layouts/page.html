@@ -1,10 +1,16 @@
 ---
-layout: default
+layout: archive
 ---
 
-<div>
-  <h1>{{ page.title }}</h1>
-  <div class="content">
-    {{ content }}
-  </div>
+{{ content }}
+
+
+
+
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include documents-collection.html entries=posts type=entries_layout %}
 </div>
+
+{% include paginator.html %}

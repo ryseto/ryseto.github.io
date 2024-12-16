@@ -7,5 +7,5 @@ journal: "ACM Trans. Graph."
 volume: 42
 issue: 6
 pages: "193"
-url: "https://doi.org/10.1145/3618310"
+jurl: "https://doi.org/10.1145/3618310"
 ---

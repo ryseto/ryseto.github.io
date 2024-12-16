@@ -7,5 +7,5 @@ journal: "Prog. Theor. Phys."
 volume: 116
 issue: 2
 pages: "285--294"
-url: "http://ptp.oxfordjournals.org/content/116/2/285.abstract"
+jurl: "http://ptp.oxfordjournals.org/content/116/2/285.abstract"
 ---

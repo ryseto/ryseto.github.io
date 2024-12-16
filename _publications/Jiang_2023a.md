@@ -7,5 +7,5 @@ journal: "No journal"
 volume: No volume
 issue: No issue
 pages: "No pages"
-url: "https://arxiv.org/pdf/2311.08751.pdf"
+jurl: "https://arxiv.org/pdf/2311.08751.pdf"
 ---

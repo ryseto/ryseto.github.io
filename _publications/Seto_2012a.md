@@ -7,5 +7,5 @@ journal: "Prog. Colloid Polym. Sci."
 volume: 139
 issue: No issue
 pages: "85--90"
-url: "http://dx.doi.org/10.1007/978-3-642-28974-3_15"
+jurl: "http://dx.doi.org/10.1007/978-3-642-28974-3_15"
 ---

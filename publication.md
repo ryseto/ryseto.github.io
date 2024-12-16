@@ -18,8 +18,8 @@ permalink: /publications/
       {% if pub.issue %}, ({{ pub.issue }}){% endif %}
       {% if pub.pages %}, pp. {{ pub.pages }}{% endif %}
       , {{ pub.year }}
-      {% if pub.url %}
-        <br><a href="{{ pub.url }}" target="_blank" class="btn btn-primary">Journal</a>
+      {% if pub.jurl %}
+        <br><a href="{{ pub.jurl }}" target="_blank" class="btn btn-primary">Journal</a>
       {% endif %}
     {% else %}
       {{ pub.year }}

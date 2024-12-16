@@ -7,5 +7,5 @@ journal: "J. Rheol."
 volume: 62
 issue: 3
 pages: "713--723"
-url: "https://doi.org/10.1122/1.4986840"
+jurl: "https://doi.org/10.1122/1.4986840"
 ---

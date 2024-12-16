@@ -7,5 +7,5 @@ journal: "Prog. Theor. Phys."
 volume: 122
 issue: 6
 pages: "1311--1346"
-url: "+ http://dx.doi.org/10.1143/PTP.122.1311"
+jurl: "+ http://dx.doi.org/10.1143/PTP.122.1311"
 ---

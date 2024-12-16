@@ -7,5 +7,5 @@ journal: "Nat. Commun."
 volume: 14
 issue: 1
 pages: "2773"
-url: "https://doi.org/10.1038/s41467-023-38461-1"
+jurl: "https://doi.org/10.1038/s41467-023-38461-1"
 ---
