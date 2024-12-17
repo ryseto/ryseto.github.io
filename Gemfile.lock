@@ -334,7 +334,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-feed
   jekyll-multiple-languages-plugin
   jekyll-paginate
   jekyll-seo-tag

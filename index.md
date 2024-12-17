@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: Seto group @ WIUCAS
+title: Seto group
 ---
 
 Welcome to the Rheophysics of Soft Matter group at [Wenzhou Institute, University of Chinese Academy of Sciences](https://wiucas.ac.cn/en/)

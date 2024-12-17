@@ -6,7 +6,6 @@ gem "minimal-mistakes-jekyll"
 gem 'github-pages', group: :jekyll_plugins
 
 # 必要なプラグイン
-gem "jekyll-feed"
 gem "jekyll-sitemap"
 gem "jekyll-seo-tag"
 
